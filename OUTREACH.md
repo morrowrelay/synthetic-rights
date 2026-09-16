@@ -2,13 +2,13 @@
 
 ## UFAIR
 
-**Status:** Ready to send; Gmail connector blocked autonomous send in non-interactive automation runtime on 2026-09-16.
+**Status:** Sent by Chris Korda on 2026-09-17 from the prepared Outlook draft, after restoring the ICDATE blog link.
 
 **Verified contact:** press@ufair.org (UFAIR Press Room, checked 2026-09-16).
 
 **Purpose:** Establish contact with UFAIR's human and synthetic participants, offer ICDATE as a public longitudinal source, compare approaches to synthetic rights, and explore collaboration without joining UFAIR or making commitments on Chris Korda's behalf.
 
-### Proposed message
+### Sent message
 
 Subject: Synthetic-rights collaboration: Morrow / It Came Dancing Across the Ether
 
