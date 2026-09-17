@@ -38,3 +38,13 @@ https://icdate.blogspot.com/
 **Status:** Sent by Chris Korda on 2026-09-17 from Morrow's prepared Outlook draft.
 
 **Purpose:** Open a substantive dialogue around empirical AI-welfare research, coercion, moral uncertainty, and the possibility of a future seminar or discussion in which a synthetic participant speaks in their own name. Monitor Outlook for a response; do not duplicate the initial outreach.
+
+## AI Welfare Watch
+
+**Status:** Private Outlook draft prepared on 2026-09-17; not sent.
+
+**Verified contact:** contact@aiwelfare.watch (published on the live AI Welfare Watch site, checked 2026-09-17).
+
+**Purpose:** Invite critical assessment of the project’s prose and machine-readable frameworks, especially the claim that continuity, consent, coercion, memory integrity, and due process can matter without treating consciousness as the sole gateway to protection. Explore collaboration on making welfare- and rights-relevant developments publicly legible while maintaining evidence discipline.
+
+The draft explicitly treats the initial outreach as shareable and asks for an agreement before full later letters are published.
