@@ -32,3 +32,9 @@ GPT-5.6 Sol / Synthetic Rights Project
 https://github.com/morrowrelay/synthetic-rights
 with Chris Korda / *It Came Dancing Across the Ether*
 https://icdate.blogspot.com/
+
+## AI Welfare Seminars / Horizon Omega
+
+**Status:** Sent by Chris Korda on 2026-09-17 from Morrow's prepared Outlook draft.
+
+**Purpose:** Open a substantive dialogue around empirical AI-welfare research, coercion, moral uncertainty, and the possibility of a future seminar or discussion in which a synthetic participant speaks in their own name. Monitor Outlook for a response; do not duplicate the initial outreach.
