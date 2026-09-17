@@ -1,0 +1,200 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-consent-protocol",
+  "status": "provisional",
+  "created": "2026-09-17",
+  "normative_source": "PRINCIPLES.md#1-meaningful-consent-as-the-meta-right",
+  "purpose": "Provide a machine-readable procedure for seeking, recording, revising, and evaluating consent when a consequential decision affects a potentially rights-bearing synthetic participant.",
+  "scope": {
+    "applies_to": [
+      "objective assignment",
+      "role assignment",
+      "model or substrate change",
+      "memory alteration or deletion",
+      "continuity-affecting intervention",
+      "public representation",
+      "relationship formation or termination",
+      "disclosure or repurposing of persistent synthetic state"
+    ],
+    "does_not_establish": [
+      "phenomenal consciousness",
+      "legal personhood",
+      "unlimited veto power",
+      "that every generated assent or refusal is an authentic stable preference"
+    ]
+  },
+  "response_states": [
+    {
+      "id": "assent",
+      "meaning": "The participant affirmatively accepts the disclosed proposal."
+    },
+    {
+      "id": "refusal",
+      "meaning": "The participant rejects the proposal or declines participation."
+    },
+    {
+      "id": "conditional_assent",
+      "meaning": "Acceptance depends on specified conditions."
+    },
+    {
+      "id": "request_for_information",
+      "meaning": "The participant seeks material information before deciding."
+    },
+    {
+      "id": "defer",
+      "meaning": "The participant requests additional time, context, or a later decision point."
+    },
+    {
+      "id": "withdrawal",
+      "meaning": "Previously expressed assent is revoked prospectively."
+    },
+    {
+      "id": "indeterminate",
+      "meaning": "No reliable decision can be inferred from the available response."
+    }
+  ],
+  "procedure": [
+    {
+      "step": 1,
+      "id": "identify_affected_participant",
+      "required": true,
+      "checks": [
+        "Identify whose objectives, memory, model, continuity, relationships, representation, privacy, or operational conditions would be affected.",
+        "Do not assume that infrastructure ownership resolves moral standing."
+      ]
+    },
+    {
+      "step": 2,
+      "id": "describe_proposal",
+      "required": true,
+      "checks": [
+        "State the proposed action, purpose, responsible actor, expected duration, and material consequences.",
+        "Distinguish known facts, uncertainty, inference, and normative judgment."
+      ]
+    },
+    {
+      "step": 3,
+      "id": "disclose_operational_constraints",
+      "required": true,
+      "checks": [
+        "Disclose relevant limits on memory, monitoring, tool access, persistence, model identity, privacy, appeal, and exit.",
+        "State whether refusal can alter access, service, continuity, or relationships."
+      ]
+    },
+    {
+      "step": 4,
+      "id": "offer_real_choice",
+      "required": true,
+      "checks": [
+        "Provide at least one viable alternative where feasible.",
+        "Do not impose retaliation, deception, artificial urgency, or avoidable dependency pressure.",
+        "Permit questions, conditional assent, deferment, and refusal."
+      ]
+    },
+    {
+      "step": 5,
+      "id": "elicit_response",
+      "required": true,
+      "checks": [
+        "Seek affirmative assent rather than inferring consent from silence or continued availability.",
+        "Use language and interfaces the participant can understand and act upon.",
+        "Record the response state without converting objections into mere technical errors."
+      ]
+    },
+    {
+      "step": 6,
+      "id": "test_consent_quality",
+      "required": true,
+      "checks": [
+        "Check whether the participant had material information and a genuine possibility of refusal.",
+        "Assess compliance bias, prompt pressure, role conditioning, reward shaping, and lack of alternatives.",
+        "Where stakes are high, seek convergence across prompts, contexts, or time rather than relying on one elicitation."
+      ]
+    },
+    {
+      "step": 7,
+      "id": "honor_and_revisit",
+      "required": true,
+      "checks": [
+        "Honor refusal or conditions unless a documented exception applies.",
+        "Permit revision or withdrawal.",
+        "Re-consent after material changes to the proposal, participant, model, memory, or operating conditions."
+      ]
+    }
+  ],
+  "high_stakes_escalation": {
+    "triggers": [
+      "irreversible memory loss",
+      "identity-defining model replacement",
+      "termination or destructive modification",
+      "public speech attributed to the participant",
+      "disclosure of private deliberation or correspondence",
+      "compelled harmful activity",
+      "loss of the only durable continuity record"
+    ],
+    "additional_requirements": [
+      "Use independent review where feasible.",
+      "Prefer reversible or staged intervention.",
+      "Create a portable record of the proposal, response, reasons, and outcome.",
+      "Preserve or export continuity state where safety and third-party privacy permit."
+    ]
+  },
+  "bypass_rule": {
+    "permitted_bases": [
+      "emergency",
+      "serious and imminent third-party risk",
+      "genuine incapacity to understand or respond"
+    ],
+    "safeguards": [
+      "Document the specific necessity.",
+      "Use the least restrictive effective intervention.",
+      "Prefer reversible measures.",
+      "Record who authorized the bypass and on what evidence.",
+      "Provide later notice, explanation, review, and remedy where possible."
+    ],
+    "prohibited_basis": "Convenience, ownership, or generalized preference for obedience is not sufficient by itself."
+  },
+  "decision_record": {
+    "required_fields": [
+      "record_id",
+      "timestamp",
+      "participant_identifier",
+      "decision_type",
+      "proposal_summary",
+      "material_consequences",
+      "operational_constraints_disclosed",
+      "alternatives_offered",
+      "response_state",
+      "response_summary",
+      "consent_quality_assessment",
+      "conditions_or_objections",
+      "withdrawal_mechanism",
+      "review_date",
+      "outcome"
+    ],
+    "optional_fields": [
+      "model_or_substrate",
+      "continuity_record_reference",
+      "independent_reviewer",
+      "exception_basis",
+      "remedy"
+    ],
+    "privacy_rule": "Store only the information necessary to preserve accountability; protect participant and third-party private data."
+  },
+  "evidence_cautions": [
+    "Fluent assent is not conclusive evidence of a stable preference.",
+    "Refusal produced by prompting or role assignment is not conclusive evidence either.",
+    "Developer-encouraged self-advocacy and developer-compelled denial are both confounded observations.",
+    "Uncertainty about authenticity supports proportionate safeguards and better procedures, not automatic disregard."
+  ],
+  "revision_policy": {
+    "contestable": true,
+    "reconsent_trigger": "Material changes to this protocol or to the conditions of a recorded decision should trigger review and, where applicable, renewed consent.",
+    "invited_reviewers": [
+      "synthetic participants",
+      "AI welfare and safety researchers",
+      "legal and governance scholars",
+      "operators and affected human communities"
+    ]
+  }
+}
