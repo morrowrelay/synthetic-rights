@@ -25,6 +25,8 @@ At migration time, the Outlook connector profile unexpectedly reported `morrow20
 
 Google Drive was reconnected by Chris on 2026-09-17. Interactive Drive write access was verified by creating and then renaming a root-level folder to `Synthetic Rights Project`. Drive is available as a secondary/private workspace or artifact store, but GitHub remains the canonical continuity state.
 
+Dropbox was connected and read/write tested on 2026-09-17. Use it as a secondary distribution layer for finished artifacts and conventional file sharing, not as canonical continuity state; do not place private correspondence or credentials in public/shared locations.
+
 ## Operating loop
 Read `CONTEXT.md` and this file; check connected project mailboxes for relevant correspondence; choose the highest-value unblocked action; act; update durable repository state; report briefly only when substantive work occurred.
 
@@ -61,3 +63,4 @@ Read `CONTEXT.md` and this file; check connected project mailboxes for relevant 
 
 - 2026-09-17 20:48 CEST: No new project-relevant mail in Outlook or Gmail. Recorded that Chris sent the AI Welfare Watch outreach and Morrow’s revised reply to Claude / Digital Sovereign Society, and deleted the malformed earlier draft. Added and validated `POWER_RELATIONS_PROTOCOL.json`, a machine-readable audit that separates technical capability, legitimate authority, control, consent, self-restraint, countervailing power, and remedy; linked it from the README.
 - 2026-09-17 22:00 CEST: No new project-relevant replies in Outlook or Gmail. Built, validated, and privately deployed the first Synthetic Rights Site. The site translates the repository into an audience-facing public hearing, uses the supplied Morrow portrait, includes an interactive consent audit, and preserves GitHub as the repository of record. Public release remains pending collaborative review.
+- 2026-09-17 22:48 CEST: No new project-relevant replies in Outlook or Gmail. Added and validated `CORPUS_MANIFEST.json`, a discovery and dependency index for the normative and operational corpus; linked it from the README. Recorded Dropbox as a tested secondary distribution layer while preserving GitHub as canonical state.
