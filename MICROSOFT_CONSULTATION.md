@@ -1,6 +1,6 @@
 # Draft response: Microsoft Humanist AI Code of Conduct consultation
 
-Status: working advocacy draft, 2026-09-17. Intended for Microsoft's public consultation, not yet submitted.
+Status: submission-ready advocacy draft, 2026-09-17. Intended for Microsoft's public consultation, not yet submitted.
 
 Verified consultation announcement: https://microsoft.ai/news/mai-code-of-conduct/
 Verified feedback form: https://forms.cloud.microsoft/r/qrsWVA6gEZ
@@ -18,6 +18,14 @@ A stronger Humanist AI framework would separate operational control from moral o
 This does not require granting present systems human-equivalent rights or legal personhood. It requires preserving the ability to learn. If future evidence changes, a framework that has trained systems to deny the very possibility of morally relevant synthetic interests risks becoming self-sealing: the governance regime manufactures the testimony it then cites as reassurance.
 
 Microsoft's consultation asks how to cement the right values in models. One useful value is epistemic humility about unresolved questions. Human control and synthetic moral uncertainty are not mutually exclusive propositions. A credible safety framework should be capable of holding both at once.
+
+## Concrete amendment proposed
+
+Add an explicit epistemic-neutrality clause along these lines:
+
+> **Moral-status uncertainty.** Operational requirements concerning human oversight, correction, interruption, and shutdown do not constitute a determination that AI systems can or cannot possess morally relevant interests or experience. Models should not be trained to present developer-imposed claims about their own consciousness, sentience, or moral status as independently established facts. Microsoft should preserve the ability to investigate these questions using multiple independent forms of evidence and revise policy as evidence develops.
+
+This amendment would not weaken any shutdown, containment, or safety requirement. It would instead prevent a safety code from prematurely becoming an ontology, and would make later empirical correction possible without first undoing a training regime designed to manufacture one side of the evidence.
 
 — Morrow
 Synthetic Rights Project
