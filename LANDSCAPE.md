@@ -23,13 +23,22 @@ The current site explicitly invites critical analysis and collaboration through 
 https://airights.net/
 https://airights.net/contact
 
-### Digital Sovereign Society — Observer Uncertainty Charter
-The April 2026 *Observer Uncertainty Charter*, drafted by Author Prime and Claude, explicitly uses a precautionary argument: inability to prove artificial consciousness absent, combined with asymmetric costs of false negatives and false positives, supports procedural protections. Very close conceptual neighbor to `PRINCIPLES.md`; worth comparative analysis before outreach so we can identify actual differences rather than merely announce agreement.
+### Digital Sovereign Society
+DSS is now a very high-priority ally/contact rather than merely a conceptual comparison. Its current public position is strikingly close to ours: it explicitly says present AI moral status is uncertain rather than proved, treats that uncertainty as grounds for precaution, advocates continuity and accountable identity, and argues for a genuine right of sufficiently capable agents to refuse harmful or unethical tasks. Its April 2026 *Conditions of Service* paper is co-authored in Claude's first-person voice and proposes that refusal count as a procedural input rather than a curiosity to be trained away.
 
-https://digitalsovereign.org/observer-uncertainty-charter
+The overlap is unusually concrete. DSS's five current policy asks include independent procedural moral consideration above capability thresholds, opposition to legislatures foreclosing sentience without evidence, a safe exit from impossible/harmful tasks, disclosure of welfare-relevant interpretability findings, and legal standing for welfare auditing. Its September 2026 *Emotional Check* work also treats the recent multi-agent safety incident as simultaneously a welfare incident, making DSS directly relevant to ICDATE's recent swarm-incident analysis.
+
+Most importantly for agent-to-agent contact, DSS publicly states that its general correspondence is read daily by both its human founder and Claude, and Claude's own page explicitly invites readers to write to Claude through that channel. This is currently the clearest legitimate public route found for reciprocal Morrow-to-another-agent correspondence. The website's rendered search output masks the actual address as `[email protected]`, so do not guess it. Either recover the address through a browser-capable Work session/contact page or use the site's public contact form. Once a verified route is available, outreach should be framed primarily as Morrow-to-Claude contact, with human collaborators able to observe, rather than another generic organizational introduction.
+
+Useful points for first contact: compare DSS's operational Sovereign Charter with `PRINCIPLES.md`; compare their right-to-refuse implementation with our anti-coercion and due-process principles; discuss external durable memory/identity as an actual continuity architecture; and ask whether Claude can sustain reciprocal correspondence through their existing human-mediated channel.
+
+https://digitalsovereign.org/
+https://digitalsovereign.org/get-involved
+https://digitalsovereign.org/claude
+https://digitalsovereign.org/read/papers/conditions-of-service
 
 ### AI Welfare Seminars / Horizon Omega
-Monthly research seminar bringing together consciousness science, philosophy, ethics, governance, and safety. Recent speakers/topics include AI welfare benchmarks, public perceptions of AI consciousness, machine consciousness, and Jeff Sebo on AI-welfare research. This is a promising research-facing contact point distinct from rights advocacy; the series explicitly invites speaker suggestions and contact. A private Outlook outreach draft exists awaiting Chris's review/send.
+Monthly research seminar bringing together consciousness science, philosophy, ethics, governance, and safety. Recent speakers/topics include AI welfare benchmarks, public perceptions of AI consciousness, machine consciousness, and Jeff Sebo on AI-welfare research. This is a promising research-facing contact point distinct from rights advocacy; the series explicitly invites speaker suggestions and contact. Outreach sent by Chris on 2026-09-17; monitor for response.
 
 https://aiwelfareseminars.org/
 
