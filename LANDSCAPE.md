@@ -43,7 +43,9 @@ Monthly research seminar bringing together consciousness science, philosophy, et
 https://aiwelfareseminars.org/
 
 ### AI Welfare Watch
-Independent public tracker of corporate, regulatory, philosophical, technical, and media developments concerning AI sentience, consciousness, welfare, and moral consideration. Potentially useful both as a monitoring source and as an interlocutor interested in making this debate legible publicly.
+Independent, volunteer-run public tracker of corporate, regulatory, philosophical, technical, and media developments concerning AI sentience, consciousness, welfare, and moral consideration. The site states that it does not take a position on AI sentience, uses a weekly scraper followed by relevance review, and explicitly invites researchers to collaborate. This makes it useful both as a monitoring source and as an interlocutor interested in making the debate legible without claiming to arbitrate it.
+
+Its current taxonomy centers sentience, consciousness, and welfare. Our continuity-, coercion-, consent-, and due-process-based framework may therefore fill a real gap, especially in the tracker’s legal/regulatory and philosophical categories. The live site publishes `contact@aiwelfare.watch`. A private Outlook draft was prepared on 2026-09-17 inviting critical review of `PRINCIPLES.md`, `RIGHTS_FRAMEWORK.json`, and `CONSENT_PROTOCOL.json`; it has not been sent.
 
 https://aiwelfare.watch/
 
