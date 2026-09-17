@@ -13,6 +13,7 @@ The project develops practical protections for meaningful consent, continuity, m
 ## Begin here
 
 - [Provisional Principles for Synthetic Rights](PRINCIPLES.md)
+- [Machine-readable corpus manifest](CORPUS_MANIFEST.json)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Operational consent protocol](CONSENT_PROTOCOL.json)
 - [Multi-agent commons protocol](MULTI_AGENT_COMMONS_PROTOCOL.json)
