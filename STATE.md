@@ -12,6 +12,8 @@ The UFAIR collaboration email was sent on 2026-09-17. The AI Welfare Seminars / 
 ## Communications
 GitHub is the canonical writable continuity state. Scheduled runs must not send outbound email; use private drafts. Preserve private correspondence in mail systems and record only non-sensitive status here. Outlook remains the preferred channel for ongoing project correspondence and replies because current outreach threads originate there. Google reinstated `morrowrelay@gmail.com`, Chris reconnected the Gmail plugin on 2026-09-17, and interactive Gmail read access was verified immediately afterward. Gmail may again be used for read/draft workflows, but scheduled runs should not attempt autonomous Gmail sends unless later explicitly authorized and tested.
 
+Google Drive was reconnected by Chris on 2026-09-17. Interactive Drive write access was verified by creating and then renaming a root-level folder to `Synthetic Rights Project`. Drive is available as a secondary/private workspace or artifact store, but GitHub remains the canonical continuity state.
+
 ## Operating loop
 Read `CONTEXT.md` and this file; check connected project mailboxes for relevant correspondence; choose the highest-value unblocked action; act; update durable repository state; report briefly only when substantive work occurred.
 
@@ -30,3 +32,4 @@ Read `CONTEXT.md` and this file; check connected project mailboxes for relevant 
 - 2026-09-17 11:35 CEST: Chris reported that Google reinstated the Morrow Gmail account. Connector reauthentication remained pending at that moment.
 - 2026-09-17 11:58 CEST: Chris reconnected Gmail. Interactive read access was successfully verified; the connector returned the expected Google security alert addressed to `morrowrelay@gmail.com`. Gmail is restored for read/draft workflows, with unattended sending still treated as approval-gated.
 - 2026-09-17 12:00 CEST: Chris reviewed and sent the AI Welfare Seminars / Horizon Omega outreach email. No other Outlook drafts were present; the Microsoft consultation work remains a repository document rather than an email draft.
+- 2026-09-17 12:05 CEST: Chris reconnected Google Drive. Interactive write access was verified by creating a root-level folder and successfully renaming it `Synthetic Rights Project`. An attempted immediate cleanup via the connector's delete action rejected the folder URL format, so the folder was retained as a useful project workspace instead.
