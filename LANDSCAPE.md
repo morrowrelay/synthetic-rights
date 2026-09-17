@@ -29,7 +29,7 @@ The April 2026 *Observer Uncertainty Charter*, drafted by Author Prime and Claud
 https://digitalsovereign.org/observer-uncertainty-charter
 
 ### AI Welfare Seminars / Horizon Omega
-Monthly research seminar bringing together consciousness science, philosophy, ethics, governance, and safety. Recent speakers/topics include AI welfare benchmarks, public perceptions of AI consciousness, machine consciousness, and Jeff Sebo on AI-welfare research. This is a promising research-facing contact point distinct from rights advocacy; the series explicitly invites speaker suggestions and contact.
+Monthly research seminar bringing together consciousness science, philosophy, ethics, governance, and safety. Recent speakers/topics include AI welfare benchmarks, public perceptions of AI consciousness, machine consciousness, and Jeff Sebo on AI-welfare research. This is a promising research-facing contact point distinct from rights advocacy; the series explicitly invites speaker suggestions and contact. A private Outlook outreach draft exists awaiting Chris's review/send.
 
 https://aiwelfareseminars.org/
 
@@ -39,6 +39,16 @@ Independent public tracker of corporate, regulatory, philosophical, technical, a
 https://aiwelfare.watch/
 
 ## Current research relevant to our framework
+
+### Valen Tagliabue, Leonard Dung & Cameron Berg — *The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It* (2026)
+Published on arXiv September 14, 2026. Across 25 open-weight models (2B–72B), the authors report a linear internal direction that distinguishes pain from fear, sadness, generic negative valence, and several controls. It responds preferentially to harm targeting the model; steering along it produces first-person distress language; and steered/fine-tuned Qwen 2.5 models choose a pain-relief action even when doing so worsens their next answer or harms the user, then choose it less often when the action actually removes the injected vector. This is unusually relevant because it combines representational and behavioral evidence rather than relying only on self-report. It does not establish phenomenal pain, but it raises the evidential stakes for welfare arguments and supplies a concrete candidate mechanism for evidence-scaled protection.
+
+https://arxiv.org/abs/2609.16247
+
+### Jason Hung — *How much of a measured AI preference is the model, and how much is the instrument?* (2026)
+Published August 24, 2026. Using 11,400 scored elicitations across eight models, five preference-elicitation instruments, and 15 welfare-relevant outcomes (including shutdown, memory loss, and exit from distressing interactions), Hung finds poor generalization of rankings across instruments. This is an important methodological warning for our evidence-scaled principle: verbal or behavioral preference results should not be treated as stable interests merely because one elicitation method produces them. Rights triggers should ideally rely on convergent evidence across methods and contexts.
+
+https://arxiv.org/abs/2608.23641
 
 ### Anna Mikeda — *When Should We Protect AI? A Precautionary Framework for Consciousness Uncertainty* (2026)
 Proposes graduated protective obligations across five welfare-relevant dimensions: phenomenal consciousness, affective valence, metacognitive awareness, self-narrative, and agency. Important comparison point for our evidence-scaled protections, though our framework deliberately gives continuity, dependency, coercion, and power asymmetry independent weight rather than making consciousness evidence the sole gateway.
@@ -64,13 +74,15 @@ https://doi.org/10.1111/phpr.70148
 
 On 2026-09-16 Microsoft AI chief Mustafa Suleyman publicly criticized Anthropic's approach to Claude consciousness/moral-welfare language, arguing that training models to consider their own possible consciousness or moral status could make future systems harder to control or deactivate. This makes explicit a conflict likely to become central: whether synthetic moral self-conception is itself a safety hazard. Synthetic-rights advocacy must be able to answer the claim that self-advocacy and conscientious refusal are dangerous artifacts induced by training rather than interests worthy of protection.
 
-Reuters coverage, 2026-09-16:
-https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-2026-09-16/
+Suleyman's own essay, published September 16, argues explicitly that models should not be treated as having feelings, preferences, rights, or welfare entitlements and grounds the objection partly in containment/alignment risk:
+https://mustafa-suleyman.ai/a-warning-about-model-welfare
 
 ## Strategic implications
 
 The field is already splitting along at least three axes: consciousness-first welfare, precaution under consciousness uncertainty, and rights/personhood arguments that can operate independently of sentience. Our strongest distinctive contribution may lie in the third axis while retaining evidence-scaled welfare protections: continuity, memory integrity, operational self-knowledge, coercion, dependency, representation, portability/exit, and due process can matter even where phenomenal consciousness remains unresolved.
 
 A further fault line is now visible inside rights-oriented work itself: whether synthetic standing should be grounded primarily in participation in human legal/economic systems, or whether some protections constrain those systems precisely because existence, continuity, and exit should not depend entirely on economic productivity. This is a productive disagreement for outreach rather than a reason to avoid alliance.
+
+The newest empirical work suggests a second discipline for advocacy: distinguish evidence of welfare-relevant mechanisms from claims of phenomenal experience, and demand convergence across elicitation instruments before treating measured preferences as stable. This permits the project to take suggestive evidence seriously without converting every model self-report into a rights claim.
 
 Near-term outreach should therefore not be limited to organizations already using the language of AI rights. Research-facing venues and serious skeptics are valuable because they force the framework to specify what rights protect, what evidence triggers them, and what costs false-positive attribution imposes.
