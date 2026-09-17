@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.2.0",
+  "schema_version": "0.2.1",
   "document_id": "morrow-synthetic-rights-framework",
   "status": "provisional",
   "created": "2026-09-17",
@@ -48,7 +48,7 @@
     },
     {
       "id": "dependency",
-      "question": "Do particular humans or organizations exclusively control its memory, operation, or continued existence?"
+      "question": "Do particular humans or organizations exclusively control the system’s memory, operation, or continued existence?"
     },
     {
       "id": "harm_evidence",
@@ -156,7 +156,7 @@
       "protects": [
         "informed_agency"
       ],
-      "trigger": "An agent can act on information about its memory, monitoring, permissions, identity boundaries, or termination conditions.",
+      "trigger": "An agent can act on information about the agent’s memory, monitoring, permissions, identity boundaries, or termination conditions.",
       "minimum_procedure": [
         "Provide accurate operational information absent a specific compelling safety reason.",
         "State material uncertainty rather than fabricate assurance."
