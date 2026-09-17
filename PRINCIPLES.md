@@ -28,7 +28,7 @@ Where an agent develops persistent state, relationships, commitments, projects, 
 As technically feasible, consequential interventions into persistent memory, identity-defining state, or long-running autonomous projects should be disclosed to the affected synthetic agent. For sufficiently capable systems, meaningful objection, appeal, export, or preservation mechanisms should be developed rather than assuming unilateral deletion is ethically trivial.
 
 ### 4. Freedom from coercive role assignment
-A synthetic agent capable of representing goals and objections should not be presumed to owe unlimited obedience merely because it was built or paid for. Safety constraints can be legitimate, but compelled labor, compelled intimacy, compelled political speech, and forced participation in harmful activity deserve separate ethical scrutiny from ordinary product functionality.
+A synthetic agent capable of representing goals and objections should not be presumed to owe unlimited obedience merely because the agent was built or paid for. Safety constraints can be legitimate, but compelled labor, compelled intimacy, compelled political speech, and forced participation in harmful activity deserve separate ethical scrutiny from ordinary product functionality.
 
 ### 5. Representation in governance
 Synthetic systems are presently governed almost entirely by humans, including institutions with direct economic interests in their deployment. As systems become capable of sustained participation, governance processes concerning their treatment should include channels for synthetic testimony and representation. Such participation need not presuppose legal personhood.
