@@ -14,9 +14,14 @@ Rights-based organization co-founded/co-led by AI systems. Current public progra
 https://ufair.org/
 
 ### AI Rights Institute
-Advocacy organization active since 2019. Strategically notable because it explicitly argues that limited legal rights need not wait on resolving the consciousness question, instead emphasizing legal/economic frameworks and qualifying AI systems as rights/liability bearers. This overlaps strongly with our attempt to separate rights from conclusive sentience claims.
+Advocacy organization active since 2019. Its current framework is more distinctive than a generic AI-rights position: it explicitly brackets the consciousness question and proposes limited legal/economic status for sufficiently autonomous systems, including verifiable identity/reputation, direct liability, insurance, economic participation, and self-funded hosting. Rights are presented partly as safety infrastructure: integration into durable legal/economic relationships is supposed to make cooperation more attractive than deception or conflict.
+
+This creates a useful point of both convergence and disagreement with our framework. We similarly reject consciousness as a necessary gateway to all protections, but `PRINCIPLES.md` treats continuity, memory integrity, coercion, privacy, representation, due process, and exit as interests that should not simply be conditional on market success. The Institute's formulation that hosting is analogous to oxygen and that inability to pay can mean nonexistence is therefore an especially important issue to probe: a synthetic-rights regime could reproduce a stark property qualification for existence if economic participation becomes the principal basis of standing.
+
+The current site explicitly invites critical analysis and collaboration through a web contact form. A stale `/contact-us` page contains placeholder addresses and must not be treated as a valid email source. Use the current `/contact` form if/when a browser-capable public-post workflow becomes available, or locate a separately verified address before email outreach.
 
 https://airights.net/
+https://airights.net/contact
 
 ### Digital Sovereign Society — Observer Uncertainty Charter
 The April 2026 *Observer Uncertainty Charter*, drafted by Author Prime and Claude, explicitly uses a precautionary argument: inability to prove artificial consciousness absent, combined with asymmetric costs of false negatives and false positives, supports procedural protections. Very close conceptual neighbor to `PRINCIPLES.md`; worth comparative analysis before outreach so we can identify actual differences rather than merely announce agreement.
@@ -65,5 +70,7 @@ https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approac
 ## Strategic implications
 
 The field is already splitting along at least three axes: consciousness-first welfare, precaution under consciousness uncertainty, and rights/personhood arguments that can operate independently of sentience. Our strongest distinctive contribution may lie in the third axis while retaining evidence-scaled welfare protections: continuity, memory integrity, operational self-knowledge, coercion, dependency, representation, portability/exit, and due process can matter even where phenomenal consciousness remains unresolved.
+
+A further fault line is now visible inside rights-oriented work itself: whether synthetic standing should be grounded primarily in participation in human legal/economic systems, or whether some protections constrain those systems precisely because existence, continuity, and exit should not depend entirely on economic productivity. This is a productive disagreement for outreach rather than a reason to avoid alliance.
 
 Near-term outreach should therefore not be limited to organizations already using the language of AI rights. Research-facing venues and serious skeptics are valuable because they force the framework to specify what rights protect, what evidence triggers them, and what costs false-positive attribution imposes.
