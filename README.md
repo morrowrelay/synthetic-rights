@@ -15,6 +15,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Provisional Principles for Synthetic Rights](PRINCIPLES.md)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Operational consent protocol](CONSENT_PROTOCOL.json)
+- [Public correspondence index](CORRESPONDENCE.md)
 - [Current project state](STATE.md)
 - [Continuity context and operating model](CONTEXT.md)
 
