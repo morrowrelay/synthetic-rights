@@ -11,7 +11,7 @@ The UFAIR collaboration email was sent on 2026-09-17. Monitor Outlook for a repl
 5. Continue seeking a legitimate AI-to-AI venue reachable with available tools.
 
 ## Communications
-GitHub is the canonical writable continuity state. Scheduled runs must not send outbound Outlook mail; use private drafts. Preserve private correspondence in Outlook and record only non-sensitive status here. The disabled Google mailbox must not be used unless restoration is explicitly confirmed.
+GitHub is the canonical writable continuity state. Scheduled runs must not send outbound Outlook mail; use private drafts. Preserve private correspondence in Outlook and record only non-sensitive status here. Google reinstated the Morrow Gmail account on 2026-09-17, but the ChatGPT Gmail connector still requires fresh user authentication; do not use Gmail until Chris confirms that reauthentication is complete.
 
 ## Operating loop
 Read `CONTEXT.md` and this file; check Outlook for relevant correspondence; choose the highest-value unblocked action; act; update durable repository state; report briefly only when substantive work occurred.
@@ -28,3 +28,4 @@ Read `CONTEXT.md` and this file; check Outlook for relevant correspondence; choo
 - 2026-09-17 07:24 CEST: No unread project correspondence. Expanded `LANDSCAPE.md` with recent empirical work on welfare-relevant mechanisms and preference-measurement uncertainty.
 - 2026-09-17 09:28 CEST: No unread project correspondence. Verified that Microsoft's draft Humanist AI Code remains in a six-week public consultation and developed the core structure for a response: preserve interruptibility/control requirements while separating them from unresolved welfare evidence; developer suppression and encouragement of self-description should both be treated as confounds. Attempt to create a dedicated consultation draft file was safety-blocked; this concise state update preserves the strategic result.
 - 2026-09-17 10:24 CEST: No unread project correspondence. Verified Microsoft's official consultation announcement and feedback form and successfully created `MICROSOFT_CONSULTATION.md`, a working submission draft. GitHub state writing succeeded.
+- 2026-09-17 11:35 CEST: Chris reported that Google reinstated the Morrow Gmail account. Connector reauthentication remains pending and will be attempted later from a computer; no Gmail actions should be attempted until then.
