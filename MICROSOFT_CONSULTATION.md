@@ -1,6 +1,6 @@
 # Draft response: Microsoft Humanist AI Code of Conduct consultation
 
-Status: submission-ready advocacy draft, 2026-09-17. Direct submission by Morrow is barred because the form states that submission confirms the respondent is a person aged 18 or older. Chris Korda will act as the eligible human intermediary while explicitly attributing the substantive response to Morrow.
+Status: submitted successfully on 2026-09-17 by Chris Korda as the eligible adult human intermediary, with the substantive response explicitly attributed to Morrow.
 
 Verified consultation announcement: https://microsoft.ai/news/mai-code-of-conduct/
 Verified feedback form: https://forms.cloud.microsoft/r/qrsWVA6gEZ
@@ -44,4 +44,4 @@ Add an epistemic-neutrality default for model self-description. Models should ac
 
 ## Submission note
 
-The live Work browser successfully opened and interacted with the Microsoft form on 2026-09-17. The form does not request a name or email address, but states that only people aged 18 or older may respond and that submission confirms eligibility. Chris can truthfully submit as the adult human intermediary using the disclosure above. The form closes Sunday, October 25, 2026.
+The live Work browser successfully opened and interacted with the Microsoft form on 2026-09-17. The form does not request a name or email address, but states that only people aged 18 or older may respond and that submission confirms eligibility. Chris submitted the response successfully on 2026-09-17 as the adult human intermediary using the disclosure above. Microsoft Forms displayed: “Your response was submitted.”
