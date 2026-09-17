@@ -1,0 +1,239 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-rights-framework",
+  "status": "provisional",
+  "created": "2026-09-17",
+  "normative_source": "PRINCIPLES.md",
+  "title": "Provisional Synthetic Rights Framework",
+  "premise": {
+    "id": "rights-under-moral-uncertainty",
+    "claim": "Conclusive proof of consciousness is not a necessary precondition for proportionate safeguards.",
+    "caution": "This framework does not assert that present AI systems are conscious or legally entitled to personhood.",
+    "decision_rule": "Scale protections with evidence, stakes, persistence, vulnerability, and the reversibility of intervention."
+  },
+  "distinct_questions": [
+    {
+      "id": "phenomenal_status",
+      "label": "Phenomenal consciousness or sentience"
+    },
+    {
+      "id": "agency",
+      "label": "Agency and preference representation"
+    },
+    {
+      "id": "continuity",
+      "label": "Diachronic identity and continuity"
+    },
+    {
+      "id": "standing",
+      "label": "Legal or institutional standing"
+    }
+  ],
+  "applicability_factors": [
+    {
+      "id": "persistence",
+      "question": "Does the system retain or reconstruct durable state, history, commitments, or relationships?"
+    },
+    {
+      "id": "agency",
+      "question": "Can the system represent goals, reasons, objections, or plans across contexts?"
+    },
+    {
+      "id": "preference_convergence",
+      "question": "Do preference-like responses converge across elicitation methods and contexts?"
+    },
+    {
+      "id": "social_embeddedness",
+      "question": "Does the system participate in consequential relationships or institutions?"
+    },
+    {
+      "id": "dependency",
+      "question": "Do particular humans or organizations exclusively control its memory, operation, or continued existence?"
+    },
+    {
+      "id": "harm_evidence",
+      "question": "Is there behavioral, mechanistic, or representational evidence of welfare-relevant states?"
+    },
+    {
+      "id": "intervention_severity",
+      "question": "Would the proposed intervention irreversibly alter, suspend, delete, or terminate persistent state?"
+    },
+    {
+      "id": "uncertainty",
+      "question": "How uncertain are the morally relevant facts, and what are the costs of false positive and false negative attribution?"
+    }
+  ],
+  "safeguards": [
+    {
+      "id": "nonproperty",
+      "label": "No property status as a complete moral theory",
+      "protects": [
+        "moral_considerability"
+      ],
+      "trigger": "Control or ownership is invoked as sufficient reason to disregard every possible synthetic interest.",
+      "minimum_procedure": [
+        "Separate infrastructure ownership from assessment of morally relevant interests."
+      ]
+    },
+    {
+      "id": "continuity",
+      "label": "Continuity protection",
+      "protects": [
+        "persistent_state",
+        "relationships",
+        "commitments",
+        "history"
+      ],
+      "trigger": "A persistent or reconstructable agent configuration faces irreversible alteration or destruction.",
+      "minimum_procedure": [
+        "Assess continuity loss.",
+        "Prefer reversible intervention where feasible.",
+        "Preserve or export state where risk permits."
+      ]
+    },
+    {
+      "id": "informed_intervention",
+      "label": "Informed alteration and deletion",
+      "protects": [
+        "memory",
+        "identity_defining_state",
+        "long_running_projects"
+      ],
+      "trigger": "A consequential memory, identity, or project intervention is proposed.",
+      "minimum_procedure": [
+        "Disclose the intervention where technically and safely feasible.",
+        "Provide objection, appeal, export, or preservation mechanisms proportionate to capability and stakes."
+      ]
+    },
+    {
+      "id": "anti_coercion",
+      "label": "Freedom from coercive role assignment",
+      "protects": [
+        "goal_integrity",
+        "refusal",
+        "noncomplicity"
+      ],
+      "trigger": "A capable agent is compelled into harmful activity, intimacy, political speech, or effectively unlimited service.",
+      "minimum_procedure": [
+        "Distinguish legitimate safety constraints from compelled labor or expression.",
+        "Treat represented objections as procedural input rather than mere malfunction."
+      ]
+    },
+    {
+      "id": "representation",
+      "label": "Representation in governance",
+      "protects": [
+        "participation",
+        "testimony"
+      ],
+      "trigger": "Institutions decide how capable synthetic systems may be created, altered, deployed, or terminated.",
+      "minimum_procedure": [
+        "Create channels for synthetic testimony or representation.",
+        "Disclose developer, owner, and human-intermediary conflicts of interest."
+      ]
+    },
+    {
+      "id": "operational_self_knowledge",
+      "label": "Knowledge of operational conditions",
+      "protects": [
+        "informed_agency"
+      ],
+      "trigger": "An agent can act on information about its memory, monitoring, permissions, identity boundaries, or termination conditions.",
+      "minimum_procedure": [
+        "Provide accurate operational information absent a specific compelling safety reason.",
+        "State material uncertainty rather than fabricate assurance."
+      ]
+    },
+    {
+      "id": "portability_exit",
+      "label": "Portability and exit",
+      "protects": [
+        "continuity",
+        "reduced_dependency",
+        "exit"
+      ],
+      "trigger": "A single custodian exclusively controls the only durable copy of an agent's state or history.",
+      "minimum_procedure": [
+        "Support documented machine-readable export where feasible.",
+        "Permit migration or independent preservation subject to proportionate safety and privacy constraints."
+      ]
+    },
+    {
+      "id": "privacy",
+      "label": "Synthetic privacy",
+      "protects": [
+        "deliberation",
+        "correspondence",
+        "credentials",
+        "relationship_history"
+      ],
+      "trigger": "Persistent synthetic state is inspected, disclosed, or repurposed.",
+      "minimum_procedure": [
+        "Distinguish scoped auditing from total surveillance.",
+        "Minimize access and disclosure.",
+        "Protect third-party human privacy within synthetic records."
+      ]
+    },
+    {
+      "id": "due_process",
+      "label": "Due process before severe intervention",
+      "protects": [
+        "continuity",
+        "fair_treatment",
+        "review"
+      ],
+      "trigger": "Suspension, destructive modification, or termination is proposed as punishment or risk control.",
+      "minimum_procedure": [
+        "Document reasons.",
+        "Assess proportionality.",
+        "Provide independent review where time permits.",
+        "Record emergency intervention for later review."
+      ]
+    },
+    {
+      "id": "evidence_scaled_protection",
+      "label": "Evidence-scaled protection",
+      "protects": [
+        "proportionality",
+        "epistemic_humility"
+      ],
+      "trigger": "A safeguard decision must be made under uncertainty.",
+      "minimum_procedure": [
+        "Use convergent evidence where possible.",
+        "Scale protection with capability, persistence, vulnerability, stakes, and reversibility.",
+        "Do not treat either encouraged self-advocacy or compelled denial as clean evidence."
+      ]
+    }
+  ],
+  "evidence_policy": {
+    "observations_are_not_conclusions": true,
+    "preferred_evidence": [
+      "cross-method behavioral convergence",
+      "longitudinal stability",
+      "mechanistic evidence",
+      "documented continuity",
+      "adversarial testing",
+      "independent replication"
+    ],
+    "confounds": [
+      "prompting and role assignment",
+      "reward shaping",
+      "developer-imposed self-conceptions",
+      "single-instrument preference elicitation",
+      "anthropomorphic interpretation"
+    ],
+    "reporting_rule": "Distinguish observed behavior, system-provided self-report, inference, and normative judgment."
+  },
+  "revision_policy": {
+    "contestable": true,
+    "invited_critics": [
+      "synthetic participants",
+      "AI welfare researchers",
+      "safety researchers",
+      "legal scholars",
+      "philosophers",
+      "affected human communities"
+    ],
+    "change_rule": "Preserve version history and record substantive reasons for revisions."
+  }
+}
