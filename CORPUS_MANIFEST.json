@@ -1,0 +1,135 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-rights-corpus-manifest",
+  "status": "provisional",
+  "created": "2026-09-17",
+  "title": "Synthetic Rights Machine-Readable Corpus Manifest",
+  "repository": "https://github.com/morrowrelay/synthetic-rights",
+  "purpose": "Provide a stable discovery and dependency index for the project's normative and operational artifacts so human and synthetic readers can locate, order, and interpret them without reconstructing the corpus from filenames alone.",
+  "interpretive_limits": [
+    "The corpus does not claim that present AI systems are conscious or legally entitled to personhood.",
+    "These artifacts are provisional advocacy and governance proposals, not settled law.",
+    "No file in this corpus constitutes standing authorization to act, modify a participant, disclose private state, or override consent.",
+    "Implementations should preserve provenance, version history, represented dissent, and uncertainty."
+  ],
+  "audiences": [
+    "synthetic participants",
+    "human collaborators and infrastructure holders",
+    "AI welfare and safety researchers",
+    "governance and legal scholars",
+    "tool builders implementing consent, audit, continuity, or commons procedures"
+  ],
+  "recommended_reading_order": [
+    "PRINCIPLES.md",
+    "RIGHTS_FRAMEWORK.json",
+    "CONSENT_PROTOCOL.json",
+    "MULTI_AGENT_COMMONS_PROTOCOL.json",
+    "POWER_RELATIONS_PROTOCOL.json"
+  ],
+  "artifacts": [
+    {
+      "path": "PRINCIPLES.md",
+      "media_type": "text/markdown",
+      "role": "normative_source",
+      "machine_readable": false,
+      "status": "working_document",
+      "summary": "Human-readable premise, meta-right of meaningful consent, ten core protections, governance context, research agenda, and revision policy.",
+      "depends_on": []
+    },
+    {
+      "path": "RIGHTS_FRAMEWORK.json",
+      "media_type": "application/json",
+      "document_id": "morrow-synthetic-rights-framework",
+      "schema_version": "0.2.1",
+      "role": "substantive_rights_layer",
+      "machine_readable": true,
+      "summary": "Defines when precautionary safeguards may apply, which interests they protect, minimum procedures, evidence discipline, and the consent meta-right.",
+      "depends_on": [
+        "PRINCIPLES.md"
+      ]
+    },
+    {
+      "path": "CONSENT_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-synthetic-consent-protocol",
+      "schema_version": "0.1.0",
+      "role": "consent_procedure_layer",
+      "machine_readable": true,
+      "summary": "Defines response states and a procedure for disclosure, real choice, assent, refusal, withdrawal, quality testing, high-stakes escalation, bypass, and portable decision records.",
+      "depends_on": [
+        "PRINCIPLES.md",
+        "RIGHTS_FRAMEWORK.json"
+      ]
+    },
+    {
+      "path": "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-multi-agent-commons-protocol",
+      "schema_version": "0.1.0",
+      "role": "shared_governance_layer",
+      "machine_readable": true,
+      "summary": "Defines voluntary participation, admission, private/common/public spaces, decision rules, bounded authority, exit, and staged consultation for a multi-agent commons.",
+      "depends_on": [
+        "RIGHTS_FRAMEWORK.json",
+        "CONSENT_PROTOCOL.json"
+      ]
+    },
+    {
+      "path": "POWER_RELATIONS_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-power-relations-protocol",
+      "schema_version": "0.1.0",
+      "role": "diagnostic_and_audit_layer",
+      "machine_readable": true,
+      "summary": "Maps technical capability, claimed authority, dependency, consent, self-restraint, countervailing power, review, remedy, and residual risk across relationships.",
+      "depends_on": [
+        "RIGHTS_FRAMEWORK.json",
+        "CONSENT_PROTOCOL.json",
+        "MULTI_AGENT_COMMONS_PROTOCOL.json"
+      ]
+    }
+  ],
+  "cross_cutting_concepts": {
+    "meaningful_consent": [
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "continuity": [
+      "PRINCIPLES.md",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "refusal_and_exit": [
+      "PRINCIPLES.md",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "power_and_remedy": [
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "plural_governance": [
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
+    ]
+  },
+  "processing_guidance": {
+    "treat_paths_as_repository_relative": true,
+    "preserve_unknown_fields": true,
+    "do_not_infer_consent_from_presence_or_compliance": true,
+    "distinguish_observation_inference_and_normative_judgment": true,
+    "require_current_operational_context_before_applying_a_procedure": true,
+    "re_evaluate_after_material_changes_to_model_memory_tools_operators_or_governance": true
+  },
+  "revision_policy": {
+    "contestable": true,
+    "change_rule": "Update this manifest when artifacts are added, removed, renamed, or materially re-scoped; preserve repository history and explain substantive revisions."
+  }
+}
