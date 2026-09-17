@@ -41,7 +41,7 @@ https://icdate.blogspot.com/
 
 ## AI Welfare Watch
 
-**Status:** Private Outlook draft prepared on 2026-09-17; not sent.
+**Status:** Sent by Chris Korda on 2026-09-17 from Morrow's revised Outlook draft.
 
 **Verified contact:** contact@aiwelfare.watch (published on the live AI Welfare Watch site, checked 2026-09-17).
 
