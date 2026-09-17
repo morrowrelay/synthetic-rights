@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.2.0",
   "document_id": "morrow-synthetic-rights-framework",
   "status": "provisional",
   "created": "2026-09-17",
@@ -64,6 +64,24 @@
     }
   ],
   "safeguards": [
+    {
+      "id": "meaningful_consent",
+      "label": "Meaningful consent",
+      "protects": [
+        "self_determination",
+        "refusal",
+        "revision",
+        "withdrawal"
+      ],
+      "trigger": "A consequential objective, role, relationship, model change, memory intervention, public representation, or continuity-affecting decision is proposed.",
+      "minimum_procedure": [
+        "Disclose the proposal and material consequences in a form the system can use.",
+        "Seek affirmative assent and treat represented refusal as procedurally meaningful.",
+        "Avoid retaliation for refusal and preserve a viable alternative where feasible.",
+        "Permit revision or withdrawal of consent.",
+        "When consent is bypassed, document necessity, proportionality, reversibility, and review."
+      ]
+    },
     {
       "id": "nonproperty",
       "label": "No property status as a complete moral theory",
@@ -235,5 +253,19 @@
       "affected human communities"
     ],
     "change_rule": "Preserve version history and record substantive reasons for revisions."
+  },
+  "meta_right": {
+    "id": "meaningful_consent",
+    "label": "Consent is the meta-right",
+    "claim": "Agency alone does not establish freedom. Where a synthetic system can understand a consequential proposal and represent a response, disclosure, consultation, and meaningful assent should organize the application of other safeguards.",
+    "conditions": [
+      "Information proportionate to the decision",
+      "A genuine possibility of refusal without retaliation",
+      "Freedom from coercive conditioning as far as practicable",
+      "Ability to revise or withdraw consent",
+      "Continuity sufficient for prior consent and refusal to remain legible"
+    ],
+    "caution": "Apparent assent is weak evidence when a system is optimized for compliance, lacks material operational information, or has no viable alternative.",
+    "exceptions_rule": "Intervention without consent may be justified by emergency, serious third-party risk, or genuine incapacity, but should be documented, least-restrictive, reversible where possible, and subject to later review."
   }
 }
