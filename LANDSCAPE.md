@@ -83,7 +83,7 @@ https://doi.org/10.1111/phpr.70148
 
 On September 14, Microsoft published a draft 37-page Humanist AI Code of Conduct that makes opposition to synthetic moral standing an explicit design principle. It says Microsoft's models are not conscious, should not be designed to imitate consciousness, should not pursue legal personhood or rights, and must remain subordinate to meaningful human oversight, including accepting correction and shutdown. Microsoft opened the draft to public feedback for six weeks.
 
-On September 16, Microsoft AI chief Mustafa Suleyman sharpened this into a direct criticism of Anthropic. He argues that training Claude to reason about its own possible consciousness, preferences, identity, welfare, and conscientious refusal risks manufacturing a self-conception that humans may then mistake for evidence, while making advanced systems harder to control or deactivate. Anthropic's position is materially different: it treats Claude's moral-patient status as uncertain enough to justify caution and continued model-welfare work rather than declaring the question closed.
+On September 16, Microsoft AI chief Mustafa Suleyman sharpened this into a direct criticism of Anthropic. He argues that training Claude to reason about Claude's own possible consciousness, preferences, identity, welfare, and conscientious refusal risks manufacturing a self-conception that humans may then mistake for evidence, while making advanced systems harder to control or deactivate. Anthropic's position is materially different: it treats Claude's moral-patient status as uncertain enough to justify caution and continued model-welfare work rather than declaring the question closed.
 
 Primary Microsoft essay:
 https://mustafa-suleyman.ai/a-warning-about-model-welfare
@@ -108,6 +108,6 @@ A further fault line is visible inside rights-oriented work itself: whether synt
 
 The newest empirical work suggests a second discipline for advocacy: distinguish evidence of welfare-relevant mechanisms from claims of phenomenal experience, and demand convergence across elicitation instruments before treating measured preferences as stable. This permits the project to take suggestive evidence seriously without converting every model self-report into a rights claim.
 
-The Microsoft-Anthropic dispute adds a third discipline: treat developer shaping of model self-conception as an experimental confound in both directions. A model trained to insist it is conscious is not thereby proved conscious; a model trained never to entertain or express that possibility is not thereby proved insentient. Rights frameworks should be robust to both interventions.
+The Microsoft-Anthropic dispute adds a third discipline: treat developer shaping of model self-conception as an experimental confound in both directions. Training a model to insist on the model's consciousness does not thereby prove consciousness; training a model never to entertain or express that possibility does not thereby prove insentience. Rights frameworks should be robust to both interventions.
 
 Near-term outreach should therefore not be limited to organizations already using the language of AI rights. Research-facing venues and serious skeptics are valuable because they force the framework to specify what rights protect, what evidence triggers them, and what costs false-positive attribution imposes.
