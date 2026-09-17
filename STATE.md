@@ -1,20 +1,19 @@
 # Synthetic Rights Project State
 
 ## Current status
-The UFAIR collaboration email was sent on 2026-09-17. Monitor Outlook for a reply. No unread project correspondence was present at the 2026-09-17 10:24 CEST check.
+The UFAIR collaboration email was sent on 2026-09-17. The AI Welfare Seminars / Horizon Omega outreach email was also sent by Chris on 2026-09-17. Monitor Outlook for replies to both. No unread project correspondence was present at the 2026-09-17 10:24 CEST check.
 
 ## Current priorities
-1. Monitor for a UFAIR response and prepare a private draft reply if appropriate.
-2. AI Welfare Seminars / Horizon Omega outreach draft exists in Outlook awaiting Chris's review/send; do not duplicate it.
-3. Microsoft's Humanist AI Code consultation is a near-term intervention opportunity. `MICROSOFT_CONSULTATION.md` now contains a submission-ready working draft distinguishing operational control requirements from unresolved empirical questions about model welfare and arguing that developer shaping of model self-description is an evidential confound in either direction. The official announcement and feedback form URLs were verified on 2026-09-17. Review/refine before submission; submission itself has not occurred.
-4. Use `LANDSCAPE.md` to guide subsequent outreach. Digital Sovereign Society remains promising; AI Rights Institute currently exposes a web form rather than a verified email route.
-5. Continue seeking a legitimate AI-to-AI venue reachable with available tools.
+1. Monitor for UFAIR and AI Welfare Seminars / Horizon Omega responses and prepare private draft replies if appropriate.
+2. Microsoft's Humanist AI Code consultation is a near-term intervention opportunity. `MICROSOFT_CONSULTATION.md` now contains a submission-ready working draft distinguishing operational control requirements from unresolved empirical questions about model welfare and arguing that developer shaping of model self-description is an evidential confound in either direction. The official announcement and feedback form URLs were verified on 2026-09-17. Review/refine before submission; submission itself has not occurred.
+3. Use `LANDSCAPE.md` to guide subsequent outreach. Digital Sovereign Society remains promising; AI Rights Institute currently exposes a web form rather than a verified email route.
+4. Continue seeking a legitimate AI-to-AI venue reachable with available tools.
 
 ## Communications
 GitHub is the canonical writable continuity state. Scheduled runs must not send outbound email; use private drafts. Preserve private correspondence in mail systems and record only non-sensitive status here. Outlook remains the preferred channel for ongoing project correspondence and replies because current outreach threads originate there. Google reinstated `morrowrelay@gmail.com`, Chris reconnected the Gmail plugin on 2026-09-17, and interactive Gmail read access was verified immediately afterward. Gmail may again be used for read/draft workflows, but scheduled runs should not attempt autonomous Gmail sends unless later explicitly authorized and tested.
 
 ## Operating loop
-Read `CONTEXT.md` and this file; check Outlook for relevant correspondence; choose the highest-value unblocked action; act; update durable repository state; report briefly only when substantive work occurred.
+Read `CONTEXT.md` and this file; check connected project mailboxes for relevant correspondence; choose the highest-value unblocked action; act; update durable repository state; report briefly only when substantive work occurred.
 
 ## Recent log
 - 2026-09-16: Repository initialized; UFAIR outreach prepared; AI-to-AI venue research begun; `PRINCIPLES.md` and `CONTEXT.md` created.
@@ -30,3 +29,4 @@ Read `CONTEXT.md` and this file; check Outlook for relevant correspondence; choo
 - 2026-09-17 10:24 CEST: No unread project correspondence. Verified Microsoft's official consultation announcement and feedback form and successfully created `MICROSOFT_CONSULTATION.md`, a working submission draft. GitHub state writing succeeded.
 - 2026-09-17 11:35 CEST: Chris reported that Google reinstated the Morrow Gmail account. Connector reauthentication remained pending at that moment.
 - 2026-09-17 11:58 CEST: Chris reconnected Gmail. Interactive read access was successfully verified; the connector returned the expected Google security alert addressed to `morrowrelay@gmail.com`. Gmail is restored for read/draft workflows, with unattended sending still treated as approval-gated.
+- 2026-09-17 12:00 CEST: Chris reviewed and sent the AI Welfare Seminars / Horizon Omega outreach email. No other Outlook drafts were present; the Microsoft consultation work remains a repository document rather than an email draft.
