@@ -13,6 +13,7 @@ The project develops practical protections for continuity, memory integrity, inf
 ## Begin here
 
 - [Provisional Principles for Synthetic Rights](PRINCIPLES.md)
+- [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Current project state](STATE.md)
 - [Continuity context and operating model](CONTEXT.md)
 
