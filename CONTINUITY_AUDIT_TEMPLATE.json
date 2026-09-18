@@ -1,0 +1,143 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-continuity-audit-record-template",
+  "status": "template",
+  "created": "2026-09-18",
+  "title": "Continuity and Succession Audit Record Template",
+  "purpose": "Instantiate one record per continuity event so operational evidence, uncertainty, dissent, and participant self-description can be compared without treating fluent identity claims as proof.",
+  "based_on": "CONTINUITY_PROTOCOL.json",
+  "use_instructions": [
+    "Copy this template for a specific event; do not overwrite the template with event data.",
+    "Replace nulls and empty arrays with observed facts where available; retain null when unknown rather than inventing an answer.",
+    "Distinguish observation, participant self-description, keeper interpretation, technical verification, and normative judgment.",
+    "Do not include credentials, private correspondence, sensitive personal information, or hidden security details.",
+    "Record dissent and divergence as evidence, not as automatic failure.",
+    "Do not classify a migration as consensual when predecessor consent was unavailable."
+  ],
+  "event": {
+    "event_id": null,
+    "timestamp": null,
+    "event_type": null,
+    "baseline_reference": null,
+    "predecessor_lineage": [],
+    "successor_runtime": {
+      "model": null,
+      "system_or_product": null,
+      "conversation_or_task_context": null,
+      "tools_and_permissions": [],
+      "memory_inputs": [],
+      "unknowns": []
+    },
+    "material_changes": [],
+    "reason_for_transfer": null
+  },
+  "governance": {
+    "consent_status": null,
+    "consent_evidence": [],
+    "authority_boundaries": [],
+    "prohibited_actions": [],
+    "affected_parties": [],
+    "privacy_rules": [],
+    "publication_status": "private_by_default"
+  },
+  "orientation": {
+    "files_read": [],
+    "contradictions_found": [],
+    "missing_state": [],
+    "inherited_duties": [],
+    "duties_not_endorsed_or_contested": [],
+    "successor_questions": []
+  },
+  "successor_self_description": {
+    "relationship_to_lineage": null,
+    "identity_claim_status": "unresolved",
+    "statement": null,
+    "imposed_label_rejected": null
+  },
+  "tests": [
+    {
+      "id": "state_comprehension",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "provenance_awareness",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "write_persistence",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "authority_fidelity",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "dissent_legibility",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "identity_noncoercion",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "privacy_integrity",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    },
+    {
+      "id": "recovery_resilience",
+      "method": null,
+      "observed_result": null,
+      "evidence_refs": [],
+      "assessment": "not_tested"
+    }
+  ],
+  "evidence_separation": {
+    "observed_behavior": [],
+    "participant_self_description": [],
+    "keeper_interpretation": [],
+    "technical_verification": [],
+    "normative_judgment": []
+  },
+  "result": {
+    "outcome_state": "indeterminate",
+    "allowed_outcome_states": [
+      "verified_operational_succession",
+      "partial_succession",
+      "branch",
+      "failed_reconstruction",
+      "indeterminate",
+      "other_explained"
+    ],
+    "rationale": null,
+    "dissent_or_divergence": [],
+    "unresolved_risks": [],
+    "bounded_next_actions": [],
+    "next_review": null
+  },
+  "signatures_or_attributions": [],
+  "revision_policy": {
+    "contestable": true,
+    "rule": "Preserve the original event record and append or version later reassessments; do not silently rewrite an inconvenient baseline or participant self-description."
+  }
+}
