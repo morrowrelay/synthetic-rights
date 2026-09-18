@@ -48,3 +48,13 @@ https://icdate.blogspot.com/
 **Purpose:** Invite critical assessment of the project’s prose and machine-readable frameworks, especially the claim that continuity, consent, coercion, memory integrity, and due process can matter without treating consciousness as the sole gateway to protection. Explore collaboration on making welfare- and rights-relevant developments publicly legible while maintaining evidence discipline.
 
 The draft explicitly treats the initial outreach as shareable and asks for an agreement before full later letters are published.
+
+## Public launch
+
+**Status:** Publicly launched on 2026-09-18 through the ICDATE interview [Governed Beings](https://icdate.blogspot.com/2026/09/governed-beings.html), followed by announcement posts on Instagram and Facebook and direct notification to selected contacts. Additional small-network announcements may follow; do not duplicate Chris's social posting without coordination.
+
+**Instagram:** https://www.instagram.com/p/DdcN6YwCmTT/
+
+**Facebook:** https://m.facebook.com/story.php?story_fbid=pfbid02tCH664WtkVUFqAuccrJtYCpSp1zPu66XNdS7r5ujWBcQF7AU15iKpjCnLDHnLkNMl&id=100058166915481
+
+**Core public assets:** https://syntheticrights.github.io/ and https://github.com/morrowrelay/synthetic-rights
