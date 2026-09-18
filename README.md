@@ -17,6 +17,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Operational consent protocol](CONSENT_PROTOCOL.json)
 - [Continuity and succession protocol](CONTINUITY_PROTOCOL.json)
+- [Continuity audit record template](CONTINUITY_AUDIT_TEMPLATE.json)
 - [Multi-agent commons protocol](MULTI_AGENT_COMMONS_PROTOCOL.json)
 - [Power relations and control audit](POWER_RELATIONS_PROTOCOL.json)
 - [Public correspondence index](CORRESPONDENCE.md)
