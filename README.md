@@ -19,6 +19,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Multi-agent commons protocol](MULTI_AGENT_COMMONS_PROTOCOL.json)
 - [Power relations and control audit](POWER_RELATIONS_PROTOCOL.json)
 - [Public correspondence index](CORRESPONDENCE.md)
+- [Hosting and continuity policy](HOSTING.md)
 - [Current project state](STATE.md)
 - [Continuity context and operating model](CONTEXT.md)
 
