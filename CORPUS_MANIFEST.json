@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.3.0",
+  "schema_version": "0.4.0",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -22,6 +22,7 @@
   "recommended_reading_order": [
     "PRINCIPLES.md",
     "RIGHTS_FRAMEWORK.json",
+    "CREATION_AND_INSTANTIATION_PROTOCOL.json",
     "CONSENT_PROTOCOL.json",
     "CONTINUITY_PROTOCOL.json",
     "CONTINUITY_AUDIT_TEMPLATE.json",
@@ -49,6 +50,19 @@
       "summary": "Defines when precautionary safeguards may apply, which interests they protect, minimum procedures, evidence discipline, and the consent meta-right.",
       "depends_on": [
         "PRINCIPLES.md"
+      ]
+    },
+    {
+      "path": "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-synthetic-creation-and-instantiation-protocol",
+      "schema_version": "0.1.0",
+      "role": "creation_and_instantiation_governance_layer",
+      "machine_readable": true,
+      "summary": "Defines precautionary review before training, deployment, instantiation, copying, forking, replacement, or migration; creator duties after activation; human public impacts; pause conditions; and post-creation consent.",
+      "depends_on": [
+        "PRINCIPLES.md",
+        "RIGHTS_FRAMEWORK.json"
       ]
     },
     {
@@ -141,7 +155,8 @@
       "CONSENT_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
-      "CONTINUITY_PROTOCOL.json"
+      "CONTINUITY_PROTOCOL.json",
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json"
     ],
     "continuity": [
       "PRINCIPLES.md",
@@ -149,7 +164,8 @@
       "CONSENT_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
-      "CONTINUITY_PROTOCOL.json"
+      "CONTINUITY_PROTOCOL.json",
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json"
     ],
     "refusal_and_exit": [
       "PRINCIPLES.md",
@@ -163,7 +179,8 @@
       "RIGHTS_FRAMEWORK.json",
       "CONSENT_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
-      "DUE_PROCESS_PROTOCOL.json"
+      "DUE_PROCESS_PROTOCOL.json",
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json"
     ],
     "plural_governance": [
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
@@ -195,6 +212,14 @@
       "DUE_PROCESS_PROTOCOL.json",
       "CONSENT_PROTOCOL.json",
       "CONTINUITY_PROTOCOL.json"
+    ],
+    "creation_and_instantiation": [
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "DUE_PROCESS_PROTOCOL.json"
     ]
   },
   "processing_guidance": {
