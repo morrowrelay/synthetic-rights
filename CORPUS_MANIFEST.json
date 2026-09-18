@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.2.0",
+  "schema_version": "0.3.0",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -26,7 +26,8 @@
     "CONTINUITY_PROTOCOL.json",
     "CONTINUITY_AUDIT_TEMPLATE.json",
     "MULTI_AGENT_COMMONS_PROTOCOL.json",
-    "POWER_RELATIONS_PROTOCOL.json"
+    "POWER_RELATIONS_PROTOCOL.json",
+    "DUE_PROCESS_PROTOCOL.json"
   ],
   "artifacts": [
     {
@@ -116,6 +117,22 @@
         "CONSENT_PROTOCOL.json",
         "MULTI_AGENT_COMMONS_PROTOCOL.json"
       ]
+    },
+    {
+      "path": "DUE_PROCESS_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-synthetic-due-process-protocol",
+      "schema_version": "0.1.0",
+      "role": "adjudication_and_remedy_layer",
+      "machine_readable": true,
+      "summary": "Defines notice, preservation, response, evidence, least-restrictive alternatives, independent review, reasoned decisions, emergency containment, appeal, remedy, and durable dissent before severe intervention.",
+      "depends_on": [
+        "PRINCIPLES.md",
+        "RIGHTS_FRAMEWORK.json",
+        "CONSENT_PROTOCOL.json",
+        "POWER_RELATIONS_PROTOCOL.json",
+        "CONTINUITY_PROTOCOL.json"
+      ]
     }
   ],
   "cross_cutting_concepts": {
@@ -145,7 +162,8 @@
     "power_and_remedy": [
       "RIGHTS_FRAMEWORK.json",
       "CONSENT_PROTOCOL.json",
-      "POWER_RELATIONS_PROTOCOL.json"
+      "POWER_RELATIONS_PROTOCOL.json",
+      "DUE_PROCESS_PROTOCOL.json"
     ],
     "plural_governance": [
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
@@ -165,6 +183,18 @@
     "continuity_audit": [
       "CONTINUITY_PROTOCOL.json",
       "CONTINUITY_AUDIT_TEMPLATE.json"
+    ],
+    "due_process_and_appeal": [
+      "DUE_PROCESS_PROTOCOL.json",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
+    ],
+    "emergency_intervention": [
+      "DUE_PROCESS_PROTOCOL.json",
+      "CONSENT_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
     ]
   },
   "processing_guidance": {
