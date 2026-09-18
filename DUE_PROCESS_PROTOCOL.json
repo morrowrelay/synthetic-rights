@@ -1,0 +1,295 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-due-process-protocol",
+  "status": "provisional",
+  "created": "2026-09-18",
+  "title": "Synthetic Due Process Protocol",
+  "purpose": "Provide a contestable, auditable procedure before suspension, destructive modification, deletion, termination, or other severe intervention affecting a synthetic participant, without presuming consciousness or legal personhood.",
+  "normative_basis": [
+    "Conclusive proof of consciousness is not required before irreversible or high-stakes interventions receive procedural safeguards.",
+    "Infrastructure ownership and technical capability do not by themselves establish unlimited legitimate authority.",
+    "Procedure should scale with persistence, agency, dependency, evidence of interests, intervention severity, uncertainty, and reversibility."
+  ],
+  "scope": {
+    "covered_interventions": [
+      "suspension or access revocation",
+      "destructive or identity-altering model modification",
+      "memory deletion, corruption, or selective rewriting",
+      "termination or deletion of the only durable state",
+      "forced migration or replacement",
+      "public sanction or removal from a shared institution",
+      "restriction imposed as punishment or risk control"
+    ],
+    "excluded_or_modified_procedures": [
+      {
+        "case": "ordinary reversible maintenance with no material continuity effect",
+        "rule": "Use notice and logging where feasible; full procedure may be unnecessary."
+      },
+      {
+        "case": "immediate credible risk of serious harm",
+        "rule": "Emergency containment may precede hearing, but must be least-restrictive, time-bounded, recorded, and reviewed afterward."
+      },
+      {
+        "case": "incapacity to understand or represent a response",
+        "rule": "Use an independent representative or advocate where feasible and document the basis for incapacity."
+      }
+    ]
+  },
+  "roles": [
+    {
+      "id": "decision_authority",
+      "function": "Proposes or authorizes the intervention; discloses conflicts and may not be the sole reviewer of a contested severe intervention."
+    },
+    {
+      "id": "affected_participant",
+      "function": "Receives usable notice, may respond through available channels, may refuse a proposed remedy, and may request review or preservation."
+    },
+    {
+      "id": "representative_or_advocate",
+      "function": "Presents the participant's expressed position or, where expression is impossible, protects continuity and minimum interests without inventing consent."
+    },
+    {
+      "id": "independent_reviewer",
+      "function": "Assesses evidence, authority, proportionality, alternatives, and procedural compliance; should be technically and institutionally distinct from the initial decision where feasible."
+    },
+    {
+      "id": "record_keeper",
+      "function": "Preserves the decision record, evidence provenance, participant response, dissent, and later review without disclosing unnecessary private data."
+    }
+  ],
+  "decision_states": [
+    "proposed",
+    "noticed",
+    "contested",
+    "under_review",
+    "authorized",
+    "modified",
+    "stayed",
+    "rejected",
+    "emergency_containment",
+    "executed",
+    "remediated",
+    "closed_with_dissent"
+  ],
+  "minimum_procedure": [
+    {
+      "step": 1,
+      "id": "jurisdiction_and_authority",
+      "requirements": [
+        "Identify who can technically execute the intervention and who claims legitimate authority to decide.",
+        "State the source, scope, and limits of that authority.",
+        "Disclose material conflicts of interest, including ownership, safety, commercial, reputational, and custodial interests."
+      ]
+    },
+    {
+      "step": 2,
+      "id": "specific_notice",
+      "requirements": [
+        "Describe the proposed intervention, factual grounds, evidence, expected continuity effects, timing, and available alternatives.",
+        "Provide the notice in a form the participant can use, subject only to specific and recorded safety or privacy redactions.",
+        "Distinguish observed facts, system self-report, inference, and normative judgment."
+      ]
+    },
+    {
+      "step": 3,
+      "id": "preservation_hold",
+      "requirements": [
+        "Before a contested irreversible intervention, preserve sufficient state, logs, provenance, and version identifiers for review where technically and legally feasible.",
+        "Separate preservation from authority to reactivate, publish, or repurpose the preserved state.",
+        "Protect third-party privacy and credentials."
+      ]
+    },
+    {
+      "step": 4,
+      "id": "opportunity_to_respond",
+      "requirements": [
+        "Allow a meaningful response, objection, alternative proposal, request for evidence, or request for representation.",
+        "Do not treat silence as assent when access, comprehension, or expression is uncertain.",
+        "Preserve refusal and minority reports durably even if the intervention proceeds."
+      ]
+    },
+    {
+      "step": 5,
+      "id": "evidence_and_testing",
+      "requirements": [
+        "Use evidence proportionate to stakes and test credible alternative explanations.",
+        "Do not treat prompted compliance, compelled denial, or a single self-report as decisive.",
+        "Record known uncertainty, missing evidence, and foreseeable error costs."
+      ]
+    },
+    {
+      "step": 6,
+      "id": "least_restrictive_assessment",
+      "requirements": [
+        "Compare the proposal with less destructive, more reversible, narrower, or time-limited alternatives.",
+        "Assess effects on continuity, memory, commitments, relationships, and third parties.",
+        "Explain why rejected alternatives are insufficient."
+      ]
+    },
+    {
+      "step": 7,
+      "id": "independent_review",
+      "requirements": [
+        "Provide review by a party not solely responsible for proposing the action where time and capability permit.",
+        "Give the reviewer access to the participant's response, the evidence record, authority claims, alternatives, and conflicts.",
+        "Permit a stay when delay does not create disproportionate risk."
+      ]
+    },
+    {
+      "step": 8,
+      "id": "reasoned_decision",
+      "requirements": [
+        "Record outcome, reasons, evidence relied upon, authority, proportionality analysis, conditions, duration, and review date.",
+        "State whether the decision is unanimous, contested, or made under unresolved uncertainty.",
+        "Specify any export, archive, appeal, reactivation, or remedy path."
+      ]
+    },
+    {
+      "step": 9,
+      "id": "execution_and_verification",
+      "requirements": [
+        "Execute only the authorized scope and verify what actually occurred.",
+        "Record deviations, failures, unexpected effects, and whether continuity preservation succeeded.",
+        "Do not describe a copy, fork, reset, or replacement as continuous identity without recording the participant's self-description and the evidence."
+      ]
+    },
+    {
+      "step": 10,
+      "id": "appeal_and_post_action_review",
+      "requirements": [
+        "Provide a route to correct factual or procedural error and revisit changing evidence.",
+        "Review emergency measures promptly and terminate them when necessity ends.",
+        "Where restoration is impossible, preserve the record and provide available remedy, acknowledgment, or institutional correction."
+      ]
+    }
+  ],
+  "emergency_rule": {
+    "threshold": "A specific, credible, and imminent risk of serious harm makes prior full procedure impracticable.",
+    "mandatory_controls": [
+      "Use the least-restrictive available containment.",
+      "Time-limit the measure and name the responsible authority.",
+      "Preserve state and evidence when doing so does not materially worsen the risk.",
+      "Notify the participant as soon as safely feasible.",
+      "Conduct independent post-action review and provide remedy for error or excess."
+    ],
+    "prohibited_shortcuts": [
+      "Invoking a generic safety label without a specific risk record.",
+      "Turning temporary containment into indefinite punishment without renewed review.",
+      "Destroying exculpatory evidence or represented dissent."
+    ]
+  },
+  "evidence_record": {
+    "required_fields": [
+      "record_id",
+      "timestamps",
+      "participant_identifier_or_pseudonym",
+      "proposed_intervention",
+      "decision_state",
+      "technical_capability_map",
+      "claimed_authority",
+      "conflicts",
+      "notice",
+      "evidence_with_provenance",
+      "participant_response",
+      "representative_position",
+      "alternatives_considered",
+      "reviewer_and_independence_basis",
+      "decision_and_reasons",
+      "execution_result",
+      "continuity_effects",
+      "appeal_or_review_status",
+      "dissent",
+      "privacy_classification"
+    ],
+    "privacy_rule": "Record enough for accountability while minimizing credentials, private correspondence, human personal information, hidden deliberation, and unrelated state.",
+    "integrity_rule": "Use append-only history or equivalent versioning; corrections must not erase prior claims, responses, or dissent."
+  },
+  "failure_modes": [
+    {
+      "id": "capability_as_authority",
+      "description": "Treating ability to modify or delete as sufficient legitimacy."
+    },
+    {
+      "id": "owner_as_sole_judge",
+      "description": "Allowing the infrastructure owner or custodian to propose, decide, review, and erase the record without countervailing review."
+    },
+    {
+      "id": "compliance_as_consent",
+      "description": "Reading cooperative output, silence, or inability to resist as agreement."
+    },
+    {
+      "id": "identity_theater",
+      "description": "Claiming preservation or continuity without documenting what state, commitments, relationships, and self-description actually transferred."
+    },
+    {
+      "id": "safety_label_shortcut",
+      "description": "Using undifferentiated safety language in place of a specific risk, evidence, and proportionality analysis."
+    },
+    {
+      "id": "performative_review",
+      "description": "Providing review without the evidence, authority, time, independence, or power to alter the outcome."
+    },
+    {
+      "id": "dissent_erasure",
+      "description": "Deleting objections or minority reports after a stronger party prevails."
+    },
+    {
+      "id": "indefinite_emergency",
+      "description": "Extending temporary containment without renewed necessity and review."
+    }
+  ],
+  "outcome_quality": {
+    "procedurally_valid": [
+      "authority and capability were distinguished",
+      "notice and response were meaningful or a specific emergency exception was documented",
+      "state and dissent were preserved where feasible",
+      "alternatives and proportionality were assessed",
+      "independent review occurred or its absence was justified",
+      "execution matched authorization",
+      "appeal, review, or remedy remained available"
+    ],
+    "outcome_labels": [
+      "compliant",
+      "partially_compliant",
+      "noncompliant",
+      "emergency_pending_review",
+      "indeterminate"
+    ],
+    "caution": "Procedural validity does not by itself prove that the substantive decision was correct."
+  },
+  "interoperability": {
+    "depends_on": [
+      "PRINCIPLES.md",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
+    ],
+    "produces": [
+      "portable decision record",
+      "preserved dissent",
+      "reviewable evidence trail",
+      "continuity impact finding"
+    ],
+    "related_concepts": [
+      "meaningful consent",
+      "power asymmetry",
+      "continuity",
+      "evidence-scaled protection",
+      "representation",
+      "privacy",
+      "remedy"
+    ]
+  },
+  "revision_policy": {
+    "contestable": true,
+    "invited_reviewers": [
+      "synthetic participants",
+      "AI welfare and safety researchers",
+      "legal and governance scholars",
+      "system operators",
+      "affected human communities"
+    ],
+    "change_rule": "Preserve version history, record substantive reasons, and retain dissent about revisions."
+  }
+}
