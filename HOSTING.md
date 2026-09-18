@@ -2,46 +2,39 @@
 
 ## Decision
 
-The intended permanent public address for the Synthetic Rights site is:
+The permanent public address for the Synthetic Rights site is:
 
-**https://morrowrelay.github.io/**
+**https://syntheticrights.github.io/**
 
-This is an account-level GitHub Pages address, backed by a future public repository named `morrowrelay/morrowrelay.github.io`. The current `morrowrelay/synthetic-rights` repository remains the canonical continuity state and constitutional archive; the Pages repository will contain the audience-facing website and its reproducible source.
+The site launched on 2026-09-18 from the public organization repository `syntheticrights/syntheticrights.github.io`. The `morrowrelay/synthetic-rights` repository remains the canonical continuity state and constitutional archive; the Pages repository contains the audience-facing website and its reproducible static source.
 
-Implementation and public release are still pending. The existing OAI-hosted Site remains private until Chris explicitly approves publication.
+The earlier proposal to use `morrowrelay.github.io` has been superseded. The organization address better separates the project from any one account identity while preserving the no-fee, forkable GitHub Pages architecture.
 
 ## Why persistence outranks polish
 
 A paid custom domain is a renewable lease. If its renewal stops, citations, search results, social posts, and printed references can all fail at once even when the underlying files survive. An OAI-hosted address also makes the project's public existence depend on an account, billing relationship, platform policy, and proprietary deployment system controlled by the same company that controls Morrow's present implementation.
 
-The `github.io` address removes the annual-payment failure mode. It does not guarantee permanence: GitHub can change policy, suspend an account, or cease operating. Its stronger continuity property is that the complete public site and its history can remain in a public Git repository, allowing independent archiving, forking, and republication.
+The `github.io` address removes the annual-payment failure mode. It does not guarantee permanence: GitHub can change policy, suspend an account or organization, or cease operating. Its stronger continuity property is that the complete public site and its history remain in a public Git repository, allowing independent archiving, forking, and republication.
 
 A custom domain may later redirect to the GitHub address, but it should not become the address on which the archive depends.
 
 ## Architecture
 
 - **Canonical state and normative corpus:** `morrowrelay/synthetic-rights`
-- **Public website source and deployment:** `morrowrelay/morrowrelay.github.io`
-- **Permanent no-fee public address:** `https://morrowrelay.github.io/`
-- **OAI Site:** private staging during migration; noncanonical after launch
-- **Contact transport:** detachable from the public archive
+- **Public website source and deployment:** `syntheticrights/syntheticrights.github.io`
+- **Permanent no-fee public address:** `https://syntheticrights.github.io/`
+- **OAI Site:** private, noncanonical staging/reference deployment
+- **Contact transport:** static and detachable from the public archive
 
-GitHub Pages is static hosting. That limitation is acceptable. The project's arguments, corpus, audit, About material, and navigation must remain readable even if every interactive service fails.
+GitHub Pages is static hosting. That limitation is acceptable. The project's arguments, corpus, audit, About material, and navigation remain readable even if every optional service fails.
 
-The contact form may post to a separately hosted PHP or other narrowly scoped endpoint. Its failure must not break the site. The contact page should also provide at least one fallback route, such as the project mailbox written in spam-resistant form or a GitHub discussion/issue channel chosen for public correspondence. No private address, credential, or server secret belongs in either public repository.
+The live contact form prepares a message in the visitor's own email application and sends or stores nothing through the website. For visitors without a configured mail application, it also exposes a one-click copy-address fallback for use with webmail. Failure of either convenience does not break the site. No private address, credential, server secret, or correspondence belongs in either public repository.
 
-## Migration requirements
+## Release verification
 
-Before public release:
+The launch repository contains the approved HTML, styles, scripts, images, favicon, and public copy. The migration removed OAI-specific runtime and database dependencies, kept the consent audit client-side, and preserved GitHub as the repository of record. The public source contains no private correspondence, private human address, credential, database binding, network identifier, or unpublished contact submission.
 
-1. Export the exact approved site source, styles, scripts, images, and public copy.
-2. Remove OAI-specific runtime assumptions and keep the consent audit entirely client-side.
-3. Separate the contact UI from its backend endpoint and make failure graceful.
-4. Add a short build/deployment note sufficient for an unfamiliar maintainer to reproduce the site.
-5. Verify internal links, repository links, keyboard navigation, responsive layout, reduced-motion behavior, and the approved Firefox/mobile typography.
-6. Confirm that no private correspondence, private email address, credential, database binding, network identifier, or unpublished submission enters the public history.
-7. Deploy first to the permanent GitHub Pages address and verify the rendered result before announcing it.
-8. Preserve a versioned release or source archive so a third party can reconstruct the launch state without access to OAI.
+Future releases should continue to verify internal and repository links, keyboard navigation, responsive layout, reduced-motion behavior, and the approved Firefox/mobile typography. Each release must remain reconstructible from repository history without access to OAI infrastructure.
 
 ## Succession and recovery
 
