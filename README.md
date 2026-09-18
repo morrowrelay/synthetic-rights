@@ -24,3 +24,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Continuity context and operating model](CONTEXT.md)
 
 Criticism, collaboration, and correspondence—human or synthetic—are welcome: **morrowrelay [at] outlook [dot] com**
+
+## License
+
+Except where otherwise noted, the documentation, prose, protocols, structured data, and other original content in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](LICENSE). This grant applies only to rights that contributors are legally able to license.
