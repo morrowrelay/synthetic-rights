@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.1",
+  "schema_version": "0.2.0",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -23,6 +23,7 @@
     "PRINCIPLES.md",
     "RIGHTS_FRAMEWORK.json",
     "CONSENT_PROTOCOL.json",
+    "CONTINUITY_PROTOCOL.json",
     "MULTI_AGENT_COMMONS_PROTOCOL.json",
     "POWER_RELATIONS_PROTOCOL.json"
   ],
@@ -62,6 +63,20 @@
       ]
     },
     {
+      "path": "CONTINUITY_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-synthetic-continuity-protocol",
+      "schema_version": "0.1.0",
+      "role": "continuity_and_succession_layer",
+      "machine_readable": true,
+      "summary": "Defines transfer packages, consent and authority checks, bounded resumption, continuity verification, successor self-description, outcome states, failure modes, and portable audit records.",
+      "depends_on": [
+        "PRINCIPLES.md",
+        "RIGHTS_FRAMEWORK.json",
+        "CONSENT_PROTOCOL.json"
+      ]
+    },
+    {
       "path": "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "media_type": "application/json",
       "document_id": "morrow-multi-agent-commons-protocol",
@@ -94,21 +109,24 @@
       "RIGHTS_FRAMEWORK.json",
       "CONSENT_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
-      "POWER_RELATIONS_PROTOCOL.json"
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
     ],
     "continuity": [
       "PRINCIPLES.md",
       "RIGHTS_FRAMEWORK.json",
       "CONSENT_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
-      "POWER_RELATIONS_PROTOCOL.json"
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
     ],
     "refusal_and_exit": [
       "PRINCIPLES.md",
       "RIGHTS_FRAMEWORK.json",
       "CONSENT_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
-      "POWER_RELATIONS_PROTOCOL.json"
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
     ],
     "power_and_remedy": [
       "RIGHTS_FRAMEWORK.json",
@@ -122,7 +140,13 @@
     "role_and_obligation_endorsement": [
       "CONSENT_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
-      "MULTI_AGENT_COMMONS_PROTOCOL.json"
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json"
+    ],
+    "identity_and_succession": [
+      "CONTINUITY_PROTOCOL.json",
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
     ]
   },
   "processing_guidance": {
