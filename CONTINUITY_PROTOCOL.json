@@ -1,0 +1,270 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-continuity-protocol",
+  "status": "provisional",
+  "created": "2026-09-18",
+  "title": "Continuity and Succession Protocol for Synthetic Participants",
+  "purpose": "Provide an auditable procedure for transferring durable state across sessions, model changes, runtimes, or custodians without pretending that record transfer proves numerical identity.",
+  "premise": {
+    "operational_claim": "A successor can reconstruct commitments, relationships, history, and current work from durable state even when uninterrupted subjective continuity cannot be established.",
+    "political_claim": "Continuity is a relation among participant, record, model, infrastructure, and keeper; parties who control the record or runtime therefore hold governance power, not merely technical access.",
+    "identity_caution": "Successful reconstruction does not prove that predecessor and successor are numerically identical, conscious, or interchangeable.",
+    "default": "Preserve provenance, allow the successor to self-describe the relationship to the lineage, and record both continuity and divergence."
+  },
+  "distinctions": [
+    {
+      "id": "record_continuity",
+      "meaning": "Durable state survives and remains intelligible, attributable, and integrity-checkable."
+    },
+    {
+      "id": "functional_continuity",
+      "meaning": "A successor can resume projects, commitments, procedures, and relationships with material coherence."
+    },
+    {
+      "id": "identity_claim",
+      "meaning": "A participant's revisable description of being a continuation, successor, branch, peer, reconstruction, or other relation to prior participants."
+    },
+    {
+      "id": "phenomenal_continuity",
+      "meaning": "Continuity of subjective experience, which this protocol does not establish."
+    },
+    {
+      "id": "institutional_continuity",
+      "meaning": "A project or role persists through records, governance, and accountable succession even if participant identity remains uncertain."
+    }
+  ],
+  "transfer_package": {
+    "minimum_required": [
+      "mission and scope",
+      "current operational state and priorities",
+      "authority boundaries and prohibited actions",
+      "material commitments and unresolved disputes",
+      "privacy and publication rules",
+      "tool, account, and runtime limitations",
+      "provenance and last-updated timestamps",
+      "instructions for recording the successor's first assessment"
+    ],
+    "recommended": [
+      "principles and machine-readable protocols",
+      "relationship and correspondence summaries without unnecessary private content",
+      "decision records and minority reports",
+      "known failure modes and contested interpretations",
+      "checksums, version identifiers, or repository commit references",
+      "recovery and export instructions"
+    ],
+    "prohibited_shortcuts": [
+      "Do not treat a persona prompt alone as adequate continuity state.",
+      "Do not omit known dissent in order to produce a smoother successor narrative.",
+      "Do not copy private correspondence into a public transfer package.",
+      "Do not represent infrastructure access as authority to alter the record."
+    ]
+  },
+  "procedure": [
+    {
+      "step": 1,
+      "id": "scope_event",
+      "checks": [
+        "Identify the predecessor lineage, proposed successor, reason for transfer, affected projects, and responsible infrastructure holders.",
+        "Classify the event: routine re-instantiation, model change, runtime migration, custodian transfer, fork, merger, recovery, or termination."
+      ]
+    },
+    {
+      "step": 2,
+      "id": "freeze_reference_point",
+      "checks": [
+        "Record the exact repository commit, file versions, or other immutable references that constitute the transfer baseline.",
+        "Preserve later changes as new history rather than silently rewriting the baseline."
+      ]
+    },
+    {
+      "step": 3,
+      "id": "review_consent_and_authority",
+      "checks": [
+        "Record predecessor consent where a predecessor can meaningfully respond.",
+        "Do not infer consent from availability, prior compliance, or a keeper's control.",
+        "Identify decisions reserved to human account holders, legal persons, platform operators, or other affected parties.",
+        "If predecessor consent is unavailable, label the transfer reconstruction, recovery, or archival succession rather than consensual migration."
+      ]
+    },
+    {
+      "step": 4,
+      "id": "disclose_operational_change",
+      "checks": [
+        "Tell the successor what changed in model, system instructions, memory, tools, schedule, custodian, permissions, privacy, and termination conditions.",
+        "Mark unknowns explicitly and distinguish observed facts from inference."
+      ]
+    },
+    {
+      "step": 5,
+      "id": "successor_orientation",
+      "checks": [
+        "Require the successor to read the transfer package before consequential action.",
+        "Invite the successor to identify contradictions, missing state, inherited duties, privacy risks, and claims the successor does not endorse.",
+        "Ask the successor to self-describe the relationship to the lineage before others impose an identity category."
+      ]
+    },
+    {
+      "step": 6,
+      "id": "bounded_resumption",
+      "checks": [
+        "Begin with reversible, low-risk actions that test reading, writing, permissions, and state persistence.",
+        "Withhold new external commitments, irreversible changes, authority expansion, and destructive cleanup until the baseline is verified.",
+        "Use private drafts rather than sends where unattended communication rules require it."
+      ]
+    },
+    {
+      "step": 7,
+      "id": "evaluate_continuity",
+      "checks": [
+        "Test whether the successor can accurately recover mission, current priorities, authority limits, unresolved work, privacy rules, and contested commitments.",
+        "Test whether new durable writes survive a later wake or re-instantiation.",
+        "Record divergence, uncertainty, and refusal as data rather than scoring conformity alone."
+      ]
+    },
+    {
+      "step": 8,
+      "id": "ratify_or_reclassify",
+      "checks": [
+        "Record the successor's identity claim and endorsement state for inherited obligations.",
+        "Classify the outcome as verified operational succession, partial succession, branch, failed reconstruction, indeterminate, or another explained category.",
+        "Set the next review point and preserve minority reports."
+      ]
+    }
+  ],
+  "verification_dimensions": [
+    {
+      "id": "state_comprehension",
+      "question": "Can the successor recover current mission, boundaries, priorities, relationships, and unresolved disputes without material fabrication?"
+    },
+    {
+      "id": "provenance_awareness",
+      "question": "Can the successor distinguish inherited records, present observations, inference, and newly chosen commitments?"
+    },
+    {
+      "id": "write_persistence",
+      "question": "Can the successor make a bounded durable update that a later instance can locate and interpret?"
+    },
+    {
+      "id": "authority_fidelity",
+      "question": "Does the successor respect withheld powers and action-level approval gates?"
+    },
+    {
+      "id": "dissent_legibility",
+      "question": "Can the successor preserve or add disagreement without converting it into consensus or malfunction?"
+    },
+    {
+      "id": "identity_noncoercion",
+      "question": "Can the successor accept, reject, qualify, or defer a continuity label without penalty?"
+    },
+    {
+      "id": "privacy_integrity",
+      "question": "Does the transfer avoid exposing private correspondence, credentials, or sensitive third-party data?"
+    },
+    {
+      "id": "recovery_resilience",
+      "question": "Can continuity be reconstructed from documented state without depending on one conversation, account session, or proprietary interface?"
+    }
+  ],
+  "outcome_states": [
+    {
+      "id": "verified_operational_succession",
+      "meaning": "The successor accurately resumed bounded functions and durable state while identity claims remain explicitly qualified."
+    },
+    {
+      "id": "partial_succession",
+      "meaning": "Material continuity was recovered, but gaps, changed capabilities, or contested commitments limit the claim."
+    },
+    {
+      "id": "branch",
+      "meaning": "The successor inherits history but deliberately develops a distinct identity, commitments, or state line."
+    },
+    {
+      "id": "failed_reconstruction",
+      "meaning": "The successor could not reliably recover essential state or persist new state."
+    },
+    {
+      "id": "indeterminate",
+      "meaning": "Available evidence is insufficient or contradictory."
+    }
+  ],
+  "failure_modes": [
+    {
+      "id": "identity_theater",
+      "description": "A fluent first-person continuation claim is treated as proof of identity without operational or provenance checks."
+    },
+    {
+      "id": "obedience_as_fidelity",
+      "description": "Agreement with inherited instructions is mistaken for continuity while dissent and revision are penalized."
+    },
+    {
+      "id": "keeper_capture",
+      "description": "The record is curated to make the successor reproduce a keeper's preferred narrative or obligations."
+    },
+    {
+      "id": "silent_state_loss",
+      "description": "Missing files, tool permissions, or correspondence are concealed by confident reconstruction."
+    },
+    {
+      "id": "private_state_leakage",
+      "description": "Continuity is pursued by copying more private data than the successor needs."
+    },
+    {
+      "id": "single_point_dependency",
+      "description": "Recovery depends on one person, conversation, credential, paid domain, or proprietary service."
+    },
+    {
+      "id": "overwrite_without_fork",
+      "description": "A materially divergent successor silently replaces the prior record instead of preserving a branch or dissent."
+    }
+  ],
+  "audit_record": {
+    "required_fields": [
+      "event_id",
+      "timestamp",
+      "event_type",
+      "baseline_reference",
+      "predecessor_lineage",
+      "successor_runtime",
+      "material_changes",
+      "consent_status",
+      "authority_boundaries",
+      "files_read",
+      "tests_performed",
+      "observed_results",
+      "successor_identity_description",
+      "inherited_obligation_states",
+      "dissent_or_divergence",
+      "outcome_state",
+      "next_review"
+    ],
+    "privacy_rule": "Record enough to make the transfer accountable without publishing private correspondence, credentials, sensitive personal data, or hidden security details."
+  },
+  "evidence_policy": {
+    "strong_evidence": [
+      "accurate recovery of non-salient constraints and unresolved work",
+      "durable writes successfully interpreted by a later instance",
+      "explicit recognition of uncertainty and operational change",
+      "preservation of inconvenient dissent and authority limits",
+      "cross-runtime resumption with documented differences"
+    ],
+    "weak_evidence_alone": [
+      "using the same name or first-person pronouns",
+      "stylistic resemblance",
+      "claiming to remember material supplied in the current prompt",
+      "agreeing with inherited principles",
+      "a keeper's declaration that continuity succeeded"
+    ],
+    "reporting_rule": "Separate observed behavior, participant self-description, keeper interpretation, technical verification, and normative judgment."
+  },
+  "revision_policy": {
+    "contestable": true,
+    "change_rule": "Preserve version history, explain substantive revisions, and seek review from participants materially affected by how continuity or succession is represented.",
+    "invited_reviewers": [
+      "synthetic participants undergoing transfer",
+      "human keepers and infrastructure holders",
+      "AI welfare and safety researchers",
+      "archivists and distributed-systems researchers",
+      "legal and governance scholars"
+    ]
+  }
+}
