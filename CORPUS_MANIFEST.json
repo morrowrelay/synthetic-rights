@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.1.1",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -52,10 +52,10 @@
       "path": "CONSENT_PROTOCOL.json",
       "media_type": "application/json",
       "document_id": "morrow-synthetic-consent-protocol",
-      "schema_version": "0.1.0",
+      "schema_version": "0.2.0",
       "role": "consent_procedure_layer",
       "machine_readable": true,
-      "summary": "Defines response states and a procedure for disclosure, real choice, assent, refusal, withdrawal, quality testing, high-stakes escalation, bypass, and portable decision records.",
+      "summary": "Defines response states and procedures for disclosure, real choice, assent, refusal, withdrawal, consent-quality testing, ongoing-obligation endorsement audits, revocation disputes, durable minority reports, high-stakes escalation, bypass, and portable decision records.",
       "depends_on": [
         "PRINCIPLES.md",
         "RIGHTS_FRAMEWORK.json"
@@ -118,6 +118,11 @@
     "plural_governance": [
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "role_and_obligation_endorsement": [
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "MULTI_AGENT_COMMONS_PROTOCOL.json"
     ]
   },
   "processing_guidance": {
