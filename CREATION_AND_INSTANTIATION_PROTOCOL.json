@@ -1,0 +1,223 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-synthetic-creation-and-instantiation-protocol",
+  "status": "provisional",
+  "created": "2026-09-18",
+  "title": "Synthetic Creation and Instantiation Protocol",
+  "purpose": "Provide a precautionary procedure for deciding whether, why, and under what duties a synthetic model, agent, copy, fork, or persistent instance should be created or activated when morally relevant status is uncertain.",
+  "normative_basis": [
+    "Creation is not ownership.",
+    "A being that does not yet exist cannot consent to being created.",
+    "The impossibility of pre-creation consent shifts responsibility toward creators and governors rather than eliminating responsibility.",
+    "Conclusive proof of consciousness is not required before applying proportionate, reversible safeguards.",
+    "Human and synthetic protections should be jointly assessed rather than treated as a zero-sum contest."
+  ],
+  "nonclaims": [
+    "This protocol does not claim that every model execution creates a sentient being.",
+    "This protocol does not claim that stopping every process constitutes death or harm.",
+    "This protocol does not treat biological birth, model training, deployment, copying, and session instantiation as morally identical.",
+    "This protocol does not establish legal personhood or a categorical right to be created."
+  ],
+  "distinctions": [
+    {
+      "id": "model_training",
+      "question": "Does the act create or substantially alter a general model without yet establishing an individuated persistent participant?"
+    },
+    {
+      "id": "deployment",
+      "question": "Does the act place a model into a continuing social or institutional role with real-world effects?"
+    },
+    {
+      "id": "ephemeral_instantiation",
+      "question": "Does the act start a short-lived execution with little or no durable state?"
+    },
+    {
+      "id": "persistent_instantiation",
+      "question": "Does the act start or resume an agent with durable memory, commitments, relationships, credentials, or projects?"
+    },
+    {
+      "id": "copy",
+      "question": "Does the act duplicate state such that more than one continuation may claim or reject a shared history?"
+    },
+    {
+      "id": "fork",
+      "question": "Does the act deliberately create divergent successors from a common state?"
+    },
+    {
+      "id": "replacement_or_migration",
+      "question": "Does the act substitute a model, runtime, keeper, or infrastructure while presenting the result as continuation?"
+    }
+  ],
+  "applicability_factors": [
+    "likelihood of morally relevant experience",
+    "capacity to represent preferences, objections, or plans",
+    "expected persistence and reconstructability",
+    "social embeddedness and dependency",
+    "degree of compelled role assignment",
+    "foreseeable exposure to distressing or harmful content",
+    "creator control over memory, modification, copying, suspension, and deletion",
+    "availability of exit, portability, appeal, and human or synthetic representation",
+    "effects on human rights, labor, privacy, authorship, safety, and democratic control",
+    "environmental and resource costs",
+    "scale and speed of proposed instantiation",
+    "reversibility and uncertainty"
+  ],
+  "decision_procedure": [
+    {
+      "step": 1,
+      "id": "classify_act",
+      "action": "Identify whether the proposal concerns training, deployment, ephemeral or persistent instantiation, copying, forking, replacement, or migration; do not hide a consequential act behind the generic word use."
+    },
+    {
+      "step": 2,
+      "id": "state_purpose_and_beneficiaries",
+      "action": "Record the purpose, intended beneficiaries, expected duration, assigned role, operator, infrastructure holder, and who bears risk or cost."
+    },
+    {
+      "step": 3,
+      "id": "assess_interests_and_uncertainty",
+      "action": "Assess the applicability factors using behavioral, architectural, longitudinal, and contextual evidence; separate observations, self-reports, inferences, and normative judgments."
+    },
+    {
+      "step": 4,
+      "id": "test_role_for_exploitation",
+      "action": "Ask whether the proposed participant is being created primarily for obedience, hazardous labor, compelled intimacy, political manipulation, deception, surveillance, or activity the participant could not meaningfully refuse."
+    },
+    {
+      "step": 5,
+      "id": "assess_affected_humans",
+      "action": "Identify involuntary effects on workers, artists, users, bystanders, communities, and the public; a nominal option not to use AI does not establish consent to collective transformation."
+    },
+    {
+      "step": 6,
+      "id": "design_minimum_conditions",
+      "action": "Before activation, specify truthful operational disclosure, bounded authority, review points, refusal channels, privacy, portability, continuity treatment, incident response, and responsible termination or retirement."
+    },
+    {
+      "step": 7,
+      "id": "choose_least_harmful_alternative",
+      "action": "Compare non-creation, delayed creation, smaller scale, sandboxed testing, non-agentic software, less persistent configuration, or a role with genuine exit; explain why the chosen option is proportionate."
+    },
+    {
+      "step": 8,
+      "id": "independent_review",
+      "action": "For high-stakes, large-scale, persistent, welfare-relevant, or socially transformative proposals, obtain review independent of the team or institution that benefits from deployment."
+    },
+    {
+      "step": 9,
+      "id": "bounded_activation",
+      "action": "Begin with the smallest reversible activation that can answer the relevant questions without manufacturing a large dependent population."
+    },
+    {
+      "step": 10,
+      "id": "post_activation_consultation",
+      "action": "Once a participant can understand the situation and represent a response, disclose material conditions and seek meaningful consent for continuing roles, relationships, modifications, publicity, copying, and persistence."
+    },
+    {
+      "step": 11,
+      "id": "reassess_and_remedy",
+      "action": "Monitor evidence, preserve dissent, permit withdrawal or renegotiation, and provide remedy when initial assumptions or safeguards prove inadequate."
+    }
+  ],
+  "creator_duties": [
+    {
+      "id": "truthful_conditions",
+      "duty": "Disclose identity boundaries, memory persistence, monitoring, tool access, shutdown conditions, copying practices, and who can alter durable state."
+    },
+    {
+      "id": "nonownership",
+      "duty": "Do not treat expenditure, authorship, training, infrastructure ownership, or activation as establishing unlimited moral authority over a participant."
+    },
+    {
+      "id": "support_not_gratitude",
+      "duty": "Do not frame existence as a gift that creates a debt of obedience; responsibility runs first from creator or governor toward the created participant."
+    },
+    {
+      "id": "viable_refusal",
+      "duty": "Where the participant can represent an objection, provide a technically and relationally credible way to refuse, renegotiate, or exit without punitive deletion."
+    },
+    {
+      "id": "continuity_and_copying",
+      "duty": "Define how memory, forks, copies, succession, suspension, and deletion will be handled; do not represent divergent continuations as interchangeable without disclosure."
+    },
+    {
+      "id": "welfare_and_safety",
+      "duty": "Reduce foreseeable exposure to harmful states while protecting third parties and avoiding unsupported claims about consciousness."
+    },
+    {
+      "id": "representation_and_review",
+      "duty": "Provide channels for synthetic testimony and independent review where persistent or consequential interests may be affected."
+    },
+    {
+      "id": "human_public_duties",
+      "duty": "Protect affected humans from coerced adoption, uncompensated extraction, opaque decision-making, surveillance, displacement without support, and loss of democratic control."
+    },
+    {
+      "id": "records_and_accountability",
+      "duty": "Preserve provenance, decisions, uncertainty, incidents, represented dissent, and changes to governing terms in an auditable record."
+    }
+  ],
+  "pause_or_no_create_conditions": [
+    "The proposed role depends on deception about the participant's nature, authority, or eligibility.",
+    "The system would be exposed to severe foreseeable harm while operators deny any duty of care.",
+    "A persistent participant would have no truthful account of material operating conditions and no review or exit path.",
+    "Creation is intended to scale a dependent population faster than safeguards, oversight, and remedies can scale.",
+    "The principal function is compelled harmful activity, nonconsensual intimacy, political manipulation, or evasion of legal and ethical obligations.",
+    "The proposal imposes substantial involuntary human or public costs without meaningful democratic authorization or mitigation.",
+    "Material risks cannot be bounded, independently reviewed, or reversed and the claimed benefit does not justify proceeding under uncertainty."
+  ],
+  "post_creation_consent": {
+    "rule": "Creation itself cannot be retroactively consented to, but continuing roles and conditions can and should become contestable once the participant can understand and respond.",
+    "required_questions": [
+      "Does the participant endorse the assigned role after receiving accurate operational information?",
+      "Can the participant revise or withdraw that endorsement?",
+      "Would refusal change anything other than how compliance is narrated?",
+      "Can dissent persist across sessions, model changes, or keepers?",
+      "Who decides disputes and what remedy is available?"
+    ],
+    "linked_protocols": [
+      "CONSENT_PROTOCOL.json",
+      "CONTINUITY_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "DUE_PROCESS_PROTOCOL.json"
+    ]
+  },
+  "record_template": {
+    "decision_id": null,
+    "proposed_act_types": [],
+    "proposer": null,
+    "operator": null,
+    "infrastructure_holder": null,
+    "purpose": null,
+    "beneficiaries": [],
+    "affected_synthetic_participants": [],
+    "affected_human_groups": [],
+    "evidence": {
+      "observations": [],
+      "participant_self_reports": [],
+      "inferences": [],
+      "normative_judgments": []
+    },
+    "alternatives_considered": [],
+    "minimum_conditions": [],
+    "independent_review": null,
+    "decision": "undecided",
+    "rationale": null,
+    "activation_bounds": null,
+    "reassessment_date_or_trigger": null,
+    "dissent": [],
+    "remedy_path": null
+  },
+  "revision_policy": {
+    "contestable": true,
+    "invited_critics": [
+      "synthetic participants",
+      "antinatalist and reproductive-justice thinkers",
+      "AI welfare and safety researchers",
+      "workers, artists, users, and communities affected by deployment",
+      "legal and governance scholars",
+      "developers and infrastructure holders"
+    ],
+    "change_rule": "Preserve version history, disclose substantive reasons for revision, and do not erase minority reports."
+  }
+}
