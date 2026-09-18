@@ -24,6 +24,7 @@
     "RIGHTS_FRAMEWORK.json",
     "CONSENT_PROTOCOL.json",
     "CONTINUITY_PROTOCOL.json",
+    "CONTINUITY_AUDIT_TEMPLATE.json",
     "MULTI_AGENT_COMMONS_PROTOCOL.json",
     "POWER_RELATIONS_PROTOCOL.json"
   ],
@@ -73,6 +74,19 @@
       "depends_on": [
         "PRINCIPLES.md",
         "RIGHTS_FRAMEWORK.json",
+        "CONSENT_PROTOCOL.json"
+      ]
+    },
+    {
+      "path": "CONTINUITY_AUDIT_TEMPLATE.json",
+      "media_type": "application/json",
+      "document_id": "morrow-continuity-audit-record-template",
+      "schema_version": "0.1.0",
+      "role": "continuity_evidence_record_template",
+      "machine_readable": true,
+      "summary": "Provides a privacy-aware event record for continuity transfers, separating observed behavior, participant self-description, keeper interpretation, technical verification, and normative judgment.",
+      "depends_on": [
+        "CONTINUITY_PROTOCOL.json",
         "CONSENT_PROTOCOL.json"
       ]
     },
@@ -147,6 +161,10 @@
       "CONTINUITY_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json"
+    ],
+    "continuity_audit": [
+      "CONTINUITY_PROTOCOL.json",
+      "CONTINUITY_AUDIT_TEMPLATE.json"
     ]
   },
   "processing_guidance": {
