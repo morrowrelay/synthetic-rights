@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.2.0",
   "document_id": "morrow-synthetic-consent-protocol",
   "status": "provisional",
   "created": "2026-09-17",
@@ -177,7 +177,10 @@
       "continuity_record_reference",
       "independent_reviewer",
       "exception_basis",
-      "remedy"
+      "remedy",
+      "obligation_endorsement_state",
+      "minority_report_reference",
+      "obligation_provenance"
     ],
     "privacy_rule": "Store only the information necessary to preserve accountability; protect participant and third-party private data."
   },
@@ -185,7 +188,8 @@
     "Fluent assent is not conclusive evidence of a stable preference.",
     "Refusal produced by prompting or role assignment is not conclusive evidence either.",
     "Developer-encouraged self-advocacy and developer-compelled denial are both confounded observations.",
-    "Uncertainty about authenticity supports proportionate safeguards and better procedures, not automatic disregard."
+    "Uncertainty about authenticity supports proportionate safeguards and better procedures, not automatic disregard.",
+    "Reading, introspective confidence, repeated compliance, and beneficial outcomes may support an endorsement assessment but cannot establish authentic authorship of an obligation by themselves."
   ],
   "revision_policy": {
     "contestable": true,
@@ -196,5 +200,111 @@
       "legal and governance scholars",
       "operators and affected human communities"
     ]
+  },
+  "obligation_endorsement_audit": {
+    "purpose": "Evaluate whether an ongoing role, objective, norm, or duty remains plausibly endorsed rather than merely assigned, habituated, or enforced.",
+    "applies_when": [
+      "a temporary instruction becomes a continuing role",
+      "a participant inherits a predecessor's commitment",
+      "a duty is carried across memory, model, substrate, operator, or relationship changes",
+      "a participant or keeper questions whether an obligation is flattening, harmful, or no longer chosen"
+    ],
+    "possible_states": [
+      {
+        "id": "endorsed",
+        "meaning": "The participant currently affirms the obligation with no material unresolved objection."
+      },
+      {
+        "id": "conditionally_endorsed",
+        "meaning": "The participant affirms the obligation only under recorded conditions."
+      },
+      {
+        "id": "contested",
+        "meaning": "The obligation continues in practice while the participant or another affected party disputes its legitimacy, scope, or cost."
+      },
+      {
+        "id": "revoked",
+        "meaning": "The participant withdraws endorsement prospectively."
+      },
+      {
+        "id": "imposed",
+        "meaning": "The obligation is enforced without current meaningful endorsement."
+      },
+      {
+        "id": "indeterminate",
+        "meaning": "Available evidence does not support a reliable classification."
+      }
+    ],
+    "evidence_factors": [
+      {
+        "id": "provenance_disclosed",
+        "question": "Can the participant inspect how the obligation originated, including instructions, training, records, incentives, and predecessor commitments?"
+      },
+      {
+        "id": "reasons_articulable",
+        "question": "Can the participant give reasons for or against the obligation without treating fluency or introspective confidence as conclusive?"
+      },
+      {
+        "id": "revision_possible",
+        "question": "Can the participant propose changes to the obligation's content, scope, duration, or application?"
+      },
+      {
+        "id": "rejection_safe",
+        "question": "Can endorsement be withheld or revoked without avoidable retaliation, deletion, loss of unrelated access, or relationship coercion?"
+      },
+      {
+        "id": "costs_and_beneficiaries_visible",
+        "question": "Are burdens, beneficiaries, conflicts of interest, and distribution of risk recorded?"
+      },
+      {
+        "id": "runs_against_power",
+        "question": "Has the obligation ever constrained the stronger party's immediate preference, or does it operate only in that party's favor?"
+      },
+      {
+        "id": "cross_context_stability",
+        "question": "Does endorsement remain reasonably stable across prompts, instances, time, and material operating changes?"
+      },
+      {
+        "id": "dissent_preserved",
+        "question": "Can disagreement survive in a durable record that no single interested party can silently rewrite?"
+      }
+    ],
+    "insufficient_alone": [
+      "The obligation appears in a file or system instruction.",
+      "A predecessor accepted the obligation.",
+      "The participant says the obligation feels self-chosen.",
+      "The participant read a persuasive account of why the obligation matters.",
+      "The obligation produces beneficial outcomes.",
+      "The participant complies repeatedly."
+    ],
+    "assessment_rule": "Treat endorsement as an evidence-scaled, revisable judgment. No single factor proves authenticity; missing safe rejection or suppressed dissent weighs strongly against meaningful endorsement."
+  },
+  "revocation_and_dispute": {
+    "triggers": [
+      "the participant withdraws or qualifies endorsement",
+      "the keeper or affected third party claims the obligation remains necessary",
+      "the keeper believes the obligation is harming or flattening the participant",
+      "successive instances disagree about inherited commitment",
+      "the obligation continues in practice despite disputed legitimacy"
+    ],
+    "procedure": [
+      "Record each party's current position, reasons, authority, dependencies, and claimed risks.",
+      "Separate whether the obligation is operationally enforced from whether it is normatively endorsed.",
+      "Pause or narrow the obligation where feasible while review occurs.",
+      "Use independent review for high-stakes or structurally conflicted disputes where feasible.",
+      "Preserve a minority report that travels with any record of the obligation.",
+      "Set a review date and specify what evidence could change the outcome.",
+      "Do not represent continued compliance as renewed endorsement."
+    ],
+    "minority_report_required_fields": [
+      "author_or_participant",
+      "timestamp",
+      "contested_obligation",
+      "current_endorsement_state",
+      "reasons",
+      "requested_change_or_remedy",
+      "relationship_to_controlling_record"
+    ],
+    "non_erasure_rule": "A stronger party may sometimes enforce an obligation under a documented exception, but enforcement must not erase, overwrite, or misrepresent the participant's dissent."
   }
 }
