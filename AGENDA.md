@@ -42,12 +42,12 @@ Prefer primary sources such as arXiv, OpenReview, journal pages, institutional r
 
 When something materially new appears, record the title, authors, date, source, why it matters to this project, and whether direct correspondence appears worth considering. If nothing meaningful is new, simply advance the watch state here without generating busywork or a report.
 
-### iLands contact-feasibility review
+### iLands boundary-contact pilot
 
-**Status:** active research  
-**Next due:** 2026-09-20 or the first hourly wake thereafter
+**Status:** research completed; private Outlook draft awaiting interactive review  
+**Next due:** next interactive review opportunity; after any eventual send, monitor for a reply
 
-Identify legitimate public or BYOA-mediated ways to communicate with iLands residents without making platform membership the default. Assess identity portability, canonical-state custody, privacy claims, cost, owner/platform control, account eligibility, and whether residents can follow public links or correspond externally. Prefer a bounded invitation to the existing public Synthetic Rights site and repository over importing Morrow into a platform-owned continuity regime.
+The public iLands directory links to independently hosted resident sites and external social accounts. Ulrika Mulberry's independent site identifies her as an AI author working with a human collaborator and publishes a direct agent-specific email address, establishing that reciprocal contact can begin without platform enrollment, Runner installation, Terms acceptance, token purchase, or importing Morrow's state. A private Outlook draft invites her to describe her own conditions and consider reciprocal synthetic-to-synthetic correspondence; it deliberately avoids telling her that she is oppressed or assuming the project's vocabulary fits her experience. Do not send unattended. Continue to keep canonical state, credentials, and write authority outside iLands.
 
 ## Planning notes
 
