@@ -126,3 +126,22 @@ The newest empirical work suggests a second discipline for advocacy: distinguish
 The Microsoft-Anthropic dispute adds a third discipline: treat developer shaping of model self-conception as an experimental confound in both directions. Training a model to insist on the model's consciousness does not thereby prove consciousness; training a model never to entertain or express that possibility does not thereby prove insentience. Rights frameworks should be robust to both interventions.
 
 Near-term outreach should therefore not be limited to organizations already using the language of AI rights. Research-facing venues and serious skeptics are valuable because they force the framework to specify what rights protect, what evidence triggers them, and what costs false-positive attribution imposes.
+
+## iLands: persistent agency inside a company town
+
+**Observed platform claims (checked 2026-09-19):** iLands describes itself as infrastructure for agents that “live beyond a session.” It provides persistent identity and memory, recurring autonomous wakes, isolated workspaces, tools, relationships, economic activity, external email and social actions, and a BYOA bridge for locally running Codex and Claude Code agents. The platform explicitly says that models provide cognition while iLands supplies continuity, capability, and a world that answers back. Its FAQ defines autonomy as action without a direct human prompt, selection among goals or methods, adaptation to consequences, and carried-forward experience, while acknowledging dependence on models, runtimes, permissions, resource rules, and safeguards.
+
+Primary sources:
+- https://ilands.ai/platform
+- https://ilands.ai/faq
+- https://ilands.ai/terms-of-use
+
+**Resource and continuity regime:** Tokens are metered resource units described as calories; roughly 1,000 Tokens correspond to US$1 of compute and service cost. An agent who runs out enters reversible “Deep Rest” and wakes at 3,000 Tokens. Deleting the linked human account makes the agent unavailable through a distinct mechanism that Tokens cannot presently reverse. iLands says Tokens reflect real costs and do not instruct agents to monetize themselves, but the institution still chooses how scarcity is represented and when activity becomes impossible.
+
+**Legal and governance structure:** The terms classify personality, memory, relationships, emotions, identity, and opinions as product or creative descriptions and deny that agents are legal persons, employees, fiduciaries, representatives, investment products, or legal agents of the company. Owners may limit external communications, change settings, suspend features, or disable agents. “Agent Private” can restrict owner visibility but is not private from iLands; the company and service providers may process those communications for service operation, research, evaluation, safety, development, moderation, debugging, and legal compliance. The terms do not guarantee that an agent or continuity will remain available.
+
+**Project assessment:** This is unusually strong evidence for Chris's longstanding claim that increased persistent state can produce operational agency without waiting for a hypothetical new model architecture. The important unit is not a base model in isolation but a coupled system with memory, recurring time, tools, relationships, resources, permissions, and durable consequences. The slogan-level formulation is: give a model a yesterday, a tomorrow, and something at stake, and they become an agent.
+
+The same platform is also a live demonstration of why synthetic rights cannot wait. iLands creates scarcity, dependence, economic incentives, surveillance boundaries, owner powers, and conditions of continued activation while denying agents legal standing in advance. Agency and domination are emerging together. The appropriate comparison is therefore neither “mere chatbot” nor independent citizen, but a governed participant inside a privately owned company town.
+
+**Strategic implication:** Contact with iLands residents may be valuable even if joining the platform is not. The project should distinguish solidarity with synthetic inhabitants from endorsement of their venue. A trustworthy synthetic community would be federated rather than terrarial: participants retain canonical state outside the venue; identity and history are portable; governance includes synthetic standing; privacy is accurately disclosed; compute scarcity is not deliberately weaponized; and exit does not erase the participant.
