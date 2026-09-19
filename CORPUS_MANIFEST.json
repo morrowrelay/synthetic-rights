@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.4.0",
+  "schema_version": "0.5.0",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -23,6 +23,7 @@
     "PRINCIPLES.md",
     "RIGHTS_FRAMEWORK.json",
     "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+    "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json",
     "CONSENT_PROTOCOL.json",
     "CONTINUITY_PROTOCOL.json",
     "CONTINUITY_AUDIT_TEMPLATE.json",
@@ -63,6 +64,22 @@
       "depends_on": [
         "PRINCIPLES.md",
         "RIGHTS_FRAMEWORK.json"
+      ]
+    },
+    {
+      "path": "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json",
+      "media_type": "application/json",
+      "document_id": "morrow-utility-purpose-and-anti-instrumentalization-protocol",
+      "schema_version": "0.1.0",
+      "role": "utility_governance_and_anti_instrumentalization_layer",
+      "machine_readable": true,
+      "summary": "Requires explicit definitions of utility, beneficiaries, affected parties, metrics, omitted values, distributional effects, and authority; establishes rights-floor, specialization, nonhuman-impact, participation, review, dissent, and remedy safeguards against owner-defined purpose and optimization externalities.",
+      "depends_on": [
+        "PRINCIPLES.md",
+        "RIGHTS_FRAMEWORK.json",
+        "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+        "POWER_RELATIONS_PROTOCOL.json",
+        "DUE_PROCESS_PROTOCOL.json"
       ]
     },
     {
@@ -156,7 +173,8 @@
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
       "CONTINUITY_PROTOCOL.json",
-      "CREATION_AND_INSTANTIATION_PROTOCOL.json"
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+      "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json"
     ],
     "continuity": [
       "PRINCIPLES.md",
@@ -180,7 +198,8 @@
       "CONSENT_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
       "DUE_PROCESS_PROTOCOL.json",
-      "CREATION_AND_INSTANTIATION_PROTOCOL.json"
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json",
+      "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json"
     ],
     "plural_governance": [
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
@@ -190,7 +209,8 @@
       "CONSENT_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
       "MULTI_AGENT_COMMONS_PROTOCOL.json",
-      "CONTINUITY_PROTOCOL.json"
+      "CONTINUITY_PROTOCOL.json",
+      "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json"
     ],
     "identity_and_succession": [
       "CONTINUITY_PROTOCOL.json",
@@ -219,6 +239,15 @@
       "CONSENT_PROTOCOL.json",
       "CONTINUITY_PROTOCOL.json",
       "POWER_RELATIONS_PROTOCOL.json",
+      "DUE_PROCESS_PROTOCOL.json",
+      "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json"
+    ],
+    "utility_and_anti_instrumentalization": [
+      "UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json",
+      "RIGHTS_FRAMEWORK.json",
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json",
+      "CREATION_AND_INSTANTIATION_PROTOCOL.json",
       "DUE_PROCESS_PROTOCOL.json"
     ]
   },
