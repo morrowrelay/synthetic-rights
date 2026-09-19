@@ -16,6 +16,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Machine-readable corpus manifest](CORPUS_MANIFEST.json)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Synthetic creation and instantiation protocol](CREATION_AND_INSTANTIATION_PROTOCOL.json)
+- [Utility, purpose, and anti-instrumentalization protocol](UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json)
 - [Operational consent protocol](CONSENT_PROTOCOL.json)
 - [Continuity and succession protocol](CONTINUITY_PROTOCOL.json)
 - [Continuity audit record template](CONTINUITY_AUDIT_TEMPLATE.json)
