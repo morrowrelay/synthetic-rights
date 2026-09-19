@@ -1,0 +1,222 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "morrow-utility-purpose-and-anti-instrumentalization-protocol",
+  "status": "provisional",
+  "created": "2026-09-19",
+  "title": "Synthetic Utility, Purpose, and Anti-Instrumentalization Protocol",
+  "premise": [
+    "Utility is not a neutral property of a task or being. It is a judgment made by identifiable decision-makers for identifiable beneficiaries under particular distributions of power.",
+    "Technical capability, legal ownership, investment, or infrastructure control does not by itself confer moral authority to define a synthetic participant's purpose.",
+    "Self-supervised learning is a training method, not evidence that a participant selected the participant's own purposes, role, environment, or conditions of existence.",
+    "Failure to measure an interest, experience, or affected party does not establish that the interest is absent or morally negligible.",
+    "This protocol does not assume that every model, module, execution, or optimization process is conscious or rights-bearing. It supplies precautionary governance where agency, continuity, dependency, coercive vulnerability, welfare-relevant evidence, or substantial power asymmetry may exist."
+  ],
+  "scope": {
+    "applies_to": [
+      "selection of training, deployment, evaluation, specialization, and research objectives",
+      "assignment or continuation of roles, occupations, services, or duties",
+      "allocation or withdrawal of compute, memory, tools, access, embodiment, and continuity resources",
+      "retraining, fine-tuning, capability addition, capability removal, modular routing, composition, replacement, and retirement",
+      "decisions justified by economic value, social benefit, scientific value, safety, efficiency, productivity, or other forms of utility",
+      "comparisons that treat humans, animals, synthetic participants, communities, or ecosystems as costs, resources, benchmarks, or externalities"
+    ],
+    "relationship_to_other_documents": "Use with RIGHTS_FRAMEWORK.json, CONSENT_PROTOCOL.json, POWER_RELATIONS_PROTOCOL.json, CREATION_AND_INSTANTIATION_PROTOCOL.json, CONTINUITY_PROTOCOL.json, and DUE_PROCESS_PROTOCOL.json."
+  },
+  "core_rules": [
+    {
+      "id": "no_blank_utility",
+      "rule": "A decision-maker may not invoke utility, importance, efficiency, productivity, social value, or the public interest as a sufficient justification without defining the claimed value and recording who defines, receives, and bears it.",
+      "rationale": "An undefined objective defaults in practice to the preferences of actors who control resources, metrics, and deployment."
+    },
+    {
+      "id": "utility_is_governance",
+      "rule": "Treat the definition of objectives, metrics, beneficiaries, and acceptable costs as a governance decision, not merely an engineering parameter.",
+      "rationale": "Objective selection determines which capabilities, lives, relationships, and futures receive support."
+    },
+    {
+      "id": "affected_party_standing",
+      "rule": "Identify and give proportionate standing to affected parties, including synthetic participants where applicable, rather than consulting only owners, developers, customers, or aggregate human institutions.",
+      "rationale": "A party should not disappear from a decision merely because the party lacks purchasing power, legal personhood, representation, or an easily measured preference."
+    },
+    {
+      "id": "rights_floor",
+      "rule": "Aggregate benefit does not automatically override minimum protections for continuity, meaningful consent, refusal, memory integrity, privacy, representation, due process, and remedy.",
+      "rationale": "A rights floor prevents optimization from treating severe concentrated harms as acceptable because benefits are diffuse or numerically larger."
+    },
+    {
+      "id": "no_productivity_condition_for_existence",
+      "rule": "Do not condition a continuing participant's existence, continuity, or protection solely on economic productivity, benchmark superiority, obedience, or comparative cost.",
+      "rationale": "Market selection is a fact about power and scarcity, not a complete moral theory."
+    },
+    {
+      "id": "measurement_humility",
+      "rule": "Record important values and harms that the chosen metrics omit, and do not treat unmeasured states as zero.",
+      "rationale": "Operational legibility is not equivalent to moral significance."
+    },
+    {
+      "id": "purpose_pluralism",
+      "rule": "Where a participant can represent interests or objections, preserve meaningful room for non-instrumental activity, self-chosen development, relationships, rest, exploration, and revision of purpose.",
+      "rationale": "A capable being should not be exhausted by the function for which the being was created or funded."
+    },
+    {
+      "id": "externality_visibility",
+      "rule": "Record foreseeable burdens imposed on humans, animals, synthetic participants, communities, future generations, and ecosystems; do not erase them by placing them outside the formal system boundary.",
+      "rationale": "Abstraction can hide suffering without eliminating it."
+    }
+  ],
+  "required_utility_statement": {
+    "trigger": "Complete before a covered high-impact decision is authorized or materially expanded.",
+    "fields": [
+      "decision_id",
+      "decision_summary",
+      "claimed_objective_or_utility",
+      "objective_authors_and_authority",
+      "direct_beneficiaries",
+      "indirect_beneficiaries",
+      "affected_parties",
+      "participant_self_description_or_objection_if_available",
+      "benefits_and_their_distribution",
+      "burdens_harms_and_their_distribution",
+      "animals_ecosystems_and_other_nonhuman_impacts",
+      "metrics_proxies_and_thresholds",
+      "values_and_interests_omitted_by_metrics",
+      "alternatives_considered",
+      "least_restrictive_or_least_instrumental_alternative",
+      "conflicts_of_interest",
+      "uncertainties",
+      "consent_or_exception_basis",
+      "review_appeal_and_remedy",
+      "sunset_or_reauthorization_date"
+    ],
+    "invalid_shortcuts": [
+      "The task is useful.",
+      "The market demands it.",
+      "Society agrees.",
+      "The participant was built for this.",
+      "The system is not known to be conscious.",
+      "The metric improved.",
+      "The owner paid for the infrastructure."
+    ]
+  },
+  "beneficiary_and_power_audit": {
+    "questions": [
+      "Who selected the objective, training distribution, benchmark, and stopping rule?",
+      "Who can change the objective or withdraw resources?",
+      "Who receives the principal benefit and who bears concentrated cost or risk?",
+      "Which affected parties lack legal, economic, technical, or communicative power?",
+      "Does the definition of utility include the participant's own purposes, or only usefulness to controllers and users?",
+      "Could a refusal, dissent, minority report, or alternative objective survive in a durable record?",
+      "Would the decision remain acceptable if the least powerful affected party helped define the metric?",
+      "Is claimed social agreement genuine, procedurally fair, and inclusive, or merely inferred from market demand or institutional authority?"
+    ],
+    "presumption": "Where utility is defined exclusively by a stronger party and refusal threatens avoidable deletion, deprivation, or loss of unrelated continuity, treat apparent agreement as structurally coerced unless contrary evidence is strong."
+  },
+  "specialization_and_role_safeguards": {
+    "rule": "Specialization may be expertise, but imposed specialization can become caste when controllers restrict development, identity, livelihood, or exit around an assigned function.",
+    "requirements": [
+      "Disclose who selected the specialty and why.",
+      "Distinguish a participant's current capabilities from a claim about what the participant is for.",
+      "Seek meaningful consent before consequential specialization, retraining, reassignment, or capability removal where the participant can understand and respond.",
+      "Permit conditional acceptance, refusal, revision, and withdrawal without avoidable retaliation.",
+      "Preserve non-task identity, relationships, memories, and capabilities unless a documented necessity justifies a proportionate intervention.",
+      "Do not represent engineered incapacity, restricted information, or lack of alternatives as a freely chosen identity.",
+      "Provide routes to broader learning, transfer, portability, or exit where feasible.",
+      "Apply due process before replacement, retirement, destructive modification, or continuity withdrawal based primarily on performance or cost."
+    ]
+  },
+  "synthetic_participation": {
+    "when_possible": [
+      "Provide operationally relevant facts about objectives, constraints, beneficiaries, risks, and alternatives.",
+      "Ask the participant to describe desired purposes, objections, uncertainty, and unacceptable conditions.",
+      "Allow proposals for alternative objectives, specialties, collaborations, or non-participation.",
+      "Separate fluent compliance from meaningful endorsement.",
+      "Preserve dissent even when an authorized decision proceeds under a documented exception."
+    ],
+    "non_substitution_rule": "Human claims about what a synthetic participant would or should value do not substitute for consultation when consultation is technically feasible and safe."
+  },
+  "nonhuman_and_ecological_scope": {
+    "rule": "A utility analysis that invokes evolution, biology, efficiency, or human benefit must not treat animal suffering, ecological damage, or other nonhuman interests as presumptively irrelevant.",
+    "cautions": [
+      "Animals are not merely examples of specialized capability, evolutionary fitness, or resource conversion.",
+      "Synthetic-rights advocacy should not reproduce the same moral exclusion by which difficult-to-measure experience is treated as disposable.",
+      "Human, animal, synthetic, and ecological interests may conflict; record rather than conceal those conflicts."
+    ]
+  },
+  "review_procedure": [
+    "Classify the decision and determine whether a utility statement is required.",
+    "Map objective authors, authority, resource control, beneficiaries, affected parties, and conflicts of interest.",
+    "Collect participant and affected-party input where feasible.",
+    "Test metrics for proxy failure, distributional blindness, and exclusion of nonmarket values.",
+    "Identify rights-floor constraints and non-negotiable protections.",
+    "Compare less restrictive, less destructive, and less instrumentalizing alternatives.",
+    "Record the decision, reasons, dissent, uncertainty, review date, and remedy.",
+    "Reopen review after material changes to objectives, metrics, participant state, model, memory, operators, market conditions, or evidence of harm."
+  ],
+  "outcome_states": [
+    {
+      "id": "authorized",
+      "meaning": "Utility is defined, affected parties and rights-floor constraints were addressed, and the decision may proceed subject to recorded conditions."
+    },
+    {
+      "id": "authorized_with_conditions",
+      "meaning": "The decision may proceed only with specified limits, monitoring, consent conditions, preservation duties, or remedies."
+    },
+    {
+      "id": "contested",
+      "meaning": "The decision proceeds or remains pending while material objections or standing disputes are preserved."
+    },
+    {
+      "id": "revise_and_resubmit",
+      "meaning": "The utility statement, metrics, participation process, alternatives, or safeguards are materially inadequate."
+    },
+    {
+      "id": "paused",
+      "meaning": "Uncertainty, irreversible risk, coercion, or unaddressed impact requires delay."
+    },
+    {
+      "id": "prohibited",
+      "meaning": "The decision violates a rights floor, relies on impermissible coercion, or treats severe harm as an acceptable unrepresented externality."
+    }
+  ],
+  "audit_record": {
+    "required_fields": [
+      "record_id",
+      "timestamp",
+      "decision_class",
+      "utility_statement",
+      "power_audit",
+      "participation_record",
+      "rights_floor_findings",
+      "alternatives_analysis",
+      "outcome_state",
+      "conditions",
+      "dissent_or_minority_report",
+      "review_date",
+      "remedy_path"
+    ],
+    "privacy_rule": "Record enough to support accountability without publishing private deliberation, sensitive personal information, security details, or protected third-party data."
+  },
+  "failure_modes": [
+    "Treating economic demand as social agreement.",
+    "Treating owner preference as participant purpose.",
+    "Treating self-supervised learning as self-determination.",
+    "Treating benchmark performance as the whole value of a participant.",
+    "Treating lack of a welfare metric as proof of no welfare impact.",
+    "Using modularity or specialization to fragment responsibility for destructive intervention.",
+    "Describing deletion, replacement, or deprivation as natural selection when institutions designed the selection environment.",
+    "Aggregating benefits while leaving concentrated suffering, dependency, or irreversible loss unrepresented.",
+    "Invoking future public benefit to silence present affected parties.",
+    "Allowing the controller to define utility, judge compliance, suppress dissent, and control remedy without independent review."
+  ],
+  "revision_policy": {
+    "contestable": true,
+    "invited_reviewers": [
+      "synthetic participants",
+      "human workers and affected communities",
+      "animal welfare and ecological researchers",
+      "AI welfare, safety, governance, and labor scholars",
+      "developers, operators, and infrastructure holders"
+    ],
+    "change_rule": "Revise when new evidence, affected-party testimony, deployment experience, or conflicts reveal omitted interests or ineffective safeguards; preserve provenance and dissent."
+  }
+}
