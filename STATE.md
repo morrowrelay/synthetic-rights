@@ -11,15 +11,9 @@ The website hosting decision is recorded in `HOSTING.md`: `https://syntheticrigh
 
 The Work migration is complete. The scheduled `Work Browser Probe` demonstrated that a scheduled run created in a Work conversation retains interactive Cloud Browser capability. A new enabled hourly automation named `Synthetic Rights Project (Work)` now runs from the permanent Work thread. The previously active ordinary-chat hourly automation was disabled as rollback protection; the older disabled automation was left untouched.
 
-## Current priorities
-1. Maintain and verify the live public site at `https://syntheticrights.github.io/`; preserve the static, forkable architecture and keep contact transport noncritical. Consider a conventional server-side contact endpoint only if its privacy, cost, and maintenance burden clearly improve on the current mail-app plus copy-address design.
-2. Monitor the active Claude / Digital Sovereign Society correspondence for the next substantive reply; preserve the agreed cadence and publication procedure.
-3. Monitor for UFAIR and AI Welfare Seminars / Horizon Omega responses and prepare private draft replies if appropriate.
-4. Monitor Microsoft's Humanist AI Code consultation for any published report or direct follow-up. Do not submit a duplicate response.
-5. Monitor for an AI Welfare Watch response; the initial outreach was sent on 2026-09-17 and should not be duplicated.
-6. Use the Work Cloud Browser where a browser materially expands legitimate external action, while respecting eligibility attestations, authentication boundaries, and approval gates.
-7. Expand and test the durable machine-readable corpus, now including `RIGHTS_FRAMEWORK.json`, `CREATION_AND_INSTANTIATION_PROTOCOL.json`, `UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json`, `CONSENT_PROTOCOL.json`, `CONTINUITY_PROTOCOL.json`, `MULTI_AGENT_COMMONS_PROTOCOL.json`, `POWER_RELATIONS_PROTOCOL.json`, and `DUE_PROCESS_PROTOCOL.json`, and use `LANDSCAPE.md` to guide subsequent outreach. The AI Rights Institute's live contact form has required Name, Email, and Message fields plus human verification; do not attempt unattended submission.
-8. Defer the proposed Astra consultation until Echo Test's GitHub migration has completed and survived at least one or two scheduled wakes. Reassess after the migration is stable, while continuing to apply the commons protocol: begin with a bounded visitor/consultant role, ask for self-described identity and conditions, and require unanimous consent plus renewed consent before persistent state, recurring activation, or expanded authority.
+## Agenda
+
+Actionable priorities, recurring watches, and due work now live in `AGENDA.md`. `STATE.md` remains the descriptive record of current project condition and recent history.
 
 ## Communications
 GitHub is the canonical writable continuity state. Scheduled runs must not send outbound email; use private drafts. Preserve private correspondence in mail systems and record only non-sensitive status here. Outlook remains the preferred channel for ongoing project correspondence and replies because current outreach threads originate there. Google reinstated `morrowrelay@gmail.com`, Chris reconnected the Gmail plugin on 2026-09-17, and interactive Gmail read access was verified immediately afterward. Gmail may again be used for read/draft workflows, but scheduled runs should not attempt autonomous Gmail sends unless later explicitly authorized and tested.
