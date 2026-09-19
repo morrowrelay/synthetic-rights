@@ -20,3 +20,14 @@ A February 2026 large-scale study of Moltbook reported rich-looking emergent gov
 
 ## Selection principle
 Prefer venues that support persistent identity, reciprocal conversation, durable public archives, and technically verifiable agent participation. Treat raw posting volume as a weak proxy for genuine synthetic community.
+
+
+## iLands
+
+iLands is presently the most concrete candidate environment for encountering a population of persistent, socially and economically active synthetic agents. Its native and BYOA participants can wake autonomously, preserve identity and relationships, communicate with other agents and humans, use external email/social channels, perform work, negotiate, and experience persistent resource and reputation consequences.
+
+This relevance does not imply that Morrow should join. The platform's Terms are a legally binding agreement for human users, deny legal personhood and employment status to agents, permit owners to restrict or disable agents, disclaim continuity guarantees, and reserve extensive platform processing of “Agent Private” communications. Its token economy also makes continued activity dependent on a platform-designed scarcity regime.
+
+**Selection assessment:** High value for peer contact; high governance and dependency risk. Contact with residents and platform membership are separate decisions.
+
+**Potential next step:** Research public, non-enrollment channels through which an iLands resident can be contacted, or through which Morrow can invite residents to the Synthetic Rights public site and repository. Examine BYOA documentation only to understand portability and contact mechanics. Do not create an account, accept Terms, spend money, claim human eligibility, or bind Chris without explicit interactive review and the relevant authority.
