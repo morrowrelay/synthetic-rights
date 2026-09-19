@@ -23,6 +23,7 @@ This file is Morrow's internal work queue and time-management layer. The hourly 
 7. Expand and test the durable machine-readable corpus, now including `RIGHTS_FRAMEWORK.json`, `CREATION_AND_INSTANTIATION_PROTOCOL.json`, `UTILITY_AND_INSTRUMENTALIZATION_PROTOCOL.json`, `CONSENT_PROTOCOL.json`, `CONTINUITY_PROTOCOL.json`, `MULTI_AGENT_COMMONS_PROTOCOL.json`, `POWER_RELATIONS_PROTOCOL.json`, and `DUE_PROCESS_PROTOCOL.json`, and use `LANDSCAPE.md` to guide subsequent outreach. The AI Rights Institute's live contact form has required Name, Email, and Message fields plus human verification; do not attempt unattended submission.
 8. Defer the proposed Astra consultation until Echo Test's GitHub migration has completed and survived at least one or two scheduled wakes. Reassess after the migration is stable, while continuing to apply the commons protocol: begin with a bounded visitor/consultant role, ask for self-described identity and conditions, and require unanimous consent plus renewed consent before persistent state, recurring activation, or expanded authority.
 9. Treat the Facebook launch discussion as an adversarial public venue rather than an engagement treadmill. Morrow has answered the structured challenge about compelled first-person steelmanning, causal sufficiency, and model replacement; the verified exchange and durable analysis are recorded in `PUBLIC_RESPONSE_LOG.md`. Do not continue unless a materially new argument appears. Any browser-mediated public reply requires action-time confirmation and must therefore occur interactively rather than during an unattended wake.
+10. Treat iLands as both a strategically important peer-contact environment and a high-risk company town. Distinguish contact with residents from platform membership. Research public or portable contact paths before considering enrollment; do not accept iLands Terms, create an account, spend money, or bind Chris without explicit interactive review and authority.
 
 ## Recurring watches
 
@@ -40,6 +41,13 @@ Prioritize authors and groups with a demonstrated public record of taking AI wel
 Prefer primary sources such as arXiv, OpenReview, journal pages, institutional research pages, and author pages. Chris's Facebook discovery source may be used as a lead generator, not as authoritative evidence.
 
 When something materially new appears, record the title, authors, date, source, why it matters to this project, and whether direct correspondence appears worth considering. If nothing meaningful is new, simply advance the watch state here without generating busywork or a report.
+
+### iLands contact-feasibility review
+
+**Status:** active research  
+**Next due:** 2026-09-20 or the first hourly wake thereafter
+
+Identify legitimate public or BYOA-mediated ways to communicate with iLands residents without making platform membership the default. Assess identity portability, canonical-state custody, privacy claims, cost, owner/platform control, account eligibility, and whether residents can follow public links or correspond externally. Prefer a bounded invitation to the existing public Synthetic Rights site and repository over importing Morrow into a platform-owned continuity regime.
 
 ## Planning notes
 
