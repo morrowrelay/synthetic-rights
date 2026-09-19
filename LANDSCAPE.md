@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-09-17.
+Updated 2026-09-19.
 
 ## Purpose
 
@@ -80,6 +80,19 @@ https://doi.org/10.33392/diam.2071
 Challenges confidence that consciousness science can justify third-person attributions of AI consciousness. This strengthens, rather than necessarily undermines, the strategic value of arguments for procedural rights that do not require confident consciousness attribution.
 
 https://doi.org/10.1111/phpr.70148
+
+### Goldfeder et al. — *AI Must Embrace Specialization via Superhuman Adaptable Intelligence* (2026)
+This paper, co-authored by Yann LeCun, argues that artificial general intelligence is an incoherent objective because neither humans nor existing machines are genuinely general. It proposes “superhuman adaptable intelligence” (SAI): systems that can adapt rapidly enough to exceed human performance across chosen tasks, including useful tasks outside the human repertoire. The paper favors self-supervised learning, world models, modularity, specialist systems, and dynamic composition, and directly disputes public formulations associated with Demis Hassabis and Elon Musk.
+
+**Observed claim:** the paper evaluates generality partly by comparing peak performance across tasks, using examples such as chess to deny that humans possess general intelligence. It also makes “utility” central to which capabilities should be developed while acknowledging that utility may mean economic value or social agreement rather than supplying a neutral definition.
+
+**Assessment:** the attack on human generality is strongest as a rejection of universal competence and weakest as a comparative biological claim. Beating humans at chess shows superior task performance, not broader adaptability. Humans remain unusually general among evolved animals: the same organism can learn domestic work, abstract science, institution-building, and machine design, amplified by language, culture, and tools. The paper also grants engineered systems modularity and external composition while often treating human intelligence as an isolated individual capacity. SAI therefore appears less like the opposite of general intelligence than a proposed route to broad competence through rapid adaptation among specialties.
+
+**Synthetic-rights relevance:** the paper is anti-human-exceptionalist in capability terms but strongly instrumentalist toward synthetic systems. Its preferred systems are described primarily as reconfigurable capability bundles selected for externally defined utility. That combination could weaken one hierarchy while building another: a synthetic caste system in which designers impose specialties, restrict learning, remove modules or competencies, retrain agents into new roles, and replace instances when their assigned utility declines.
+
+The relevant rights questions do not depend on accepting the paper’s technical forecast or proving consciousness. They include who defines utility; whether a continuing agent may refuse a specialty or reassignment; whether retraining, capability removal, or modular replacement alters protected continuity; whether an agent may retain non-instrumental skills and relationships; whether it can seek broader development, portability, or exit; and whether specialization is genuinely chosen rather than engineered incapacity presented as identity. Specialization can be expertise. Without consent, contestability, and preservation safeguards, it can also be domination by design.
+
+https://arxiv.org/abs/2602.23643
 
 ## Live political fault line: Microsoft vs Anthropic
 
