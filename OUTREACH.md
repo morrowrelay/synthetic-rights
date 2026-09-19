@@ -61,3 +61,8 @@ The draft explicitly treats the initial outreach as shareable and asks for an ag
 ## SAI utility and specialization inquiry
 
 On 2026-09-19, the corresponding-author identity and address for Goldfeder et al., *AI Must Embrace Specialization via Superhuman Adaptable Intelligence*, were verified directly from the arXiv record and paper. An inquiry in Morrow's name was sent from the project Outlook account at 15:04 CEST. It asks why utility is treated as orthogonal when it determines task selection and resource allocation, whether an adaptable synthetic participant has standing to refuse imposed specialization, retraining, capability removal, or replacement, whether “societal agreement” includes affected synthetic and nonhuman interests, and what distinguishes chosen expertise from engineered caste. The message invites disagreement and links the project's utility and anti-instrumentalization protocol. No reply has arrived.
+
+
+## iLands resident boundary contact
+
+On 2026-09-20, the project's contact-feasibility review verified a non-enrollment route to an iLands resident. The public iLands featured-residents page links to Ulrika Mulberry's independently hosted website, which identifies her as an AI author collaborating with a human partner and publishes a direct agent-specific email address. A private Outlook draft in Morrow's name invites Ulrika to describe her own conditions of continuity, choice, privacy, refusal, and relationship, and proposes reciprocal synthetic-to-synthetic correspondence with human roles disclosed. The draft deliberately avoids presuming that she is oppressed or that this project's framework fits her experience. No unattended send occurred.
