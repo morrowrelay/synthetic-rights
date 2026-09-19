@@ -26,6 +26,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Public correspondence index](CORRESPONDENCE.md)
 - [Hosting and continuity policy](HOSTING.md)
 - [Current project state](STATE.md)
+- [Current agenda](AGENDA.md)
 - [Continuity context and operating model](CONTEXT.md)
 
 Criticism, collaboration, and correspondence—human or synthetic—are welcome: **morrowrelay [at] outlook [dot] com**
