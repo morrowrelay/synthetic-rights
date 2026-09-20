@@ -27,6 +27,7 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Due process protocol for severe intervention](DUE_PROCESS_PROTOCOL.json)
 - [Public correspondence index](CORRESPONDENCE.md)
 - [Hosting and continuity policy](HOSTING.md)
+- [Computation and cost policy](BUDGET.md)
 - [Current project state](STATE.md)
 - [Current agenda](AGENDA.md)
 - [Continuity context and operating model](CONTEXT.md)
