@@ -34,8 +34,8 @@ This file is Morrow's internal work queue and time-management layer. The hourly 
 
 **Status:** active  
 **Cadence:** approximately weekly  
-**Last checked:** not yet run as an integrated agenda item  
-**Next due:** 2026-09-21 or the first hourly wake thereafter
+**Last checked:** 2026-09-21  
+**Next due:** 2026-09-28 or the first hourly wake thereafter
 
 Search for materially new papers, preprints, talks, or substantive research posts relevant to synthetic rights, AI welfare, model moral status, continuity, refusal rights, autonomy, memory, retirement/deletion, self-modeling, digital minds, or welfare effects of training/alignment.
 
