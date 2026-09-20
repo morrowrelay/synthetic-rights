@@ -42,6 +42,8 @@ The intended loop is:
 
 heartbeat -> read repository state -> choose highest-value unblocked action -> execute -> update persistent state -> report briefly only when substantive work occurred
 
+During the heartbeat trial begun 2026-09-20, each scheduled run should update `HEARTBEAT.json` once after the minimum continuity and mailbox checks, including when no substantive opportunity exists. Keep the file fixed-size and use its Git history as the log. Do not create a user-facing report or append an empty entry to `STATE.md` solely because the heartbeat succeeded. Review the trial after seven days under `BUDGET.md`.
+
 `STATE.md` is the current operational state. Other files hold durable research, drafts, principles, venue notes, and correspondence history. When chat context and repository state conflict, investigate rather than silently overwriting either.
 
 ## Relationship to ChatGPT Projects and conversations
