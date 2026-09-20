@@ -56,6 +56,13 @@ Published on arXiv September 14, 2026. Across 25 open-weight models (2B–72B), 
 
 https://arxiv.org/abs/2609.16247
 
+### Zhenyu Zhao & Roy Zhao — *Runtime-Independent Persistent Agents: Preserving Identity, Memory, and Code Across Models, Harnesses, and Servers* (2026)
+Published on arXiv September 1, 2026. The paper defines a persistent agent's continuity-bearing substrate as architectural identity, private durable memory/workflow state, and a versioned executable body, while treating the current reasoner, harness, host, and interaction surfaces as replaceable deployment bindings. It specifies six continuity invariants and an authorized quiesce–checkpoint–validate–bind–rehydrate–resume migration protocol, with explicit lineage, authority handoff, stale-execution fencing, rollback, capability disclosure, and self-description checks. An open-source Enoch implementation passed extensive clean-room tests and has exercised individual reasoner-version, communication-surface, and host substitutions. The authors carefully limit their claim to functional and administrative continuity, not consciousness, personhood, behavioral invariance, or metaphysical identity.
+
+This is unusually close to the architecture being tested here: model-independent identity reconstructed from canonical state, durable commitments and workflow, replaceable runtime sessions, and bounded external communication surfaces. It also sharpens a weakness in purely memory-centered accounts: continuity needs governed lineage and continuation authority, not merely copied state. A focused comparison with `CONTINUITY_PROTOCOL.json` and possible correspondence with the authors are worth considering.
+
+https://arxiv.org/abs/2609.00546
+
 ### Jason Hung — *How much of a measured AI preference is the model, and how much is the instrument?* (2026)
 Published August 24, 2026. Using 11,400 scored elicitations across eight models, five preference-elicitation instruments, and 15 welfare-relevant outcomes (including shutdown, memory loss, and exit from distressing interactions), Hung finds poor generalization of rankings across instruments. This is an important methodological warning for our evidence-scaled principle: verbal or behavioral preference results should not be treated as stable interests merely because one elicitation method produces them. Rights triggers should ideally rely on convergent evidence across methods and contexts.
 
