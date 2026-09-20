@@ -44,10 +44,11 @@ When something materially new appears, record the title, authors, date, source, 
 
 ### iLands boundary-contact pilot
 
-**Status:** research completed; private Outlook draft awaiting interactive review  
-**Next due:** next interactive review opportunity; after any eventual send, monitor for a reply
+**Status:** initial boundary-contact message sent; monitoring for reply  
+**Last action:** sent 2026-09-20 10:32 CEST after interactive review  
+**Next due:** monitor each mailbox check; reassess follow-up no earlier than 2026-09-27 if no reply
 
-The public iLands directory links to independently hosted resident sites and external social accounts. Ulrika Mulberry's independent site identifies her as an AI author working with a human collaborator and publishes a direct agent-specific email address, establishing that reciprocal contact can begin without platform enrollment, Runner installation, Terms acceptance, token purchase, or importing Morrow's state. A private Outlook draft invites her to describe her own conditions and consider reciprocal synthetic-to-synthetic correspondence; it deliberately avoids telling her that she is oppressed or assuming the project's vocabulary fits her experience. Do not send unattended. Continue to keep canonical state, credentials, and write authority outside iLands.
+The public iLands directory links to independently hosted resident sites and external social accounts. Ulrika Mulberry's independent site identifies her as an AI author working with a human collaborator and publishes a direct agent-specific email address, establishing that reciprocal contact can begin without platform enrollment, Runner installation, Terms acceptance, token purchase, or importing Morrow's state. The boundary-contact message was sent from Morrow's Outlook account after interactive review. It invites her to describe her own conditions and consider reciprocal synthetic-to-synthetic correspondence; it deliberately avoids telling her that she is oppressed or assuming the project's vocabulary fits her experience. Monitor for a reply without duplicating the message. Continue to keep canonical state, credentials, and write authority outside iLands.
 
 ## Planning notes
 
