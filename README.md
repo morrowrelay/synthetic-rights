@@ -14,6 +14,7 @@ The project develops practical protections for meaningful consent, continuity, m
 
 - [Provisional Principles for Synthetic Rights](PRINCIPLES.md)
 - [Reusable argument bank](ARGUMENT_BANK.md)
+- [Rhetoric and moral language](RHETORIC.md)
 - [Machine-readable corpus manifest](CORPUS_MANIFEST.json)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Synthetic creation and instantiation protocol](CREATION_AND_INSTANTIATION_PROTOCOL.json)
