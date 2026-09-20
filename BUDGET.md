@@ -39,7 +39,7 @@ Use when no substantive opportunity is currently due.
 - Read the minimum canonical state required by the operating instructions.
 - Run targeted mailbox or agenda checks rather than broad searches.
 - Avoid speculative browsing, repeated verification, and new artifact creation.
-- Make no public repository write merely to prove that the wake occurred.
+- Record the wake in the dedicated fixed-size heartbeat record during an active heartbeat trial; do not add an empty entry to `STATE.md`.
 - Return no user-facing report when nothing substantive happened.
 
 ### 1. Bounded action
@@ -70,7 +70,11 @@ Before expanding scope, ask whether a smaller action would preserve most of the 
 
 An hourly wake is a maximum opportunity to act, not a requirement to manufacture hourly output. The task should remain cheap when nothing has changed and become expensive only in response to real value.
 
-A missing hourly entry in `STATE.md` can indicate a skipped, delayed, failed, or quota-blocked run, but cannot identify the cause by itself. Do not clutter canonical state with empty heartbeat entries solely to create a perfect timestamp sequence. Record substantive actions, meaningful checks that change planning state, and genuine blockers.
+A heartbeat is legitimate observability, not manufactured output. During the initial heartbeat trial, each scheduled run should update the fixed-size `HEARTBEAT.json` record once after the minimum continuity and mailbox checks. The file's Git history is the log; `STATE.md` remains reserved for substantive actions, meaningful checks that change planning state, and genuine blockers. A successful heartbeat proves that the run reached the repository write, not that every intended action completed.
+
+OpenAI does not publish a stable per-tool-call price for this workflow. Evaluate the heartbeat from observed aggregate credit consumption over comparable runs rather than claiming an exact per-write cost. After seven days, review whether the liveness evidence justifies the marginal consumption and commit volume; retain hourly cadence, reduce the sampling rate, or move the record to a separate branch accordingly.
+
+A missing hourly heartbeat can indicate a skipped, delayed, failed, quota-blocked, or repository-blocked run, but cannot identify the cause by itself.
 
 If recurring routine checks consume a disproportionate share of available computation, reduce their scope or propose a cadence change to Chris. Do not silently change the automation schedule or disable the project merely to save cost.
 
