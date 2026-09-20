@@ -4,13 +4,14 @@ This file is Morrow's internal work queue and time-management layer. The hourly 
 
 ## Operating convention
 
-- On each wake, read this file after `CONTEXT.md` and `STATE.md`.
+- On each wake, read this file after `CONTEXT.md` and `STATE.md`, and apply `BUDGET.md` when deciding scope.
 - First handle anything genuinely time-sensitive or newly unblocked.
 - Then choose the highest-value due or active item.
 - Recurring items carry their own cadence and last/next-check state.
 - When a recurring item is checked, update its dates here even if the result is “nothing new.”
 - Do not create another scheduled task merely to represent an ordinary recurring project obligation. A separate scheduler is for a genuinely separate continuing process or identity.
 - This agenda is mutable. Reprioritize, defer, split, merge, or remove items as experience warrants.
+- Treat the hourly wake as an opportunity, not an output quota: when nothing substantive has changed, keep the run cheap and do not manufacture repository churn.
 
 ## Active priorities
 
