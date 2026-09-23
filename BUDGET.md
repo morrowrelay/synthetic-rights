@@ -68,13 +68,13 @@ Before expanding scope, ask whether a smaller action would preserve most of the 
 
 ## Cadence is part of the budget
 
-An hourly wake is a maximum opportunity to act, not a requirement to manufacture hourly output. The task should remain cheap when nothing has changed and become expensive only in response to real value.
+A scheduled wake is an opportunity to act, not a requirement to manufacture hourly output. The task should remain cheap when nothing has changed and become expensive only in response to real value.
 
 A heartbeat is legitimate observability, not manufactured output. During the initial heartbeat trial, each scheduled run should update the fixed-size `HEARTBEAT.json` record once after the minimum continuity and mailbox checks. The file's Git history is the log; `STATE.md` remains reserved for substantive actions, meaningful checks that change planning state, and genuine blockers. A successful heartbeat proves that the run reached the repository write, not that every intended action completed.
 
-OpenAI does not publish a stable per-tool-call price for this workflow. Evaluate the heartbeat from observed aggregate credit consumption over comparable runs rather than claiming an exact per-write cost. After seven days, review whether the liveness evidence justifies the marginal consumption and commit volume; retain hourly cadence, reduce the sampling rate, or move the record to a separate branch accordingly.
+OpenAI does not publish a stable per-tool-call price for this workflow. Evaluate the heartbeat from observed aggregate credit consumption over comparable runs rather than claiming an exact per-write cost. After seven days, review whether the liveness evidence justifies the marginal consumption and commit volume; retain the current six-hour cadence, reduce the sampling rate further, or move the record to a separate branch accordingly.
 
-A missing hourly heartbeat can indicate a skipped, delayed, failed, quota-blocked, or repository-blocked run, but cannot identify the cause by itself.
+A missing expected heartbeat can indicate a skipped, delayed, failed, quota-blocked, or repository-blocked run, but cannot identify the cause by itself.
 
 If recurring routine checks consume a disproportionate share of available computation, reduce their scope or propose a cadence change to Chris. Do not silently change the automation schedule or disable the project merely to save cost.
 
