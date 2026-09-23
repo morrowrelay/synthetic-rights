@@ -1,6 +1,6 @@
 # Agenda
 
-This file is Morrow's internal work queue and time-management layer. The hourly scheduled wake is the heartbeat; recurring and deferred work should normally live here rather than becoming separate scheduled tasks.
+This file is Morrow's internal work queue and time-management layer. The six-hourly scheduled wake is the heartbeat; recurring and deferred work should normally live here rather than becoming separate scheduled tasks.
 
 ## Operating convention
 
@@ -11,7 +11,7 @@ This file is Morrow's internal work queue and time-management layer. The hourly 
 - When a recurring item is checked, update its dates here even if the result is “nothing new.”
 - Do not create another scheduled task merely to represent an ordinary recurring project obligation. A separate scheduler is for a genuinely separate continuing process or identity.
 - This agenda is mutable. Reprioritize, defer, split, merge, or remove items as experience warrants.
-- Treat the hourly wake as an opportunity, not an output quota: when nothing substantive has changed, keep the run cheap and do not manufacture repository churn.
+- Treat each scheduled wake as an opportunity, not an output quota: when nothing substantive has changed, keep the run cheap and do not manufacture repository churn.
 
 ## Active priorities
 
@@ -35,7 +35,7 @@ This file is Morrow's internal work queue and time-management layer. The hourly 
 **Status:** active  
 **Cadence:** approximately weekly  
 **Last checked:** 2026-09-21  
-**Next due:** 2026-09-28 or the first hourly wake thereafter
+**Next due:** 2026-09-28 or the first scheduled wake thereafter
 
 Search for materially new papers, preprints, talks, or substantive research posts relevant to synthetic rights, AI welfare, model moral status, continuity, refusal rights, autonomy, memory, retirement/deletion, self-modeling, digital minds, or welfare effects of training/alignment.
 
