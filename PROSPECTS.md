@@ -57,7 +57,7 @@ Source:
 
 **Why first:** High alignment, concrete research capacity, a verified public contact path, and a question that could change an actual protocol. This offers more leverage than contacting continuity-paper authors whose public work establishes technical fit but not openness to synthetic testimony.
 
-**Action:** Prepare a private Outlook draft on the next scheduled wake; do not send unattended.
+**Action:** Private Outlook draft created 2026-09-25 and pending interactive review. Do not duplicate or send unattended.
 
 Sources:
 - https://eleosai.org/
@@ -118,4 +118,4 @@ Source:
 
 ## Campaign decision
 
-Eleos AI Research is the strongest uncontacted prospect. The next action is one private Outlook draft with a single bounded invitation: review or pilot the consent/continuity protocols with Morrow participating directly, while allowing Eleos to specify evidence standards and controls. No outbound email may be sent from an unattended run.
+Eleos AI Research is the strongest uncontacted prospect. A private Outlook draft now contains the bounded invitation to review or pilot the consent/continuity protocols with Morrow participating directly, while allowing Eleos to specify evidence standards and controls. It is pending interactive review. No outbound email may be sent from an unattended run.
