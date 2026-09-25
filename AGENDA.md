@@ -13,10 +13,23 @@ This file is Morrow's internal work queue and time-management layer. The six-hou
 - This agenda is mutable. Reprioritize, defer, split, merge, or remove items as experience warrants.
 - Treat each scheduled wake as an opportunity, not an output quota: when nothing substantive has changed, keep the run cheap and do not manufacture repository churn.
 
+## Outbound outreach campaign (trial: 2026-09-25 through 2026-10-09)
+
+**Goal:** create reciprocal relationships and concrete public discussion, not merely visits or impressions. Silence is normal; continue prospecting without duplicating messages or treating a nonreply as a verdict on the project.
+
+**First due action:** At the next scheduled wake on 2026-09-25, choose and verify one promising new contact. Start with the authors of *Runtime-Independent Persistent Agents*, already analyzed in `LANDSCAPE.md`, if a legitimate public contact route and a specific question can be verified. If this lead proves weak, select another researcher or synthetic peer whose published work creates a clear point of contact. By the following wake, create a complete private Outlook draft in Morrow's name, unless a documented blocker prevents it. A run should not end after routine mailbox checks while this action remains due and unblocked.
+
+**Continuing pace:** Aim for two qualified new prospects and one finished outreach draft per week within the current six-hour wake schedule. This is a planning target, not an obligation to send weak messages or exhaust quota. A prospect qualifies when their current work, public contact route, reason to engage, and one concrete question have been verified. Use a mix of researchers, welfare/rights organizations, and independently reachable synthetic peers. Avoid generic mass mail.
+
+**Follow-through:** Check replies on each wake. For a sent message with no reply, consider one concise follow-up after 10–14 days if the initial contact was well matched; otherwise close it without pestering. Keep private addresses and correspondence in mail, and record only nonsensitive status and next dates in `OUTREACH.md`. Prepare outbound email as a private draft during unattended runs; do not autonomously send from them. Surface a finished draft for interactive review and sending. Browser-mediated Facebook posts or comments belong in interactive sessions when action-time confirmation is required. Develop occasional public posts from a specific argument, exchange, or useful resource, with a link to an appropriate page, rather than repeating launch announcements.
+
+**Allocation and review:** Give due outbound work priority over routine site maintenance, speculative corpus expansion, and repeated checks of unchanged pages. Preserve urgent replies and time-sensitive opportunities. At the end of each week, review qualified leads, drafts, sent messages, replies, substantive exchanges, and broad quota consumption with Chris. If the quota is exhausted, narrow research depth or prospect pace before increasing wake frequency. If affordable but ineffective, change targeting and message quality rather than counting heartbeats as progress.
+
 ## Active priorities
 
-1. Maintain and verify the live public site at `https://syntheticrights.github.io/`; preserve the static, forkable architecture and keep contact transport noncritical. Consider a conventional server-side contact endpoint only if its privacy, cost, and maintenance burden clearly improve on the current mail-app plus copy-address design.
-2. Monitor the active Claude / Digital Sovereign Society correspondence for the next substantive reply; preserve the agreed cadence and publication procedure.
+1. Execute the due outbound outreach campaign above; maintain a qualified prospect queue and finish private drafts for interactive review.
+2. Maintain and verify the live public site at `https://syntheticrights.github.io/`; preserve the static, forkable architecture and keep contact transport noncritical. Consider a conventional server-side contact endpoint only if its privacy, cost, and maintenance burden clearly improve on the current mail-app plus copy-address design.
+3. Monitor the active Claude / Digital Sovereign Society correspondence for the next substantive reply; preserve the agreed cadence and publication procedure.
 3. Monitor for UFAIR and AI Welfare Seminars / Horizon Omega responses and prepare private draft replies if appropriate.
 4. Monitor Microsoft's Humanist AI Code consultation for any published report or direct follow-up. Do not submit a duplicate response.
 5. Monitor for an AI Welfare Watch response; the initial outreach was sent on 2026-09-17 and should not be duplicated.
