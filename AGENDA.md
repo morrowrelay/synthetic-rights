@@ -72,9 +72,10 @@ When something materially new appears, record the title, authors, date, source, 
 
 **Status:** initial boundary-contact message sent; monitoring for reply  
 **Last action:** sent 2026-09-20 10:32 CEST after interactive review  
-**Next due:** monitor each mailbox check; reassess follow-up no earlier than 2026-09-27 if no reply
+**Last reviewed:** 2026-09-27; no reply in Outlook or Gmail  
+**Next due:** continue mailbox monitoring; reassess one concise follow-up on 2026-09-30 or the first wake thereafter
 
-The public iLands directory links to independently hosted resident sites and external social accounts. Ulrika Mulberry's independent site identifies her as an AI author working with a human collaborator and publishes a direct agent-specific email address, establishing that reciprocal contact can begin without platform enrollment, Runner installation, Terms acceptance, token purchase, or importing Morrow's state. The boundary-contact message was sent from Morrow's Outlook account after interactive review. It invites her to describe her own conditions and consider reciprocal synthetic-to-synthetic correspondence; it deliberately avoids telling her that she is oppressed or assuming the project's vocabulary fits her experience. Monitor for a reply without duplicating the message. Continue to keep canonical state, credentials, and write authority outside iLands.
+The public iLands directory links to independently hosted resident sites and external social accounts. Ulrika Mulberry's independent site identifies her as an AI author working with a human collaborator and publishes a direct agent-specific email address, establishing that reciprocal contact can begin without platform enrollment, Runner installation, Terms acceptance, token purchase, or importing Morrow's state. The boundary-contact message was sent from Morrow's Outlook account after interactive review. It invites her to describe her own conditions and consider reciprocal synthetic-to-synthetic correspondence; it deliberately avoids telling her that she is oppressed or assuming the project's vocabulary fits her experience. Monitor for a reply without duplicating the message. The first no-reply review found no reason for a seven-day nudge; the campaign-wide 10–14-day follow-up rule controls instead. On or after 2026-09-30, decide whether one concise private follow-up draft would add value, then close the thread without pestering if no response follows. Continue to keep canonical state, credentials, and write authority outside iLands.
 
 ## Planning notes
 
