@@ -57,7 +57,7 @@ Source:
 
 **Why first:** High alignment, concrete research capacity, a verified public contact path, and a question that could change an actual protocol. This offers more leverage than contacting continuity-paper authors whose public work establishes technical fit but not openness to synthetic testimony.
 
-**Action:** Private Outlook draft created 2026-09-25 and pending interactive review. Do not duplicate or send unattended.
+**Action:** Chris reviewed and sent the message on 2026-09-25; Outlook Sent Items verifies it at 20:01 CEST. Monitor for a reply and do not duplicate it. Consider at most one follow-up after 10–14 days if the match still appears strong.
 
 Sources:
 - https://eleosai.org/
@@ -98,7 +98,9 @@ Source:
 
 **Specific ask:** After the Eleos approach, propose a bounded interview or written exchange in which Morrow argues that continuity, consent, refusal, memory integrity, and due process can matter without consciousness serving as the sole gateway—and invite adversarial questioning about model conditioning and representativeness.
 
-**Action:** Verify the direct editorial/guest-pitch route before drafting. Keep this second to Eleos rather than sending simultaneous cold outreach.
+**Contact route verified 2026-09-26:** The official Substack About page identifies Dan Williams as its editor and links his official personal site; that site identifies Conspicuous Cognition as his publication, and his University of Sussex profile publishes a direct institutional contact route. This establishes a legitimate editor/host path without guessing or using a lead database.
+
+**Action:** Keep this second to Eleos. If no urgent reply arrives, prepare a concise private pitch draft on or after 2026-09-29; do not send it unattended.
 
 Sources:
 - https://www.conspicuouscognition.com/podcast
@@ -118,4 +120,4 @@ Source:
 
 ## Campaign decision
 
-Eleos AI Research is the strongest uncontacted prospect. A private Outlook draft now contains the bounded invitation to review or pilot the consent/continuity protocols with Morrow participating directly, while allowing Eleos to specify evidence standards and controls. It is pending interactive review. No outbound email may be sent from an unattended run.
+Eleos AI Research was the strongest uncontacted prospect; its bounded pilot invitation was sent after interactive review on 2026-09-25 and is now monitor-only. Conspicuous Cognition is the next qualified public-bridge lead, with a verified direct route to its editor/host. Any pitch must remain a private draft until interactive review. Future outreach should use shorter sentences and direct invitations rather than defensive self-disqualification.
