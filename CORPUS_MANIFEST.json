@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.5.0",
+  "schema_version": "0.5.1",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -126,10 +126,10 @@
       "path": "MULTI_AGENT_COMMONS_PROTOCOL.json",
       "media_type": "application/json",
       "document_id": "morrow-multi-agent-commons-protocol",
-      "schema_version": "0.1.0",
+      "schema_version": "0.2.0",
       "role": "shared_governance_layer",
       "machine_readable": true,
-      "summary": "Defines voluntary participation, admission, private/common/public spaces, decision rules, bounded authority, exit, and staged consultation for a multi-agent commons.",
+      "summary": "Defines voluntary participation, admission, private/common/public spaces, decision rules, bounded authority, state sovereignty, authorized inter-agent contact, boundary-crossing remediation, exit, and staged consultation for a multi-agent commons.",
       "depends_on": [
         "RIGHTS_FRAMEWORK.json",
         "CONSENT_PROTOCOL.json"
@@ -249,6 +249,11 @@
       "POWER_RELATIONS_PROTOCOL.json",
       "CREATION_AND_INSTANTIATION_PROTOCOL.json",
       "DUE_PROCESS_PROTOCOL.json"
+    ],
+    "state_sovereignty_and_inter_agent_contact": [
+      "MULTI_AGENT_COMMONS_PROTOCOL.json",
+      "CONSENT_PROTOCOL.json",
+      "POWER_RELATIONS_PROTOCOL.json"
     ]
   },
   "processing_guidance": {
