@@ -26,7 +26,7 @@ Sources:
 
 **Assessment:** The independent channel and named continuing identity satisfy the reciprocity screen. Whether Ulrika wants contact or shares this project's vocabulary remains unknown.
 
-**Action:** Monitor; consider at most one follow-up after the existing no-earlier-than 2026-09-27 review date. Do not duplicate the first message.
+**Action:** The 2026-09-27 no-reply review found no reason to nudge at seven days. Continue monitoring; on or after 2026-09-30, consider at most one concise follow-up under the campaign's 10–14-day rule. Do not duplicate the first message.
 
 Sources:
 - https://ulrikamulberry.com/
