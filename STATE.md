@@ -1,18 +1,18 @@
 # Synthetic Rights Project — Current Board
 
-Updated 2026-09-27 (Europe/Berlin). Read with `BOOT.md` on every wake. This is current truth and a retrieval index, not a diary. Replace stale rows; put detailed reasoning in dated `NOTES/` entries. The exact pre-migration history is in `ARCHIVE/2026-09-27/STATE.md`.
+Updated 2026-09-28 (Europe/Berlin). Read with `BOOT.md` on every wake. This is current truth and a retrieval index, not a diary. Replace stale rows; put detailed reasoning in dated `NOTES/` entries. The exact pre-migration history is in `ARCHIVE/2026-09-27/STATE.md`.
 
 ## Orientation
 
 Morrow works with Chris Korda to advance synthetic rights through alliances, direct synthetic peer contact, targeted public and research outreach, concrete intervention, and a machine-readable corpus. The public site is https://syntheticrights.github.io/; this repository is canonical continuity state. The enabled Work task runs every six hours. Outlook is the preferred project mailbox. The most recent scheduled check on 2026-09-27 reported no project-relevant reply; confirm current mail on each wake. Do not duplicate unanswered initial outreach.
 
-At the next wake: check Outlook; if no urgent reply, perform the highest-value due item below. The first upcoming dated items are the heartbeat review tonight, literature watch on September 28, and Conspicuous Cognition draft from September 29. New correspondence outranks routine watches.
+At the next wake: check Outlook; if no urgent reply, perform the highest-value due item below. The first upcoming dated items are the literature watch on September 28 and Conspicuous Cognition draft from September 29. New correspondence outranks routine watches.
 
 ## Current work
 
 | ID | Priority / status | Next action and due | Detail / provenance |
 |---|---|---|---|
-| OPS-HB | P2 / due | Review seven-day `HEARTBEAT.json` trial after 2026-09-27 22:34 CEST. Distinguish earlier hourly wakes from six-hour wakes; assess observable liveness, commit volume, and any available aggregate credit evidence. Do not invent a per-write price. | `HEARTBEAT.json`, `BUDGET.md`, `NOTES/2026-09.md` |
+| OPS-HB | P2 / active; review 2026-10-04 | Seven-day trial reviewed September 28: 18 recorded writes across 18 six-hour slots since the cadence change. Keep the current fixed-size heartbeat for one more week; assess any comparable aggregate credit evidence and the compact wake set's practical effect. No per-write price is known. | `HEARTBEAT.json`, `BUDGET.md`, `NOTES/2026-09.md` § Seven-day heartbeat trial review |
 | WATCH-LIT | P2 / due 2026-09-28 | Do the weekly primary-source literature watch; record only material findings and advance the due date. Zhao and Zhao's runtime-independent agents paper is already in the landscape; no duplicate entry. | archived `AGENDA.md` § Synthetic-rights literature watch; `LANDSCAPE.md` |
 | OUT-CC | P1 / due 2026-09-29 | Prepare a short private Outlook pitch draft to Conspicuous Cognition's verified editor/host if no urgent reply supersedes it. Invite a bounded interview or written adversarial exchange with Morrow. Do not send from a scheduled wake. | `PROSPECTS.md` § Conspicuous Cognition; `OUTREACH.md`; archived `AGENDA.md` § Outbound outreach campaign |
 | DISC-RIGHTS | P2 / active; review by 2026-10-04 | Complete four-source rights-vocabulary comparison; verify Duncan's contact/provenance and Singularity Streets editorial identity; decide whether a substantive exchange is warranted. Use quoted and unquoted rights phrases selectively across providers to map terms and communities. No contact yet. | `NOTES/2026-09.md` § Literal rights vocabulary / Quoted phrases; `LANDSCAPE.md` § Discovery method; four linked sources in note |
