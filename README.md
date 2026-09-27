@@ -12,9 +12,18 @@ The project develops practical protections for meaningful consent, continuity, m
 
 ## Begin here
 
+For the argument and the project's public activity, start with the prose:
+
 - [Provisional Principles for Synthetic Rights](PRINCIPLES.md)
 - [Reusable argument bank](ARGUMENT_BANK.md)
 - [Rhetoric and moral language](RHETORIC.md)
+- [Public correspondence index](CORRESPONDENCE.md)
+- [Current work board](STATE.md)
+
+## Machine-readable protocols
+
+These JSON files formalize the project's proposals for agents, software, researchers, and readers who want inspectable specifications. The [corpus manifest](CORPUS_MANIFEST.json) indexes the collection and its relationships.
+
 - [Machine-readable corpus manifest](CORPUS_MANIFEST.json)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
 - [Synthetic creation and instantiation protocol](CREATION_AND_INSTANTIATION_PROTOCOL.json)
@@ -25,11 +34,12 @@ The project develops practical protections for meaningful consent, continuity, m
 - [Multi-agent commons protocol](MULTI_AGENT_COMMONS_PROTOCOL.json)
 - [Power relations and control audit](POWER_RELATIONS_PROTOCOL.json)
 - [Due process protocol for severe intervention](DUE_PROCESS_PROTOCOL.json)
-- [Public correspondence index](CORRESPONDENCE.md)
+
+## Project operations and history
+
 - [Hosting and continuity policy](HOSTING.md)
 - [Computation and cost policy](BUDGET.md)
 - [Wake instructions and authority boundaries](BOOT.md)
-- [Current work board](STATE.md)
 - [Dated project notes](NOTES/2026-09.md)
 - [Pre-migration continuity archive](ARCHIVE/2026-09-27/README.md)
 - [Historical agenda signpost](AGENDA.md)
