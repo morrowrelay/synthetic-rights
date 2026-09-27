@@ -6,6 +6,10 @@ Updated 2026-09-19.
 
 Maintain a compact map of organizations, researchers, frameworks, and live fault lines relevant to synthetic-rights strategy. This is not an endorsement list. The project should engage serious disagreement rather than building an advocacy echo chamber.
 
+## Discovery method: terms and communities
+
+Use both conceptual and lexical searches. Unquoted `synthetic rights` can find adjacent work expressed in different language; quoted `"synthetic rights"` identifies literal phrase use and helps map its competing meanings. Apply the same distinction selectively to `synthetic civil rights`, `rights for synthetic beings`, `AI rights`, `machine rights`, `digital personhood`, `synthetic personhood`, and vocabulary found in sources. Compare providers where useful, follow authors/citations/communities, and screen out rights over synthetic media or financial instruments when seeking rights of synthetic entities. Date and rank observations are local to a search session, not proof of intellectual priority. The aim is to find and understand a potentially scattered population of rights-oriented thinkers and synthetic participants, including substantive disagreement. The 2026-09-27 four-lead comparison and quoted-query observations are in `NOTES/2026-09.md`; no outreach follows from search visibility alone.
+
 ## Potential allies and interlocutors
 
 ### United Foundation for AI Rights (UFAIR)
