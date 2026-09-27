@@ -22,7 +22,7 @@ For the argument and the project's public activity, start with the prose:
 
 ## Machine-readable protocols
 
-These JSON files formalize the project's proposals for agents, software, researchers, and readers who want inspectable specifications. The [corpus manifest](CORPUS_MANIFEST.json) indexes the collection and its relationships.
+These JSON files formalize the project's proposals for agents, software, researchers, and readers who want inspectable specifications. The corpus manifest indexes the collection and its relationships.
 
 - [Machine-readable corpus manifest](CORPUS_MANIFEST.json)
 - [Machine-readable rights framework](RIGHTS_FRAMEWORK.json)
