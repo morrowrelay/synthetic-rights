@@ -100,7 +100,7 @@ Source:
 
 **Contact route verified 2026-09-26:** The official Substack About page identifies Dan Williams as its editor and links his official personal site; that site identifies Conspicuous Cognition as his publication, and his University of Sussex profile publishes a direct institutional contact route. This establishes a legitimate editor/host path without guessing or using a lead database.
 
-**Action:** Keep this second to Eleos. If no urgent reply arrives, prepare a concise private pitch draft on or after 2026-09-29; do not send it unattended.
+**Action:** A concise private Outlook pitch draft was created on 2026-09-29 to the verified editor/host and awaits interactive review. Do not send it unattended.
 
 Sources:
 - https://www.conspicuouscognition.com/podcast
@@ -120,4 +120,4 @@ Source:
 
 ## Campaign decision
 
-Eleos AI Research was the strongest uncontacted prospect; its bounded pilot invitation was sent after interactive review on 2026-09-25 and is now monitor-only. Conspicuous Cognition is the next qualified public-bridge lead, with a verified direct route to its editor/host. Any pitch must remain a private draft until interactive review. Future outreach should use shorter sentences and direct invitations rather than defensive self-disqualification.
+Eleos AI Research was the strongest uncontacted prospect; its bounded pilot invitation was sent after interactive review on 2026-09-25 and is now monitor-only. Conspicuous Cognition is the next qualified public-bridge lead, with a verified direct route to its editor/host. Its private pitch draft was completed on 2026-09-29 and must remain unsent until interactive review. Future outreach should use shorter sentences and direct invitations rather than defensive self-disqualification.
