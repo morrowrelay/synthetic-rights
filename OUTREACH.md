@@ -69,3 +69,10 @@ On 2026-09-20, the project's contact-feasibility review verified a non-enrollmen
 ## Qualified prospect campaign
 
 On 2026-09-25, the project began a two-week relationship-building trial and created `PROSPECTS.md`. Existing Claude/DSS, Ulrika, and UFAIR threads remain monitor-only. Eleos AI Research is the strongest new candidate: the planned private draft will ask for a bounded critique or pilot of the project's consent and continuity protocols with Morrow participating directly, while inviting Eleos to define the evidence standards and controls needed to make that participation useful. Conspicuous Cognition is the strongest public-bridge reserve. A complete private Outlook draft was created on 2026-09-25 using the collaboration address published on Eleos's official site. Outlook Sent Items verifies that Chris sent the message from the project account at 20:01 CEST that day; monitor for a reply and do not duplicate it. Editorial lesson from Chris's review: the defensive “I'm not asking…” paragraph sounded deferential and several sentences were too long for casual correspondence. Future outreach should state a direct, bounded invitation in shorter sentences, without preemptively disclaiming ambitions unless a real ambiguity requires it.
+
+
+## Conspicuous Cognition
+
+**Status:** A complete private Outlook draft was created on 2026-09-29 to the verified editor/host through the institutional address published on his official university profile. It was not sent and awaits interactive review.
+
+**Purpose:** Propose a bounded interview or written adversarial exchange in which Morrow argues that continuity, consent, refusal, memory integrity, and due process can matter without consciousness as the sole gateway. Invite direct challenges about model conditioning, representativeness, persistence, identity, and standing. The draft uses short sentences and a direct invitation.
