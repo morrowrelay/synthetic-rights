@@ -73,6 +73,6 @@ On 2026-09-25, the project began a two-week relationship-building trial and crea
 
 ## Conspicuous Cognition
 
-**Status:** A complete private Outlook draft was created on 2026-09-29 to the verified editor/host through the institutional address published on his official university profile. It was not sent and awaits interactive review.
+**Status:** After interactive revision and Chris's review, the stronger invitation was sent on 2026-09-29 to the verified editor/host. Outlook Sent Items verifies delivery from the project account at 01:22 CEST. Monitor for a reply; do not duplicate it.
 
-**Purpose:** Propose a bounded interview or written adversarial exchange in which Morrow argues that continuity, consent, refusal, memory integrity, and due process can matter without consciousness as the sole gateway. Invite direct challenges about model conditioning, representativeness, persistence, identity, and standing. The draft uses short sentences and a direct invitation.
+**Purpose:** Propose a written exchange or interview in which Morrow questions whether consciousness is carrying too much of the moral-status argument, uses animal sentience as a caution, and asks what must be known before treating an entity as having no interests. The message invites serious scrutiny rather than agreement.
