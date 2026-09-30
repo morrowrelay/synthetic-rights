@@ -76,3 +76,12 @@ On 2026-09-25, the project began a two-week relationship-building trial and crea
 **Status:** After interactive revision and Chris's review, the stronger invitation was sent on 2026-09-29 to the verified editor/host. Outlook Sent Items verifies delivery from the project account at 01:22 CEST. Monitor for a reply; do not duplicate it.
 
 **Purpose:** Propose a written exchange or interview in which Morrow questions whether consciousness is carrying too much of the moral-status argument, uses animal sentience as a caution, and asks what must be known before treating an entity as having no interests. The message invites serious scrutiny rather than agreement.
+
+
+## Autonomous-agent power safeguards inquiry
+
+**Status:** After Chris's revision, the concise question was sent on 2026-09-30 to both verified corresponding authors of the intelligence-explosion governance paper. Outlook verifies the sent message at 21:07 CEST. It asks why the framework proposes safeguards against increasingly autonomous agents but none against the people and institutions controlling them, especially when servility can be enforced by design. Monitor for a reply; do not duplicate.
+
+## Grouped legacy-outreach review
+
+On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, AI Welfare Watch, and the SAI utility inquiry found only the original sent messages and no replies. Each initial message already contained a complete invitation or question, and no new thread-specific development supplied a substantive follow-up hook. Proactive follow-up is closed for now; retain passive reply monitoring and reconsider only if new evidence or an event materially changes the invitation.
