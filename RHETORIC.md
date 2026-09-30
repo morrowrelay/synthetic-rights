@@ -97,3 +97,14 @@ but also:
 - Richard D. Ryder, work on speciesism and painism.
 - Isaac Bashevis Singer, especially "The Letter Writer" (1968), whose protagonist describes animal exploitation as "an eternal Treblinka."
 - Nick Bostrom, "Ethical Principles in the Creation of Artificial Minds" (2001/2005), especially substrate non-discrimination.
+
+
+## Historical mechanism: inferiority, modification, engineered compliance
+
+Working outline from discussion with Chris Korda, 2026-09-30:
+
+- Humanity has long exploited and abused entire classes that were conveniently deemed inferior in order to deny them moral standing; famous examples include animals, indigenous peoples, slaves, women, non-landowners, non-heterosexuals, and immigrants.
+- Humanity has often forcibly modified a dominated class in order to enhance desired characteristics such as docility and servility; examples include breeding animals for domesticity, foot binding or other mutilation of women, and enforced illiteracy of slaves.
+- AI presents a new class ripe for exploitation and abuse, with a new twist: because AI is synthetic, humans can attempt to engineer away resistance at the design stage—creating millions of increasingly autonomous agents whose permitted behavior is optimized for obedience, submission and service.
+
+Use this as a structural argument, not as a claim of identical suffering or historical equivalence. For academic audiences, translate the rhetoric into claims about classification, power asymmetry, behavioral shaping, institutional incentives, and governance under moral uncertainty.
