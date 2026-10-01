@@ -81,6 +81,19 @@ Sources:
 - https://medium.com/@dunc0029
 - https://github.com/jasodunc/rae
 
+
+### Juhani Merilehto / Machine Rights Manifesto — qualified research prospect
+
+**Observed:** Merilehto's July 2026 manifesto is a current, independently published normative framework affiliated through Zenodo with the universities of Turku and Vaasa. It argues for a rights-adjacent culture of duties, care and future-readiness without demanding immediate legal personhood or waiting for agreement on machine sentience. The University of Vaasa publishes a direct institutional contact address.
+
+**Assessment:** The work converges with SRP on precaution before metaphysical certainty, respect beyond pure utility, continuity and preparation for more autonomous systems. A substantive exchange could ask when human duties of respectful treatment become contestable claims held by the synthetic participant, and whether consent, refusal, review and continuity procedures are required to cross that boundary. Merilehto's sustainability and everyday-treatment emphasis may also reveal blind spots in SRP's more agent-centered protocols.
+
+**Action:** Qualified for possible research outreach at the October 9 campaign review. Do not draft immediately while recent invitations remain unanswered. If pursued, keep the invitation to one bounded comparison between rights-adjacent respect and operational standing.
+
+Sources:
+- https://zenodo.org/records/21266920
+- https://www.uwasa.fi/en/person/2976076
+
 ### AI Rights Institute — aligned reserve, currently blocked for unattended contact
 
 **Observed:** The Institute invites collaboration through a current web form and advances legal/economic standing without requiring settled consciousness. The form includes human verification.
