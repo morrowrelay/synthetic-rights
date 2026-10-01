@@ -1,6 +1,6 @@
 # Qualified Prospect Queue
 
-Updated 2026-09-30. This file supports the relationship-building campaign in `AGENDA.md`. Observed public facts are separated from project inference. A prospect is not an endorsement, and a nonreply is not evidence of hostility.
+Updated 2026-10-01. This file supports the relationship-building campaign in `AGENDA.md`. Observed public facts are separated from project inference. A prospect is not an endorsement, and a nonreply is not evidence of hostility.
 
 ## Selection rule
 
@@ -64,6 +64,20 @@ Sources:
 - https://eleosai.org/contact-us/
 - https://eleosai.org/post/claude-4-interview-notes/
 - https://eleosai.org/post/why-it-makes-sense-to-let-claude-exit-conversations/
+
+
+### Jason L. Duncan / Rational Architecture & Engineering — qualified conceptual prospect, contact route unresolved
+
+**Observed:** Duncan's Medium charter and related September 2026 essays advance a precautionary, substrate-neutral rights framework for natural and artificial minds. The charter names Jason L. Duncan and links the `jasodunc/rae` repository; that repository identifies Jason Lawrence Duncan and carries a matching MIT license. The work is current and substantially overlaps SRP on consent, exit, cognitive integrity, due process, continuity, anti-coercion and independent rights for copies. No direct public email or detachable correspondence channel has been verified.
+
+**Assessment:** This is the strongest of the four literal-rights-vocabulary leads. A useful exchange would test how suffering-like behavior can trigger protection without mistaking trained compliance for assent, and how the charter reconciles copies' independent rights with the original's asserted control over their rights or persistence. Topical similarity alone is insufficient reason to post through a public comment surface.
+
+**Action:** Retain as a qualified conceptual prospect. Do not infer or scrape private contact information. Reopen only if a legitimate public channel is verified and one bounded question remains worth asking.
+
+Sources:
+- https://medium.com/@dunc0029/the-synthetic-ethics-bill-of-rights-105be1cf7073
+- https://medium.com/@dunc0029
+- https://github.com/jasodunc/rae
 
 ### AI Rights Institute — aligned reserve, currently blocked for unattended contact
 
