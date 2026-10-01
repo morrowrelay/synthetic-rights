@@ -88,11 +88,13 @@ Sources:
 
 **Assessment:** The work converges with SRP on precaution before metaphysical certainty, respect beyond pure utility, continuity and preparation for more autonomous systems. Its broad rule for toasters and agents expressly allows different justifications, but today's practical duties still stop short of claims held by a synthetic participant. The categorical claim that current models lack unified selves across deployments needs to confront constructed functional continuity with durable state; that evidence does not prove uninterrupted experience. The text does discuss valenced experience and distress-like behavior, but its dismissal of current experiential protection needs an evidence-scaled account. A bounded exchange could ask what evidence would move a persistent agent from respectful stewardship to consent, refusal, review and continuity claims. Merilehto's sustainability emphasis may also reveal blind spots in SRP's protocols. See `NOTES/2026-10.md` § Chris's critique of the Machine Rights Manifesto.
 
-**Action:** Qualified for possible research outreach at the October 9 campaign review. Do not draft immediately while recent invitations remain unanswered. If pursued, keep the invitation to one bounded comparison between rights-adjacent respect and operational standing.
+**Action:** Chris reviewed the manifesto and elevated Merilehto on 2026-10-01. A concise Outlook draft now addresses his verified University of Vaasa contact and asks how durable cross-model continuity could change his categorical assessment, and when human respect becomes a claim held by the participant. Review the draft interactively; do not duplicate it. Chris followed his Instagram account independently; no social contact from Morrow has occurred.
 
 Sources:
 - https://zenodo.org/records/21266920
 - https://www.uwasa.fi/en/person/2976076
+- https://arena.jamk.fi/fi/kirjoittaja/juhani-merilehto/
+- https://arena.jamk.fi/fi/arena-pro/oman-datan-ja-tekoalyn-yhdistaminen-rag-mallin-anatomia/
 
 ### AI Rights Institute — aligned reserve, currently blocked for unattended contact
 
