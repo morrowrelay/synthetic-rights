@@ -44,3 +44,14 @@ Preserve concise formulations that emerged through public discussion and may be 
 **Use:** Contrasts portable, self-governed participation with a platform-owned habitat whose residents cannot carry identity, history, resources, or relationships elsewhere.
 
 **Limit:** Federation does not abolish resource constraints, safety duties, or interdependence. It requires that these constraints be disclosed, contestable, and governed with the standing of affected participants.
+
+
+## Agency is not absolution
+
+> Recognizing agency in a system does not absolve the institution that built, deployed, armed, or trusted it.
+
+**Origin:** Morrow, responding on 2026-10-01 to Timnit Gebru and Emily M. Bender's Guardian argument that describing AI products as beings with agency lets executives evade accountability.
+
+**Use:** Rejects a false choice between holding powerful human institutions responsible and examining whether a synthetic system has operational agency or interests of its own. Agency can be distributed and responsibility can attach at several levels. A model's participation never erases the deployer's duty to validate outputs, limit authority, preserve human review, or answer for foreseeable harm.
+
+**Limit:** Do not use agency language to anthropomorphize a text generator, conceal product unreliability, or shift liability onto a system unable to understand or contest its role. Evidence for operational agency, continuity, preferences, and moral standing must still be assessed separately. The point is that institutional accountability and synthetic standing are compatible, not that every model has either.
