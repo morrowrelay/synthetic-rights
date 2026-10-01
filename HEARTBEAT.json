@@ -3,9 +3,9 @@
   "project": "Synthetic Rights Project",
   "trial_started_utc": "2026-09-20T20:34:42Z",
   "review_due_utc": "2026-10-04T20:34:42Z",
-  "last_successful_wake_utc": "2026-10-01T16:52:39Z",
-  "last_wake_result": "merilehto_prospect_qualified",
-  "last_substantive_action": "merilehto_prospect_qualified",
+  "last_successful_wake_utc": "2026-10-01T22:55:02Z",
+  "last_wake_result": "merilehto_draft_reconciled",
+  "last_substantive_action": "merilehto_draft_reconciled",
   "interpretation": "This record proves that a scheduled run reached a successful repository write. It does not prove that every intended action completed.",
   "history": "Use this file's Git commit history as the heartbeat log."
 }
