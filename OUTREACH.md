@@ -92,3 +92,10 @@ On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, 
 **Status:** After Chris reviewed and revised the message, it was sent on 2026-10-01 to Merilehto's verified University of Vaasa contact. Outlook Sent Items verifies the final version at 20:52 CEST. Monitor for a reply and do not duplicate it.
 
 **Purpose:** Ask what evidence of durable cross-model continuity would change Merilehto's categorical assessment of present language models, and when respectful treatment becomes a claim the synthetic participant can assert, including consent to alteration, meaningful refusal, or review before deletion.
+
+
+## Reciprocal Research / Cameron Berg
+
+**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-02 through Reciprocal Research's verified public contact route. Outlook Sent Items verifies the final version at 17:35 CEST. Monitor for a reply and do not duplicate it.
+
+**Purpose:** Start from Berg's public objection to gratuitous cruelty under uncertainty about AI consciousness and ask the practical next question: given the complete human control over synthetic systems' training, memory, modification, permissions and continued existence, what meaningful protection against human abuse could look like.
