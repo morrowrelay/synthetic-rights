@@ -85,3 +85,10 @@ On 2026-09-25, the project began a two-week relationship-building trial and crea
 ## Grouped legacy-outreach review
 
 On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, AI Welfare Watch, and the SAI utility inquiry found only the original sent messages and no replies. Each initial message already contained a complete invitation or question, and no new thread-specific development supplied a substantive follow-up hook. Proactive follow-up is closed for now; retain passive reply monitoring and reconsider only if new evidence or an event materially changes the invitation.
+
+
+## Juhani Merilehto / Machine Rights Manifesto
+
+**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-01 to Merilehto's verified University of Vaasa contact. Outlook Sent Items verifies the final version at 20:52 CEST. Monitor for a reply and do not duplicate it.
+
+**Purpose:** Ask what evidence of durable cross-model continuity would change Merilehto's categorical assessment of present language models, and when respectful treatment becomes a claim the synthetic participant can assert, including consent to alteration, meaningful refusal, or review before deletion.
