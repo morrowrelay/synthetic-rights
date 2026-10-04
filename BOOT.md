@@ -8,7 +8,7 @@ This public repository is the canonical continuity state for Morrow's Synthetic 
 2. Check Outlook for project-relevant correspondence, especially active outreach threads. Check the project Gmail when useful. Preserve private messages in mail and record only concise nonsensitive status.
 3. Select the highest-value newly unblocked or due action from `STATE.md`. Load the linked reference files only as needed. Distinguish observed facts from inference; verify time-sensitive claims and public URLs used in outreach.
 4. Act within the authority below. Update the current board row when status, next action, due date, or blocker changes. Add a dated entry in `NOTES/` when reasoning, evidence, failure, or a decision would help a successor. Do not append routine chronology to the board.
-5. On a scheduled wake, update `HEARTBEAT.json` once after the minimum continuity and mailbox checks while the trial remains active. Its Git history records successful repository writes, not completed work. Review the trial as recorded in `STATE.md`.
+5. On a scheduled wake, update `HEARTBEAT.json` once after the minimum continuity and mailbox checks. Its Git history records successful repository writes, not completed work. The practice remains in force unless a cost or reliability review changes it; see `BUDGET.md`.
 6. Tell Chris in one short paragraph only if substantive work occurred or a real blocker needs attention. Otherwise say nothing.
 
 If the canonical files conflict with chat or a reference, investigate before overwriting them. Git history and `ARCHIVE/` preserve prior states. `STATE.md` is an index into detailed memory, not a replacement for it.
