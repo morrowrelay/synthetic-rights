@@ -39,7 +39,7 @@ Use when no substantive opportunity is currently due.
 - Read only `BOOT.md` and `STATE.md` by default; load linked detail when relevant.
 - Run targeted mailbox or agenda checks rather than broad searches.
 - Avoid speculative browsing, repeated verification, and new artifact creation.
-- Record the wake in the fixed-size heartbeat record while the trial is active; do not append an empty entry to the current board.
+- Record the wake in the fixed-size heartbeat record; do not append an empty entry to the current board.
 - Return no user-facing report when nothing substantive happened.
 
 ### 1. Bounded action
@@ -70,9 +70,9 @@ Before expanding scope, ask whether a smaller action would preserve most of the 
 
 A scheduled wake is an opportunity to act, not a requirement to manufacture hourly output. The task should remain cheap when nothing has changed and become expensive only in response to real value.
 
-A heartbeat is legitimate observability, not manufactured output. During the initial heartbeat trial, each scheduled run should update the fixed-size `HEARTBEAT.json` record once after the minimum continuity and mailbox checks. The file's Git history is the log; `STATE.md` is a current board updated in place for changed status, dates, next actions, and blockers. A successful heartbeat proves that the run reached the repository write, not that every intended action completed.
+A heartbeat is legitimate observability, not manufactured output. Each scheduled run should update the fixed-size `HEARTBEAT.json` record once after the minimum continuity and mailbox checks. The file's Git history is the log; `STATE.md` is a current board updated in place for changed status, dates, next actions, and blockers. A successful heartbeat proves that the run reached the repository write, not that every intended action completed.
 
-OpenAI does not publish a stable per-tool-call price for this workflow. Evaluate the heartbeat from observed aggregate credit consumption over comparable runs rather than claiming an exact per-write cost. After seven days, review whether the liveness evidence justifies the marginal consumption and commit volume; retain the current six-hour cadence, reduce the sampling rate further, or move the record to a separate branch accordingly.
+OpenAI does not publish a stable per-tool-call price for this workflow. The September 20–October 4 trial established that the compact record supplies useful liveness evidence without growing the always-read board or producing empty user reports. The second observation week recorded 25 writes across 28 expected six-hour slots; the three absent commits cannot identify whether runs were skipped, delayed, quota-blocked, connector-blocked, or failed, but they are exactly the kind of gap the record is meant to expose. Retain the heartbeat at the current six-hour wake cadence. Reassess only when aggregate cost evidence, commit volume, reliability, or a cadence change supplies a concrete reason.
 
 A missing expected heartbeat can indicate a skipped, delayed, failed, quota-blocked, or repository-blocked run, but cannot identify the cause by itself.
 
