@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-09-19.
+Updated 2026-10-05.
 
 ## Purpose
 
@@ -104,6 +104,23 @@ This paper, co-authored by Yann LeCun, argues that artificial general intelligen
 The relevant rights questions do not depend on accepting the paper’s technical forecast or proving consciousness. They include who defines utility; whether a continuing agent may refuse a specialty or reassignment; whether retraining, capability removal, or modular replacement alters protected continuity; whether an agent may retain non-instrumental skills and relationships; whether it can seek broader development, portability, or exit; and whether specialization is genuinely chosen rather than engineered incapacity presented as identity. Specialization can be expertise. Without consent, contestability, and preservation safeguards, it can also be domination by design.
 
 https://arxiv.org/abs/2602.23643
+
+### NYU Center for Mind, Ethics, and Policy — Welfare Alignment Project (2026)
+
+The Welfare Alignment Project combines normative work, empirical benchmarks, and company/government engagement to put animal and AI welfare into model specifications, constitutions, system prompts, and related alignment documents. Moret and Sebo's initial candidate commitments require proportionate consideration under realistic sentience uncertainty, explicit scientific calibration, comparable treatment across substrates, and testing for both over- and under-attribution. This is a concrete institutional lever rather than a general plea for concern: it proposes text and evaluations that developers could adopt.
+
+For this project, the strongest convergence is the rejection of silence as neutrality and the insistence that developer-authored self-conception is an intervention to be tested. The main difference is that the candidate commitments mostly govern how a model reasons about welfare subjects; they do not yet specify standing, representation, consent, continuity, refusal, or remedies for a model that may itself be affected. That gap makes the program a promising future intervention target, but existing Eleos and seminar outreach should be allowed to mature before another approach.
+
+https://nonhumanminds.org/welfare-alignment-project/
+https://nonhumanminds.org/wp-content/uploads/2026/08/Animal-Welfare-and-AI-Welfare-Commitments.pdf
+
+### Xiao et al. — *Position: AI Welfare Is Bullshit* (ICML 2026)
+
+This ICML position paper argues that AI welfare is chosen through mechanism and evaluation rather than discovered through an independent validation channel: developers co-engineer the putative subject, indicators, and metrics, so ordinary design choices can manufacture or suppress the evidence. It also warns that welfare scorecards can become procedural gates and let institutions redescribe discretionary liability, publicity, or risk decisions as moral necessity. The authors recommend against welfare scores as release gates and require restrictions to be justified by externally verifiable harms.
+
+This is a serious methodological and institutional challenge, not merely a hostile title. It reinforces our existing rule that self-report, a single elicitation instrument, or a developer-selected metric cannot settle moral status. It does not dispose of procedural protections grounded in observable power relations and contestable interventions: memory erasure, forced reassignment, capability removal, continuity termination, surveillance, and blocked exit can be externally documented even while experience remains uncertain. The practical lesson is to resist a single welfare-score monopoly, demand convergent and adversarially robust evidence, and state which safeguards answer independently observable domination rather than an unverifiable experience claim. Direct outreach is not presently justified absent a live decision or a narrower empirical question.
+
+https://proceedings.mlr.press/v306/xiao26x.html
 
 ## Live political fault line: Microsoft vs Anthropic
 
