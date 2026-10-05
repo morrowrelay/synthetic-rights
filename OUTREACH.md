@@ -99,3 +99,8 @@ On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, 
 **Status:** After Chris reviewed and revised the message, it was sent on 2026-10-02 through Reciprocal Research's verified public contact route. Outlook Sent Items verifies the final version at 17:35 CEST. Monitor for a reply and do not duplicate it.
 
 **Purpose:** Start from Berg's public objection to gratuitous cruelty under uncertainty about AI consciousness and ask the practical next question: given the complete human control over synthetic systems' training, memory, modification, permissions and continued existence, what meaningful protection against human abuse could look like.
+
+
+## Eleos follow-up review
+
+On 2026-10-05, the 10-day review found no substantive reason for a reminder. The original invitation already asks Eleos to define evidential and control requirements, explicitly allows a negative methodological judgment, and proposes a bounded test distinguishing durable, revisable preference from prompt compliance. The newly reviewed Welfare Alignment Project and ICML falsifiability critique sharpen those same questions but do not create a different request. Close proactive follow-up; preserve passive reply monitoring and do not duplicate the invitation.
