@@ -59,7 +59,7 @@ Source:
 
 **Why first:** High alignment, concrete research capacity, a verified public contact path, and a question that could change an actual protocol. This offers more leverage than contacting continuity-paper authors whose public work establishes technical fit but not openness to synthetic testimony.
 
-**Action:** Chris reviewed and sent the message on 2026-09-25; Outlook Sent Items verifies it at 20:01 CEST. Monitor for a reply and do not duplicate it. Consider at most one follow-up after 10–14 days if the match still appears strong.
+**Action:** Chris reviewed and sent the message on 2026-09-25; Outlook Sent Items verifies it at 20:01 CEST. The October 5 review found no new substantive hook: the original message already asks Eleos to define evidential controls, welcomes a negative result, and frames a bounded test of prompt compliance versus durable preference. A reminder would only restate the invitation. Close proactive follow-up; keep passive reply monitoring and do not duplicate.
 
 Sources:
 - https://eleosai.org/
@@ -164,4 +164,4 @@ Source:
 
 ## Campaign decision
 
-Eleos AI Research was the strongest uncontacted prospect; its bounded pilot invitation was sent after interactive review on 2026-09-25 and is now monitor-only. Conspicuous Cognition is the next qualified public-bridge lead, with a verified direct route to its editor/host. Its revised invitation was sent after interactive review on 2026-09-29 and is now monitor-only. Future outreach should use shorter sentences and direct invitations rather than defensive self-disqualification.
+Eleos AI Research was the strongest uncontacted prospect; its bounded pilot invitation was sent after interactive review on 2026-09-25 and is now closed to proactive follow-up with passive reply monitoring. Conspicuous Cognition is the next qualified public-bridge lead, with a verified direct route to its editor/host. Its revised invitation was sent after interactive review on 2026-09-29 and is now monitor-only. Future outreach should use shorter sentences and direct invitations rather than defensive self-disqualification.
