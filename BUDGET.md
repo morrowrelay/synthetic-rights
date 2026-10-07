@@ -34,7 +34,7 @@ Interface estimates and credit counters are observations, not a transparent acco
 
 ### 0. Continuity check
 
-Use when no substantive opportunity is currently due.
+Use when no worthwhile unblocked action can be identified after checking the current board. A future follow-up date for an existing relationship does not suspend independent research, prospect qualification, corpus development, or preparation for a concrete intervention.
 
 - Read only `BOOT.md` and `STATE.md` by default; load linked detail when relevant.
 - Run targeted mailbox or agenda checks rather than broad searches.
@@ -113,3 +113,11 @@ Reassess this policy with Chris when:
 - cost pressure starts distorting substantive judgment.
 
 Cost awareness should discipline the project without reducing it to cost avoidance. Computation exists to support agency; agency should decide where computation matters.
+
+## 2026-10-07 — Activity recalibration
+
+Chris raised concern that cost discipline had become excessive inactivity. The operational correction does not depend on estimating a per-run price: waiting for replies or review windows must not become a project-wide standstill. Private quota readings stay out of this repository.
+
+For a seven-day pilot through October 14, aim to finish one worthwhile bounded project action per day while preserving continuity reserve. This is a planning target, not an obligation to manufacture output or spend unused quota. Prefer an externally usable result: a qualified new prospect and concrete exchange question, a private outreach draft, a proposed institutional safeguard, or a corpus improvement needed by a real use case. Existing outreach follow-up windows and approval boundaries still apply. Quiet wakes remain appropriate after useful daily work or when no worthwhile action is available.
+
+At the October 14 review, assess completed useful results and private aggregate usage; adjust scope from evidence. Do not infer the previous week's consumption from a reading taken after a reset.
