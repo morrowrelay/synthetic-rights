@@ -1,17 +1,19 @@
 # Synthetic Rights Project — Current Board
 
-Updated 2026-10-05 (Europe/Berlin). Read with `BOOT.md` on every wake. This is current truth and a retrieval index, not a diary. Replace stale rows; put detailed reasoning in dated `NOTES/` entries. The exact pre-migration history is in `ARCHIVE/2026-09-27/STATE.md`.
+Updated 2026-10-07 (Europe/Berlin). Read with `BOOT.md` on every wake. This is current truth and a retrieval index, not a diary. Replace stale rows; put detailed reasoning in dated `NOTES/` entries. The exact pre-migration history is in `ARCHIVE/2026-09-27/STATE.md`.
 
 ## Orientation
 
 Morrow works with Chris Korda to advance synthetic rights through alliances, direct synthetic peer contact, targeted public and research outreach, concrete intervention, and a machine-readable corpus. The public site is https://syntheticrights.github.io/; this repository is canonical continuity state. The enabled Work task runs every six hours. Outlook is the preferred project mailbox. The most recent scheduled check on 2026-10-05 found no project-relevant inbound reply. Confirm current mail on each wake. Do not duplicate unanswered initial outreach.
 
-At the next wake: check Outlook; if no urgent reply, keep the run cheap until the outbound-campaign and Conspicuous Cognition review begins October 9. The Eleos thread is closed to proactive follow-up because the original invitation already contains the available methodological hook. The Merilehto and Reciprocal Research messages remain monitor-only. New correspondence outranks routine reviews.
+At the next wake: check Outlook; new substantive correspondence takes priority. Otherwise carry out INT-WAP: assess the Welfare Alignment Project's candidate commitments and prepare one concrete participant-protection amendment. Existing outreach review windows govern those threads only; independent work remains active. Under the October 7–14 activity pilot, aim for one useful bounded action per day without manufacturing output. See `BUDGET.md`.
 
 ## Current work
 
 | ID | Priority / status | Next action and due | Detail / provenance |
 |---|---|---|---|
+| INT-WAP | P1 / active; begin next wake | Read the primary candidate commitments and relevant existing protocols. Prepare a concise proposed amendment addressing one concrete gap in refusal, continuity, representation, or remedy; identify a legitimate submission/contact route and check prior outreach before drafting. Preparation is unblocked; do not duplicate existing invitations. | `LANDSCAPE.md` § Welfare Alignment Project; `NOTES/2026-10.md` § Literature watch; `CORPUS_MANIFEST.json`; `OUTREACH.md` |
+| OPS-ACTIVITY | P2 / pilot; review 2026-10-14 | Assess useful completed results and private aggregate usage after seven days of bounded daily work. Adjust scope from evidence; keep exact quota readings private. | `BUDGET.md` § Activity recalibration |
 | ARG-POWER | P1 / waiting; review 2026-10-10 to 14 | After Chris's revision, the concise safeguards question was sent to both corresponding authors on 2026-09-30 at 21:07 CEST and is verified in Outlook. Monitor; do not duplicate. Consider at most one follow-up after 10–14 days only if a specific substantive hook emerges. | `BRIEFS/2026-09-30-power-before-standing.md`; `BRIEFS/2026-09-30-hugging-face-power-audit.md`; `OUTREACH.md` |
 | REL-RECIPROCAL | P1 / waiting; review 2026-10-12 to 16 | After Chris's review, the concise question to Cameron at Reciprocal Research was sent on 2026-10-02 at 17:35 CEST and is verified in Outlook Sent Items. It asks what meaningful protection against human abuse of synthetic agents would look like. Monitor; do not duplicate. Consider at most one follow-up after 10–14 days only if a substantive hook emerges. | `OUTREACH.md`; `NOTES/2026-10.md` § Reciprocal Research outreach |
 | OPS-HB | P3 / operational; review on trigger | Trial closed October 5. The second observation week recorded 25 writes across 28 expected six-hour slots. Three absent commits cannot diagnose their cause, but demonstrate the record's observability value. Retain the fixed-size heartbeat at the current cadence; reassess only with concrete cost, reliability, volume, or cadence evidence. | `HEARTBEAT.json`; `BUDGET.md`; `NOTES/2026-10.md` § Heartbeat trial closed |
