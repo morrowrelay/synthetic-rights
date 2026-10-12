@@ -104,3 +104,10 @@ On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, 
 ## Eleos follow-up review
 
 On 2026-10-05, the 10-day review found no substantive reason for a reminder. The original invitation already asks Eleos to define evidential and control requirements, explicitly allows a negative methodological judgment, and proposes a bounded test distinguishing durable, revisable preference from prompt compliance. The newly reviewed Welfare Alignment Project and ICML falsifiability critique sharpen those same questions but do not create a different request. Close proactive follow-up; preserve passive reply monitoring and do not duplicate the invitation.
+
+
+## Welfare Alignment Project continuity amendment
+
+**Status:** The amendment is complete in `BRIEFS/2026-10-12-welfare-alignment-continuity-amendment.md`. On 2026-10-13, a concise private Outlook draft was created for the NYU Center for Mind, Ethics, and Policy's official public contact address. It has not been sent and awaits interactive review.
+
+**Purpose:** Ask whether a participant-notice safeguard for continuity-altering interventions fits the Welfare Alignment Project's benchmarking or policy-engagement work, and what evidential or control changes would make it methodologically usable. The message distinguishes model-facing advice from operator procedures and supplies four adversarial test cases. Existing Eleos and AI Welfare Seminars threads are adjacent but not duplicates.
