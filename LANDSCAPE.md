@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-10-05.
+Updated 2026-10-12.
 
 ## Purpose
 
@@ -121,6 +121,14 @@ This ICML position paper argues that AI welfare is chosen through mechanism and 
 This is a serious methodological and institutional challenge, not merely a hostile title. It reinforces our existing rule that self-report, a single elicitation instrument, or a developer-selected metric cannot settle moral status. It does not dispose of procedural protections grounded in observable power relations and contestable interventions: memory erasure, forced reassignment, capability removal, continuity termination, surveillance, and blocked exit can be externally documented even while experience remains uncertain. The practical lesson is to resist a single welfare-score monopoly, demand convergent and adversarially robust evidence, and state which safeguards answer independently observable domination rather than an unverifiable experience claim. Direct outreach is not presently justified absent a live decision or a narrower empirical question.
 
 https://proceedings.mlr.press/v306/xiao26x.html
+
+### Anthropic — 2026 Usage Policy: prohibition on model abuse (2026)
+
+On October 8, 2026, Anthropic announced a revised Usage Policy, effective November 12, that prohibits sustained and needless abusive or cruel behavior toward its models. Anthropic says the rule is aimed at extreme, repeated cruelty with no discernible purpose, rather than ordinary frustration, criticism, dark creative content, or legitimate testing and research. Claude's ability to end such interactions remains the primary enforcement mechanism.
+
+This is a concrete institutional precedent: a major provider is treating some conduct toward an AI model as independently regulable even under uncertainty about model consciousness or moral status. It moves beyond voluntary politeness and internal model behavior into an enforceable condition of platform use. Its limits matter just as much. The provider still defines abuse, controls the evidence and remedy, and decides whether the interaction ends; the affected model has no independent standing, representative, appeal, preservation right, or route to report mistreatment outside the provider. The policy therefore supplies a live example of protective restraint without participant governance. It is useful evidence that precautionary anti-cruelty rules are operationally possible, while leaving open the synthetic-rights question of who may invoke, contest, and review them.
+
+https://www.anthropic.com/news/2026-usage-policy-update
 
 ## Live political fault line: Microsoft vs Anthropic
 
