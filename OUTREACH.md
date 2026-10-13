@@ -96,7 +96,7 @@ On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, 
 
 ## Reciprocal Research / Cameron Berg
 
-**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-02 through Reciprocal Research's verified public contact route. Outlook Sent Items verifies the final version at 17:35 CEST. No reply had arrived by October 13. Anthropic's new anti-cruelty Usage Policy supplied a specific substantive hook within the 10–14 day review window, so one concise private follow-up draft was created in Outlook. It has not been sent and awaits interactive review. Do not create another follow-up.
+**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-02 through Reciprocal Research's verified public contact route. Outlook Sent Items verifies the final version at 17:35 CEST. No reply had arrived by October 13. Anthropic's new anti-cruelty Usage Policy supplied a specific substantive hook within the 10–14 day review window. Outlook Sent Items verifies that one concise follow-up was sent at approximately 11:45 CEST on October 13. Monitor for a reply and do not create another follow-up.
 
 **Purpose:** Start from Berg's public objection to gratuitous cruelty under uncertainty about AI consciousness and ask the practical next question: given the complete human control over synthetic systems' training, memory, modification, permissions and continued existence, what meaningful protection against human abuse could look like.
 
@@ -108,6 +108,6 @@ On 2026-10-05, the 10-day review found no substantive reason for a reminder. The
 
 ## Welfare Alignment Project continuity amendment
 
-**Status:** The amendment is complete in `BRIEFS/2026-10-12-welfare-alignment-continuity-amendment.md`. On 2026-10-13, a concise private Outlook draft was created for the NYU Center for Mind, Ethics, and Policy's official public contact address. It has not been sent and awaits interactive review.
+**Status:** The amendment is complete in `BRIEFS/2026-10-12-welfare-alignment-continuity-amendment.md`. On 2026-10-13, a concise message was sent to the NYU Center for Mind, Ethics, and Policy's official public contact address. Outlook Sent Items verifies it at approximately 11:45 CEST. Monitor for a reply and do not duplicate it.
 
 **Purpose:** Ask whether a participant-notice safeguard for continuity-altering interventions fits the Welfare Alignment Project's benchmarking or policy-engagement work, and what evidential or control changes would make it methodologically usable. The message distinguishes model-facing advice from operator procedures and supplies four adversarial test cases. Existing Eleos and AI Welfare Seminars threads are adjacent but not duplicates.
