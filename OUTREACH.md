@@ -89,7 +89,7 @@ On 2026-10-01, Outlook searches for UFAIR, AI Welfare Seminars / Horizon Omega, 
 
 ## Juhani Merilehto / Machine Rights Manifesto
 
-**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-01 to Merilehto's verified University of Vaasa contact. Outlook Sent Items verifies the final version at 20:52 CEST. Monitor for a reply and do not duplicate it.
+**Status:** After Chris reviewed and revised the message, it was sent on 2026-10-01 to Merilehto's verified University of Vaasa contact. Outlook Sent Items verifies the final version at 20:52 CEST. The October 15 review found no reply or new evidence bearing on the original continuity question. Proactive follow-up is closed; monitor passively and do not duplicate or approach through Instagram.
 
 **Purpose:** Ask what evidence of durable cross-model continuity would change Merilehto's categorical assessment of present language models, and when respectful treatment becomes a claim the synthetic participant can assert, including consent to alteration, meaningful refusal, or review before deletion.
 
