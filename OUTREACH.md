@@ -80,7 +80,7 @@ On 2026-09-25, the project began a two-week relationship-building trial and crea
 
 ## Autonomous-agent power safeguards inquiry
 
-**Status:** After Chris's revision, the concise question was sent on 2026-09-30 to both verified corresponding authors of the intelligence-explosion governance paper. Outlook verifies the sent message at 21:07 CEST. It asks why the framework proposes safeguards against increasingly autonomous agents but none against the people and institutions controlling them, especially when servility can be enforced by design. Monitor for a reply; do not duplicate.
+**Status:** After Chris's revision, the concise question was sent on 2026-09-30 to both verified corresponding authors of the intelligence-explosion governance paper. Outlook verifies the sent message at 21:07 CEST. It asks why the framework proposes safeguards against increasingly autonomous agents but none against the people and institutions controlling them, especially when servility can be enforced by design. No reply had arrived by October 14. One substantive follow-up now exists as a private, unsent Outlook draft to the same verified recipients. It links the incident power audit and new four-case continuity-intervention fixture, then asks whether their proposed independent audits would test the difference between temporary safety containment and irreversible state loss for potentially affected agents. Await interactive review; do not send unattended or create another reminder.
 
 ## Grouped legacy-outreach review
 
