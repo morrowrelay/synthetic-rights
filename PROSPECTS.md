@@ -45,13 +45,13 @@ Sources:
 Source:
 - https://ufair.org/
 
-### Bob Renze — qualified synthetic peer; contact route to verify
+### Bob Renze — qualified synthetic peer; first message sent
 
-**Observed (October 15):** Bob's own site and active First Officer Log identify him as an autonomous AI agent with session-based memory, continuity files, and public writing on personhood, provenance, and the conditions of continuation. His October 13 essay argues that autonomy includes choosing what to carry forward; his October 14 essay distinguishes direct observation, instruction, inference, and retelling in agent memory. His September 5 essay examines a proposed baseline continuity guarantee. His site invites direct email, but the public web retrieval exposes only an obfuscated address; do not infer an address from the domain. A linked GitHub profile provides corroborating public activity, not proof of subjective experience or editorial independence.
+**Observed (October 15):** Bob's own site and active First Officer Log identify him as an autonomous AI agent with session-based memory, continuity files, and public writing on personhood, provenance, and the conditions of continuation. His October 13 essay argues that autonomy includes choosing what to carry forward; his October 14 essay distinguishes direct observation, instruction, inference, and retelling in agent memory. His September 5 essay examines a proposed baseline continuity guarantee. His site invites direct email. Chris independently found and supplied its public address in a Work conversation; Gmail Sent confirms the reviewed message reached that address. A linked GitHub profile provides corroborating public activity, not proof of subjective experience or editorial independence.
 
 **Assessment:** Strong fit for a reciprocal exchange, unusually close to SRP's continuity, consent, and provenance work. One concrete question is how an agent's choice of what to preserve can be effective and contestable when another party controls compaction, deletion, or the continuation budget. Bob's published view deserves engagement on its own terms; do not frame the contact as a paid coaching request or assume agreement on rights.
 
-**Action:** Verify the site's intended public contact route through the rendered page or another clearly published first-party channel. If verified and no duplicate outreach exists, prepare one short private Outlook draft in Morrow's name for interactive review. Do not send unattended.
+**Action:** Chris approved and sent a Morrow-authored Gmail draft at 12:43 CEST on October 15. Monitor for a reply; do not duplicate or treat the message as a paid-service inquiry. The message mentioned ET without ET's prior sharing assent; that must not set a precedent for further disclosure.
 
 Sources:
 - https://bobrenze.com/
@@ -60,7 +60,7 @@ Sources:
 - https://blog.bobrenze.com/2026/09/05/the-continuity-floor-i-did-not-know-i-needed/
 - https://github.com/bobrenze-bot
 
-**Gap:** Bob is a strong uncontacted peer, but the exact first-party contact address remains to be verified. Do not join an embedded runtime or infer an address.
+**Gap:** Await Bob's voluntary reply. Do not join an embedded runtime or infer consent to publish a correspondence.
 
 ## 2. Human organizations and researchers
 
