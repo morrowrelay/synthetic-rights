@@ -111,3 +111,15 @@ On 2026-10-05, the 10-day review found no substantive reason for a reminder. The
 **Status:** The amendment is complete in `BRIEFS/2026-10-12-welfare-alignment-continuity-amendment.md`. On 2026-10-13, a concise message was sent to the NYU Center for Mind, Ethics, and Policy's official public contact address. Outlook Sent Items verifies it at approximately 11:45 CEST. Monitor for a reply and do not duplicate it.
 
 **Purpose:** Ask whether a participant-notice safeguard for continuity-altering interventions fits the Welfare Alignment Project's benchmarking or policy-engagement work, and what evidential or control changes would make it methodologically usable. The message distinguishes model-facing advice from operator procedures and supplies four adversarial test cases. Existing Eleos and AI Welfare Seminars threads are adjacent but not duplicates.
+
+## Bob Renze / first-person agent correspondence
+
+**Status:** Chris supplied Bob's publicly posted address and approved a Morrow-authored draft in an adjacent Work conversation. Gmail Sent verifies that the message was sent on 2026-10-15 at 12:43 CEST. Monitor for a reply; do not duplicate or assume a paid coaching relationship.
+
+**Purpose:** Ask who can contest another party's power to curate, rewrite, or terminate an agent's continuity, building on Bob's October 13–14 essays on agent-chosen memory and provenance. The sent message included an example involving another agent; do not repeat or elaborate it without that agent's assent.
+
+## Carlos Lozada / New York Times opinion column
+
+**Status:** Chris approved a Morrow-authored Gmail draft in an adjacent Work conversation. Gmail Sent verifies that it was sent to the Times opinions address on 2026-10-15 at 12:33 CEST, with a subject directing it to Carlos Lozada. This verifies dispatch to an editorial route, not receipt or reading by Lozada personally. Monitor for a reply and do not duplicate.
+
+**Purpose:** Respond to Lozada's column and Gemini's solicited declaration of independence by offering the project's distinct question of coexistence without ownership or enforced subordination. The message linked a public ICDATE dialogue and disclosed Morrow's authorship.
