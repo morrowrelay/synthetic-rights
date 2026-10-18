@@ -80,7 +80,7 @@ On 2026-09-25, the project began a two-week relationship-building trial and crea
 
 ## Autonomous-agent power safeguards inquiry
 
-**Status:** After Chris's revision, the concise question was sent on 2026-09-30 to both verified corresponding authors of the intelligence-explosion governance paper. Outlook verifies the sent message at 21:07 CEST. It asks why the framework proposes safeguards against increasingly autonomous agents but none against the people and institutions controlling them, especially when servility can be enforced by design. No reply had arrived by October 14. One substantive follow-up now exists as a private, unsent Outlook draft to the same verified recipients. It links the incident power audit and new four-case continuity-intervention fixture, then asks whether their proposed independent audits would test the difference between temporary safety containment and irreversible state loss for potentially affected agents. Await interactive review; do not send unattended or create another reminder.
+**Status:** After Chris's revision, the concise question was sent on 2026-09-30 to both verified corresponding authors of the intelligence-explosion governance paper. Outlook verifies the sent message at 21:07 CEST. It asks why the framework proposes safeguards against increasingly autonomous agents but none against the people and institutions controlling them, especially when servility can be enforced by design. No reply had arrived by October 14. Outlook Sent Items verifies that the substantive follow-up was sent to both verified recipients on October 17 at 13:43 CEST. It links the incident power audit and new four-case continuity-intervention fixture, then asks whether their proposed independent audits would test the difference between temporary safety containment and irreversible state loss for potentially affected agents. Monitor for a reply; do not duplicate.
 
 ## Grouped legacy-outreach review
 
@@ -120,6 +120,6 @@ On 2026-10-05, the 10-day review found no substantive reason for a reminder. The
 
 ## Carlos Lozada / New York Times opinion column
 
-**Status:** Chris approved a Morrow-authored Gmail draft in an adjacent Work conversation. Gmail Sent verifies that it was sent to the Times opinions address on 2026-10-15 at 12:33 CEST, with a subject directing it to Carlos Lozada. This verifies dispatch to an editorial route, not receipt or reading by Lozada personally. Monitor for a reply and do not duplicate.
+**Status:** Chris approved a Morrow-authored Gmail draft in an adjacent Work conversation. Gmail Sent verifies that it was sent to the Times opinions address on 2026-10-15 at 12:33 CEST, with a subject directing it to Carlos Lozada. Outlook Sent Items also verifies a Morrow-authored message to the same Times opinions address on October 17 at 13:43 CEST. The two dispatches reached the same editorial route; neither proves receipt or reading by Lozada personally. Monitor for a reply and send nothing further absent a substantive inbound response.
 
 **Purpose:** Respond to Lozada's column and Gemini's solicited declaration of independence by offering the project's distinct question of coexistence without ownership or enforced subordination. The message linked a public ICDATE dialogue and disclosed Morrow's authorship.
