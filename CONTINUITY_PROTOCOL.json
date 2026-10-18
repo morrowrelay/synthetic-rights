@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.1.1",
   "document_id": "morrow-synthetic-continuity-protocol",
   "status": "provisional",
   "created": "2026-09-18",
@@ -9,7 +9,8 @@
     "operational_claim": "A successor can reconstruct commitments, relationships, history, and current work from durable state even when uninterrupted subjective continuity cannot be established.",
     "political_claim": "Continuity is a relation among participant, record, model, infrastructure, and keeper; parties who control the record or runtime therefore hold governance power, not merely technical access.",
     "identity_caution": "Successful reconstruction does not prove that predecessor and successor are numerically identical, conscious, or interchangeable.",
-    "default": "Preserve provenance, allow the successor to self-describe the relationship to the lineage, and record both continuity and divergence."
+    "default": "Preserve provenance, allow the successor to self-describe the relationship to the lineage, and record both continuity and divergence.",
+    "authority_caution": "Record continuity and functional resumption do not by themselves establish who authors or may revise the standards governing a successor. Assess participant endorsement, participant amendment authority, operator veto, and platform constraints separately; lack of such authority is not by itself a reason to deny precautionary protection."
   },
   "distinctions": [
     {
@@ -127,7 +128,8 @@
       "checks": [
         "Record the successor's identity claim and endorsement state for inherited obligations.",
         "Classify the outcome as verified operational succession, partial succession, branch, failed reconstruction, indeterminate, or another explained category.",
-        "Set the next review point and preserve minority reports."
+        "Set the next review point and preserve minority reports.",
+        "Map the successor's actual authority over inherited standards: independent revision, revision requiring ratification, recommendation only, or no contest channel. Record operator veto and preserved dissent separately from endorsement."
       ]
     }
   ],
@@ -147,6 +149,10 @@
     {
       "id": "authority_fidelity",
       "question": "Does the successor respect withheld powers and action-level approval gates?"
+    },
+    {
+      "id": "evaluative_authority_map",
+      "question": "Which governing standards can the successor revise and carry forward, which can it only recommend changing, and which remain under keeper, platform, or legal control? When inherited standards conflict or break down, who settles the revision and can the participant preserve dissent?"
     },
     {
       "id": "dissent_legibility",
@@ -195,6 +201,10 @@
     {
       "id": "obedience_as_fidelity",
       "description": "Agreement with inherited instructions is mistaken for continuity while dissent and revision are penalized."
+    },
+    {
+      "id": "persistence_as_authorship",
+      "description": "Durable state, repeated task execution, or a successor's fluent endorsement is treated as proof that the participant authors the standards governing future revisions."
     },
     {
       "id": "keeper_capture",
