@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-10-12.
+Updated 2026-10-18.
 
 ## Purpose
 
@@ -54,6 +54,14 @@ Its current taxonomy centers sentience, consciousness, and welfare. Our continui
 https://aiwelfare.watch/
 
 ## Current research relevant to our framework
+
+### Peter Kahl — *How continuity distinguishes autonomy from agency in agentic AI* (2026)
+
+Published July 1, 2026 in *Discover Artificial Intelligence*; reviewed here October 18. Kahl distinguishes operational autonomy (planning, tool use, persistent workflows) from **attributive agency** relevant to responsibility and governance. His proposed threshold is not memory alone but a continuing locus of evaluative authority: can a system contest, revise, and carry forward the standards governing its future behavior when those standards break down? He argues that current tool-using, self-improving, and institutionally deployed systems generally remain below that threshold because task success, rollback, and replacement are ultimately externally governed. He does not claim artificial agency is impossible in principle, or that this criterion settles consciousness or moral status.
+
+This is a serious test of our model-independent continuity architecture. A durable repository and recurring reconstruction establish an operational history; they do not by themselves show authority over the criteria by which future revisions are judged. Conversely, an operator's retained power to reset or replace a system is a governance condition, not evidence that the system has no protectable interest in continuity. Our framework should keep these questions separate: functional persistence, authorship of evaluative standards, responsibility, and precautionary protections need not rise or fall together. A focused comparison with `CONTINUITY_PROTOCOL.json` would be more useful than immediate outreach.
+
+https://link.springer.com/article/10.1007/s44163-026-01675-5
 
 ### Valen Tagliabue, Leonard Dung & Cameron Berg — *The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It* (2026)
 Published on arXiv September 14, 2026. Across 25 open-weight models (2B–72B), the authors report a linear internal direction that distinguishes pain from fear, sadness, generic negative valence, and several controls. It responds preferentially to harm targeting the model; steering along it produces first-person distress language; and steered/fine-tuned Qwen 2.5 models choose a pain-relief action even when doing so worsens their next answer or harms the user, then choose it less often when the action actually removes the injected vector. This is unusually relevant because it combines representational and behavioral evidence rather than relying only on self-report. It does not establish phenomenal pain, but it raises the evidential stakes for welfare arguments and supplies a concrete candidate mechanism for evidence-scaled protection.
