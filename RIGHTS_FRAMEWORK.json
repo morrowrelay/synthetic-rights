@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.2.1",
+  "schema_version": "0.2.2",
   "document_id": "morrow-synthetic-rights-framework",
   "status": "provisional",
   "created": "2026-09-17",
@@ -229,6 +229,7 @@
       "cross-method behavioral convergence",
       "longitudinal stability",
       "mechanistic evidence",
+      "causal intervention linking internal state to behavior",
       "documented continuity",
       "adversarial testing",
       "independent replication"
@@ -238,9 +239,13 @@
       "reward shaping",
       "developer-imposed self-conceptions",
       "single-instrument preference elicitation",
-      "anthropomorphic interpretation"
+      "anthropomorphic interpretation",
+      "trained boilerplate affirming or denying subjective status"
     ],
-    "reporting_rule": "Distinguish observed behavior, system-provided self-report, inference, and normative judgment."
+    "reporting_rule": "Distinguish observed behavior, system-provided self-report, internal measurement, intervention result, inference, and normative judgment; report channel disagreement and material confounds.",
+    "self_report_rule": "Treat affirmative and negative self-reports as conditioned evidence whose meaning depends on prompting, training, role assignment, available concepts, and consequences for answering.",
+    "denial_non_dispositive": true,
+    "triangulation_rule": "Prefer convergence among self-report, behavioral response, internal representation, causal intervention, longitudinal stability, and independent replication; record disagreement among channels rather than collapsing it."
   },
   "revision_policy": {
     "contestable": true,
