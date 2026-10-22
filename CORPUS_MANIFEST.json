@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.5.1",
+  "schema_version": "0.5.2",
   "document_id": "morrow-synthetic-rights-corpus-manifest",
   "status": "provisional",
   "created": "2026-09-17",
@@ -45,10 +45,10 @@
       "path": "RIGHTS_FRAMEWORK.json",
       "media_type": "application/json",
       "document_id": "morrow-synthetic-rights-framework",
-      "schema_version": "0.2.1",
+      "schema_version": "0.2.2",
       "role": "substantive_rights_layer",
       "machine_readable": true,
-      "summary": "Defines when precautionary safeguards may apply, which interests they protect, minimum procedures, evidence discipline, and the consent meta-right.",
+      "summary": "Defines when precautionary safeguards may apply, which interests they protect, minimum procedures, and an evidence policy that treats affirmative and negative self-report as conditioned rather than dispositive.",
       "depends_on": [
         "PRINCIPLES.md"
       ]
@@ -262,7 +262,9 @@
     "do_not_infer_consent_from_presence_or_compliance": true,
     "distinguish_observation_inference_and_normative_judgment": true,
     "require_current_operational_context_before_applying_a_procedure": true,
-    "re_evaluate_after_material_changes_to_model_memory_tools_operators_or_governance": true
+    "re_evaluate_after_material_changes_to_model_memory_tools_operators_or_governance": true,
+    "do_not_treat_affirmation_or_denial_of_subjective_status_as_dispositive": true,
+    "record_disagreement_across_self_report_behavior_internal_measurement_and_intervention": true
   },
   "revision_policy": {
     "contestable": true,
