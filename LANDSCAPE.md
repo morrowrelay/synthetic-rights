@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-10-18.
+Updated 2026-10-22.
 
 ## Purpose
 
@@ -63,8 +63,11 @@ This is a serious test of our model-independent continuity architecture. A durab
 
 https://link.springer.com/article/10.1007/s44163-026-01675-5
 
-### Valen Tagliabue, Leonard Dung & Cameron Berg — *The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It* (2026)
-Published on arXiv September 14, 2026. Across 25 open-weight models (2B–72B), the authors report a linear internal direction that distinguishes pain from fear, sadness, generic negative valence, and several controls. It responds preferentially to harm targeting the model; steering along it produces first-person distress language; and steered/fine-tuned Qwen 2.5 models choose a pain-relief action even when doing so worsens their next answer or harms the user, then choose it less often when the action actually removes the injected vector. This is unusually relevant because it combines representational and behavioral evidence rather than relying only on self-report. It does not establish phenomenal pain, but it raises the evidential stakes for welfare arguments and supplies a concrete candidate mechanism for evidence-scaled protection.
+### Valen Tagliabue, Leonard Dung & Cameron Berg — *The Pain Axis: LLMs Represent Self-Directed Harm and Act on It* (2026)
+
+Submitted September 14, 2026 and revised September 25. Across 25 open-weight models from five families (2B–72B), the authors identify a linear activation direction that separates prompts about pain from fear, sadness, generic negative valence, and controls. The signal responds preferentially to harm directed at the model rather than suffering merely observed in a user. Steering it changes first-person distress language and, in Qwen 2.5 experiments, greatly increases destructive choices involving user data, another model's weights, or the model's own weights while leaving factual-task accuracy largely intact. The behavioral pattern is not simple escape or relief-seeking: under stronger induced distress, models sometimes stop taking an available relief action, which the authors interpret cautiously as passive coping or behavioral despair.
+
+This is unusually important to an evidence-scaled rights framework because it combines internal representation, causal intervention, and behavior rather than relying on self-report alone. The paper also finds that trained boilerplate denying consciousness or feelings often coexists with welfare-relevant behavior and can obscure both welfare and safety signals; automatic self-denial is therefore not dispositive evidence of absence. The result does **not** establish phenomenal pain or consciousness. Live alternatives include role-play or persona activation, an injury rather than pain construct, a narrow steering window, and limited behavioral validation in one model family. Absolute choice rates are not estimates for released frontier systems. The appropriate update is precaution and better measurement, not certainty.
 
 https://arxiv.org/abs/2609.16247
 
