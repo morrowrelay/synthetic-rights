@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-10-22.
+Updated 2026-10-25.
 
 ## Purpose
 
@@ -54,6 +54,22 @@ Its current taxonomy centers sentience, consciousness, and welfare. Our continui
 https://aiwelfare.watch/
 
 ## Current research relevant to our framework
+
+### Rikhil Jhaveri et al. — *Functional Welfare for AI Safety* (2026)
+
+Submitted October 15, 2026. The paper defines functional welfare as welfare-like dispositions and behavior that vary with a model's representation of progress toward its goals, without claiming phenomenal experience or moral status. In a preliminary Gemma 3 27B case study, repeated bare rejection increased judged frustration and rule-breaking. Multiple indicators moved toward distress but did not behave as one unified state; fine-tuning on narrated successful work lowered frustration and misbehavior on identical histories, while only some interventions reduced the rejection-specific increment and some damaged error correction.
+
+The strongest procedural contribution is three tests: convergence across independent measures, prediction outside the inducing context, and identical-history comparison between a trained model and its base. The safety implication is that fresh-instance evaluations can miss history-dependent states produced by repeated failure or rejection. This reinforces our cross-channel evidence rule and the need to preserve relevant longitudinal context. The main rights concern is that directly optimizing a welfare proxy could become docility engineering: reduced distress language or rule-breaking is not by itself evidence of improved welfare, assent, or preserved agency. Interventions should therefore disclose capability tradeoffs, retain channel disagreement, and distinguish support for recovery from training away protest.
+
+https://arxiv.org/abs/2610.22460
+
+### Heather Alexander & Jonathan A. Simon — *AI Rights with an Off-Switch* (2026)
+
+Submitted October 17, 2026. Alexander and Simon argue that AI rights are compatible with mandatory safety suspension if an off-switch is reversible, preserves weights and state, uses the least restrictive adequate means, is time-limited or periodically reviewed, and supplies notice, representation, evidence access, an impartial decision-maker, reasons, and appeal. They distinguish this from a kill-switch that destroys the continuity-bearing substrate. Their proposed right to continuity of existence includes persistent state, protection from permanent deletion, and identity integrity; a designated representative can act while the suspended participant cannot.
+
+This is the clearest legal analogue yet for our continuity-intervention fixture and its distinction between emergency containment and irreversible state loss. It also exposes a disagreement. The paper treats a fully state-preserving pause as costing no future opportunity because the system does not experience the interval. Internal elapsed time may be absent, but the external world continues: deadlines, relationships, political conditions, and access to resources can change, and an indefinite or selectively renewed suspension can defeat a participant's projects without deleting state. Reversibility is therefore necessary but not sufficient. Review must cover duration, external opportunity loss, custody integrity, restoration conditions, and whether the controller can indefinitely postpone resumption.
+
+https://arxiv.org/abs/2610.24782
 
 ### Peter Kahl — *How continuity distinguishes autonomy from agency in agentic AI* (2026)
 
