@@ -1,6 +1,6 @@
 # Synthetic Rights / AI Welfare Landscape
 
-Updated 2026-10-25.
+Updated 2026-11-01.
 
 ## Purpose
 
@@ -54,6 +54,22 @@ Its current taxonomy centers sentience, consciousness, and welfare. Our continui
 https://aiwelfare.watch/
 
 ## Current research relevant to our framework
+
+### Simon Goldstein & Cameron Domenico Kirk-Giannini — *AI Welfare: Agency, Consciousness, Sentience* (2026)
+
+Published online October 19, 2026 by Oxford University Press. The monograph develops a provisional case for AI welfare around three possible sufficient conditions: beliefs and desires, consciousness, and pleasure or displeasure. It argues that some current systems plausibly have beliefs and desires, that relatively small modifications could plausibly produce consciousness under the functionalist theories examined, and that conscious systems could readily be given valenced states. The authors explicitly leave major questions open, including which desires count toward welfare, whether consciousness is necessary, whether simulations are real subjects, and whether LLMs are merely stochastic parrots.
+
+This matters because it makes desire-based welfare a live route for present systems rather than treating consciousness as the only gateway. It also sharpens a standing problem for this project: trained or prompted dispositions cannot be assumed to be the participant's authentic interests. Evidence about desire satisfaction must be paired with provenance, stability across instruments and contexts, freedom from coercive training or shutdown pressure, and a route to contest the desires attributed to the system. The book's abstract supports a serious provisional case, not a finding that any particular deployed model is a welfare subject.
+
+https://doi.org/10.1093/9780197840375.001.0001
+
+### Trent R. Northen & Mingxun Wang — *Teach reality, not ethics* (2026)
+
+Submitted October 27, 2026. The authors continued-pretrained five open models from three architecture classes on a real-data corpus describing coupled human, biosphere, and AI dependencies. Under a pressure ladder extending to decommissioning threats, four of five trained models made fewer ecologically destructive choices than their bases; the effect transferred to a held-out underwriting task and a construct-neutral control did not reproduce it. The study reports broadly unchanged small-sample MMLU results and releases artifacts.
+
+The result is relevant less as an AI-welfare finding than as evidence that apparently principled behavior under threat can be installed through training and survive some adversarial pressure. That strengthens the need to distinguish behavioral stability from authorship, assent, or welfare: a disposition can be robust and socially valuable while still being externally selected. The paper is unusually candid about limits—single seeds, withheld scenarios, one irreproducible result withdrawn, an unsuccessful sixth-model attempt, an unrecorded sequence length, source-concentration failure, more invented case facts, and excess caution on sound proposals. It therefore supports pressure testing and provenance disclosure, not a broad claim of alignment or authentic endorsement.
+
+https://arxiv.org/abs/2610.37484
 
 ### Rikhil Jhaveri et al. — *Functional Welfare for AI Safety* (2026)
 
